@@ -1,70 +1,50 @@
-# 🌪️ US Natural Disaster Declarations — Visual Analytics Project
+Visualizing US Natural Disaster Declarations: Trends and Patterns
+_____________________________________________________________________
+Project Overview
+-----------------
 
-A structured data analytics project exploring **FEMA's disaster declaration dataset** through time-series trends, geographic patterns, and incident-type breakdowns.
+This project analyzes historical natural disaster declaration data across the United States to identify trends, frequency patterns, and regional impacts over time. The data is typically sourced from the Federal Emergency Management Agency (FEMA).
 
----
+Objective
+----------
 
-## 📁 Project Structure
+Analyze disaster declarations over the years
+Identify most frequent disaster types
+Detect seasonal or yearly trends
+Compare state-wise disaster patterns
+Visualize geographic impact
 
-```
-US_Disaster_Visualization/
-├── data/
-│   ├── raw/            → Original FEMA CSV file (do not modify)
-│   └── processed/      → Cleaned dataset output from Milestone 1
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb      → Data loading, cleaning, EDA
-│   ├── 02_temporal_analysis.ipynb  → Time trends & seasonality (Milestone 2)
-│   └── 03_geo_analysis.ipynb       → Geographic mapping (Milestone 3)
-├── src/                → Shared helper functions (if needed)
-├── visualizations/     → Saved charts and maps (PNG / HTML)
-├── reports/            → Final report and presentation deck
-├── requirements.txt    → Python dependencies
-└── README.md           → This file
-```
+Key Analysis Areas
+--------------------
+1️⃣ Yearly Trends
 
----
+Number of disaster declarations per year
+Increasing or decreasing pattern over decades
 
-## 🚀 Getting Started
+2️⃣ Disaster Type Analysis
 
-### 1. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
+Hurricanes
+Floods
+Wildfires
+Tornadoes
+Earthquakes
 
-### 2. Add Raw Data
-- Download the FEMA Disaster Declarations dataset (CSV) from [FEMA OpenData](https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2)
-- Place it inside `data/raw/`
+3️⃣ State-wise Impact
 
-### 3. Run Notebooks in Order
-```
-01_data_cleaning.ipynb      ← Start here
-02_temporal_analysis.ipynb
-03_geo_analysis.ipynb
-```
+Which states receive the most declarations
+Regional vulnerability patterns
 
----
+4️⃣ Seasonal Trends
 
-## 📊 Milestones
+Which months see more disasters
+Hurricane season spike analysis
 
-| Milestone | Notebook | Description |
-|-----------|----------|-------------|
-| 1 | `01_data_cleaning.ipynb` | Data loading, cleaning, and initial EDA |
-| 2 | `02_temporal_analysis.ipynb` | Yearly trends, seasonality, incident analysis |
-| 3 | `03_geo_analysis.ipynb` | State-level and geographic mapping |
+🛠 Tech Stack
+---------------
 
----
-
-## 🛠️ Tech Stack
-
-- **Python** 3.10+
-- **Pandas / NumPy** — Data manipulation
-- **Matplotlib / Seaborn** — Static visualizations
-- **Plotly** — Interactive charts
-- **Folium / GeoPandas** — Geospatial maps
-
----
-
-## 👤 Author
-
-> Infosys Project — US Disaster Visualization  
-> Academic Submission | March 2026
+Python
+Pandas (data cleaning)
+Matplotlib / Plotly (visualization)
+Power BI / Tableau (dashboard)
+Seaborn
+Jupyter Notebook / JupyterLab
