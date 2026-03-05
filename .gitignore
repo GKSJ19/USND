@@ -1,0 +1,11 @@
+data/
+visualizations/
+src/
+reports/
+notebooks/milstone 1.ipynb
+requirements.txt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Thumbs.db
+.DS_Store
