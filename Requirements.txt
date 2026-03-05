@@ -1,0 +1,21 @@
+Python: The core programming language for data analysis and visualization. 
+● Pandas: Essential library for data loading, cleaning, manipulation, and preliminary 
+analysis (like grouping and aggregation). 
+● NumPy: Fundamental library for numerical operations, often used implicitly by Pandas 
+and visualization libraries. 
+● Matplotlib: A foundational plotting library in Python, often used directly or as the 
+backend for other libraries like Seaborn. Good for basic charts and customization. 
+● Seaborn: Built on top of Matplotlib, Seaborn provides a higher-level interface for 
+creating attractive statistical graphics (like bar charts, histograms, heatmaps). Excellent 
+for exploring relationships and distributions. 
+● Plotly / Plotly Express: Used for creating interactive visualizations (like hover effects, 
+zooming) suitable for web embedding or dynamic exploration. Plotly Express offers a 
+simpler syntax for common charts. 
+● Folium / GeoPandas (Optional, for advanced maps): 
+    ○ Folium: Useful for creating interactive leaflet.js maps directly in Python (e.g., 
+plotting points, creating choropleth maps if you have state boundaries). 
+    ○ GeoPandas: Extends Pandas to handle geospatial data (like shapefiles 
+mentioned in the dataset description). Essential if you plan to do complex spatial 
+analysis or mapping beyond basic state-level choropleths. 
+● Jupyter Notebook / JupyterLab: The standard interactive development environment for 
+data science in Python, allowing you to combine code, 
