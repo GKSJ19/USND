@@ -1,0 +1,1322 @@
+declarationNumber,declarationType,declarationDate,year,month,quarter,day,dayOfWeek,state,stateName,region,county,incidentType,disasterTitle,startDate,endDate,closeDate
+DR-1,Disaster,1953-05-02,1953.0,5.0,2.0,2.0,Saturday,GA,Georgia,South,,Tornado,Tornado,1953-05-02,1953-05-02,1954-06-01
+DR-4,Disaster,1953-06-02,1953.0,6.0,2.0,2.0,Tuesday,MI,Michigan,Midwest,,Tornado,Tornado,1953-06-02,1953-06-02,1956-02-01
+DR-5,Disaster,1953-06-06,1953.0,6.0,2.0,6.0,Saturday,MT,Montana,West,,Flood,Floods,1953-06-06,1953-06-06,1955-12-01
+DR-6,Disaster,1953-06-09,1953.0,6.0,2.0,9.0,Tuesday,MI,Michigan,Midwest,,Tornado,Tornado,1953-06-09,1953-06-09,
+DR-7,Disaster,1953-06-11,1953.0,6.0,2.0,11.0,Thursday,MA,Massachusetts,Northeast,,Tornado,Tornado,1953-06-11,1953-06-11,1956-06-01
+DR-8,Disaster,1953-06-11,1953.0,6.0,2.0,11.0,Thursday,IA,Iowa,Midwest,,Flood,Flood,1953-06-11,1953-06-11,1955-11-01
+DR-11,Disaster,1953-07-02,1953.0,7.0,3.0,2.0,Thursday,NH,New Hampshire,Northeast,,Fire,Forest Fire,1953-07-02,1953-07-02,1956-02-01
+DR-14,Disaster,1953-12-06,1953.0,12.0,4.0,6.0,Sunday,MS,Mississippi,South,,Tornado,Tornado,1953-12-06,1953-12-06,1956-06-01
+DR-15,Disaster,1954-02-05,1954.0,2.0,1.0,5.0,Friday,CA,California,West,,Flood,Flood and Erosion,1954-02-05,1954-02-05,1957-09-01
+DR-18,Disaster,1954-07-01,1954.0,7.0,3.0,1.0,Thursday,TX,Texas,South,,Flood,Flood,1954-07-01,1954-07-01,1959-07-01
+DR-21,Disaster,1954-08-04,1954.0,8.0,3.0,4.0,Wednesday,WV,West Virginia,South,,Flood,Flood,1954-08-04,1954-08-04,1957-05-01
+DR-22,Disaster,1954-09-02,1954.0,9.0,3.0,2.0,Thursday,MA,Massachusetts,Northeast,,Hurricane,Hurricanes,1954-09-02,1954-09-02,1956-12-01
+DR-23,Disaster,1954-09-02,1954.0,9.0,3.0,2.0,Thursday,RI,Rhode Island,Northeast,,Hurricane,Hurricanes,1954-09-02,1954-09-02,1956-12-01
+DR-26,Disaster,1954-10-07,1954.0,10.0,4.0,7.0,Thursday,NY,New York,Northeast,,Hurricane,Hurricanes,1954-10-07,1954-10-07,1956-12-01
+DR-31,Disaster,1954-11-10,1954.0,11.0,4.0,10.0,Wednesday,AK,Alaska,West,,Other,Severe Hardship,1954-11-10,1954-11-10,1957-09-01
+DR-32,Disaster,1955-04-01,1955.0,4.0,2.0,1.0,Friday,HI,Hawaii,West,,Volcano,Volcano,1955-04-01,1955-04-01,1957-06-01
+DR-35,Disaster,1955-06-01,1955.0,6.0,2.0,1.0,Wednesday,OK,Oklahoma,South,,Flood,Flood and Tornado,1955-06-01,1955-06-01,1959-12-01
+DR-53,Disaster,1956-04-05,1956.0,4.0,2.0,5.0,Thursday,MI,Michigan,Midwest,,Tornado,Tornado,1956-04-05,1956-04-05,
+DR-54,Disaster,1956-04-07,1956.0,4.0,2.0,7.0,Saturday,OK,Oklahoma,South,,Tornado,Tornadoes,1956-04-07,1956-04-07,1959-06-01
+DR-59,Disaster,1956-06-12,1956.0,6.0,2.0,12.0,Tuesday,CO,Colorado,West,,Flood,Flood,1956-06-12,1956-06-12,1959-04-01
+DR-61,Disaster,1956-08-09,1956.0,8.0,3.0,9.0,Thursday,PA,Pennsylvania,Northeast,,Storm,Storm,1956-08-09,1956-08-09,1959-06-01
+DR-64,Disaster,1956-10-04,1956.0,10.0,4.0,4.0,Thursday,LA,Louisiana,South,,Hurricane,Hurricane,1956-10-04,1956-10-04,1960-03-01
+DR-68,Disaster,1957-02-01,1957.0,2.0,1.0,1.0,Friday,VA,Virginia,South,,Flood,Floods,1957-02-01,1957-02-01,1958-03-01
+DR-69,Disaster,1957-03-01,1957.0,3.0,1.0,1.0,Friday,OR,Oregon,West,,Flood,Flood,1957-03-01,1957-03-01,1960-06-01
+DR-70,Disaster,1957-03-06,1957.0,3.0,1.0,6.0,Wednesday,WA,Washington,West,,Flood,Floods,1957-03-06,1957-03-06,1961-01-01
+DR-81,Disaster,1957-09-05,1957.0,9.0,3.0,5.0,Thursday,KS,Kansas,Midwest,,Flood,Floods,1957-09-05,1957-09-05,1959-01-01
+DR-82,Disaster,1958-04-04,1958.0,4.0,2.0,4.0,Friday,CA,California,West,,Flood,Heavy Rainstorms and Flood,1958-04-04,1958-04-04,1961-08-01
+DR-85,Disaster,1958-06-06,1958.0,6.0,2.0,6.0,Friday,TX,Texas,South,,Tornado,"Tornadoes, Rain, Hail and Floods",1958-06-06,1958-06-06,1961-03-01
+DR-86,Disaster,1958-07-05,1958.0,7.0,3.0,5.0,Saturday,IA,Iowa,Midwest,,Flood,Floods,1958-07-05,1958-07-05,1960-09-01
+DR-87,Disaster,1958-10-01,1958.0,10.0,4.0,1.0,Wednesday,NC,North Carolina,South,,Hurricane,Hurricane and Severe Storm,1958-10-01,1958-10-01,1960-12-01
+DR-88,Disaster,1958-11-06,1958.0,11.0,4.0,6.0,Thursday,KS,Kansas,Midwest,,Flood,Floods,1958-11-06,1958-11-06,1961-03-01
+DR-92,Disaster,1959-07-08,1959.0,7.0,3.0,8.0,Wednesday,OK,Oklahoma,South,,Flood,Flood,1959-07-08,1959-07-08,1961-05-01
+DR-93,Disaster,1959-07-08,1959.0,7.0,3.0,8.0,Wednesday,TX,Texas,South,,Flood,Floods,1959-07-08,1959-07-08,
+DR-95,Disaster,1959-11-09,1959.0,11.0,4.0,9.0,Monday,OK,Oklahoma,South,,Flood,Heavy Rains and Floods,1959-11-09,1959-11-09,
+DR-98,Disaster,1960-04-04,1960.0,4.0,2.0,4.0,Monday,NE,Nebraska,Midwest,,Flood,Floods,1960-04-04,1960-04-04,
+DR-99,Disaster,1960-04-08,1960.0,4.0,2.0,8.0,Friday,SD,South Dakota,Midwest,,Flood,Floods,1960-04-08,1960-04-08,1961-11-02
+DR-106,Disaster,1960-09-12,1960.0,9.0,3.0,12.0,Monday,FL,Florida,South,,Hurricane,Hurricane Donna,1960-09-12,1960-09-12,
+DR-110,Disaster,1961-03-02,1961.0,3.0,1.0,2.0,Thursday,GA,Georgia,South,,Flood,Floods,1961-03-02,1961-03-02,
+DR-122,Disaster,1962-03-06,1962.0,3.0,1.0,6.0,Tuesday,CA,California,West,,Flood,Floods,1962-03-06,1962-03-06,1964-02-03
+DR-123,Disaster,1962-03-09,1962.0,3.0,1.0,9.0,Friday,VA,Virginia,South,,Flood,"Severe Storms, High Tides, and Flooding",1962-03-09,1962-03-09,
+DR-124,Disaster,1962-03-09,1962.0,3.0,1.0,9.0,Friday,NJ,New Jersey,Northeast,,Flood,"Severe Storm, High Tides, and Flooding",1962-03-09,1962-03-09,
+DR-125,Disaster,1962-03-09,1962.0,3.0,1.0,9.0,Friday,WV,West Virginia,South,,Flood,"Severe Storm, High Tides, and Flooding",1962-03-09,1962-03-09,
+DR-126,Disaster,1962-03-09,1962.0,3.0,1.0,9.0,Friday,DE,Delaware,South,,Flood,"Severe Storms, High Tides, and Flooding",1962-03-09,1962-03-09,
+DR-127,Disaster,1962-03-09,1962.0,3.0,1.0,9.0,Friday,MD,Maryland,South,,Flood,"Severe Storms, High Tides, and Flooding",1962-03-09,1962-03-09,
+DR-128,Disaster,1962-03-12,1962.0,3.0,1.0,12.0,Monday,KY,Kentucky,South,,Flood,Floods,1962-03-12,1962-03-12,1964-11-09
+DR-131,Disaster,1962-05-10,1962.0,5.0,2.0,10.0,Thursday,NE,Nebraska,Midwest,,Flood,Floods,1962-05-10,1962-05-10,
+DR-133,Disaster,1962-09-05,1962.0,9.0,3.0,5.0,Wednesday,IA,Iowa,Midwest,,Flood,Floods,1962-09-05,1962-09-05,
+DR-134,Disaster,1962-09-05,1962.0,9.0,3.0,5.0,Wednesday,NE,Nebraska,Midwest,,Flood,Floods,1962-09-05,1962-09-05,
+DR-135,Disaster,1962-10-10,1962.0,10.0,4.0,10.0,Wednesday,MS,Mississippi,South,,Chemical,Chlorine Barge Accident,1962-10-10,1962-10-10,1970-06-02
+DR-139,Disaster,1962-11-05,1962.0,11.0,4.0,5.0,Monday,LA,Louisiana,South,,Chemical,Chlorine Barge Accident,1962-11-05,1962-11-05,1963-07-12
+DR-140,Disaster,1962-11-12,1962.0,11.0,4.0,12.0,Monday,GU,Guam,Territory,,Typhoon,Typhoon Karen,1962-11-12,1962-11-12,
+DR-146,Disaster,1963-03-02,1963.0,3.0,1.0,2.0,Saturday,WA,Washington,West,,Flood,Floods,1963-03-02,1963-03-02,
+DR-155,Disaster,1963-07-04,1963.0,7.0,3.0,4.0,Thursday,WY,Wyoming,West,,Flood,Heavy Rains and Flooding,1963-07-04,1963-07-04,1964-12-03
+DR-157,Disaster,1963-08-02,1963.0,8.0,3.0,2.0,Friday,AR,Arkansas,South,,Flood,Heavy Rains and Flooding,1963-08-02,1963-08-02,
+DR-169,Disaster,1964-04-01,1964.0,4.0,2.0,1.0,Wednesday,CA,California,West,,Other,Seismic Sea Wave,1964-04-01,1964-04-01,
+DR-171,Disaster,1964-06-08,1964.0,6.0,2.0,8.0,Monday,VI,Virgin Islands,Territory,,Drought,Extreme Drought Conditions,1964-06-08,1964-06-08,1966-07-12
+DR-172,Disaster,1964-06-09,1964.0,6.0,2.0,9.0,Tuesday,MT,Montana,West,,Flood,Heavy Rains and Flooding,1964-06-09,1964-06-09,
+DR-173,Disaster,1964-07-08,1964.0,7.0,3.0,8.0,Wednesday,MO,Missouri,Midwest,,Flood,Severe Storms and Flooding,1964-07-08,1964-07-08,
+DR-175,Disaster,1964-09-08,1964.0,9.0,3.0,8.0,Tuesday,FL,Florida,South,,Hurricane,Hurricane Cleo,1964-09-08,1964-09-08,
+DR-176,Disaster,1964-09-10,1964.0,9.0,3.0,10.0,Thursday,FL,Florida,South,,Hurricane,Hurricane Dora,1964-09-10,1964-09-10,1966-08-08
+DR-177,Disaster,1964-09-10,1964.0,9.0,3.0,10.0,Thursday,GA,Georgia,South,,Hurricane,Hurricane Dora,1964-09-10,1964-09-10,
+DR-178,Disaster,1964-10-03,1964.0,10.0,4.0,3.0,Saturday,LA,Louisiana,South,,Hurricane,Hurricane Hilda,1964-10-03,1964-10-03,
+DR-180,Disaster,1964-11-04,1964.0,11.0,4.0,4.0,Wednesday,GA,Georgia,South,,Flood,Flooding,1964-11-04,1964-11-04,1966-04-08
+DR-181,Disaster,1964-12-10,1964.0,12.0,4.0,10.0,Thursday,FM,,,,Typhoon,Typhoon Louise,1964-12-10,1964-12-10,
+DR-188,Disaster,1965-04-11,1965.0,4.0,2.0,11.0,Sunday,MN,Minnesota,Midwest,Aitkin County,Flood,Flooding,1965-04-11,1965-04-11,
+DR-195,Disaster,1965-05-10,1965.0,5.0,2.0,10.0,Monday,ND,North Dakota,Midwest,Barnes County,Flood,Flooding,1965-05-10,1965-05-10,1967-11-07
+DR-196,Disaster,1965-05-11,1965.0,5.0,2.0,11.0,Tuesday,WA,Washington,West,King County,Earthquake,Earthquake,1965-05-11,1965-05-11,
+DR-202,Disaster,1965-07-01,1965.0,7.0,3.0,1.0,Thursday,NM,New Mexico,West,Colfax County,Flood,Severe Storms and Flooding,1965-07-01,1965-07-01,
+DR-208,Disaster,1965-09-10,1965.0,9.0,3.0,10.0,Friday,LA,Louisiana,South,Ward 9 Police Jury Ward,Hurricane,Hurricane Betsy,1965-09-10,1965-09-10,
+DR-211,Disaster,1965-12-07,1965.0,12.0,4.0,7.0,Tuesday,CA,California,West,Riverside County,Flood,Heavy Rains and Flooding,1965-12-07,1965-12-07,1970-03-03
+DR-213,Disaster,1966-02-10,1966.0,2.0,1.0,10.0,Thursday,AS,American Samoa,Territory,Eastern District,Typhoon,Typhoon and High Tides,1966-02-10,1966-02-10,1968-08-12
+DR-218,Disaster,1966-05-12,1966.0,5.0,2.0,12.0,Thursday,TX,Texas,South,Anderson County,Flood,Severe Storms and Flooding,1966-05-12,1966-05-12,1968-06-12
+DR-219,Disaster,1966-06-10,1966.0,6.0,2.0,10.0,Friday,KS,Kansas,Midwest,Riley County,Tornado,Tornadoes and Severe Storms,1966-06-10,1966-06-10,
+DR-220,Disaster,1966-07-09,1966.0,7.0,3.0,9.0,Saturday,ND,North Dakota,Midwest,Grant County,Flood,Severe Storms and Flooding,1966-07-09,1966-07-09,1968-08-12
+DR-223,Disaster,1967-01-02,1967.0,1.0,1.0,2.0,Monday,CA,California,West,Inyo County,Flood,Severe Storms and Flooding,1967-01-02,1967-01-02,1970-04-10
+DR-234,Disaster,1968-02-10,1968.0,2.0,1.0,10.0,Saturday,NC,North Carolina,South,Beaufort County,Ice,Severe Ice Storm,1968-02-10,1968-02-10,
+DR-236,Disaster,1968-05-03,1968.0,5.0,2.0,3.0,Friday,AR,Arkansas,South,Crawford County,Tornado,Tornado and Severe Storm,1968-05-03,1968-05-03,
+DR-237,Disaster,1968-05-04,1968.0,5.0,2.0,4.0,Saturday,KY,Kentucky,South,Bracken County,Tornado,Tornadoes and Severe Storms,1968-05-04,1968-05-04,
+DR-238,Disaster,1968-05-04,1968.0,5.0,2.0,4.0,Saturday,OH,Ohio,Midwest,Brown County,Tornado,Tornadoes and Severe Storms,1968-05-04,1968-05-04,1971-03-01
+DR-242,Disaster,1968-06-05,1968.0,6.0,2.0,5.0,Wednesday,IL,Illinois,Midwest,Champaign County,Tornado,"Tornadoes, Severe Storms, and Flooding",1968-06-05,1968-06-05,
+DR-243,Disaster,1968-06-05,1968.0,6.0,2.0,5.0,Wednesday,OH,Ohio,Midwest,Adams County,Flood,Heavy Rains and Flooding,1968-06-05,1968-06-05,
+DR-244,Disaster,1968-06-10,1968.0,6.0,2.0,10.0,Monday,TX,Texas,South,Hill County,Flood,Heavy Rains and Flooding,1968-06-10,1968-06-10,
+DR-246,Disaster,1968-07-05,1968.0,7.0,3.0,5.0,Friday,TX,Texas,South,Aransas County,Flood,"Severe Storms, High Winds, and Flooding",1968-07-05,1968-07-05,
+DR-248,Disaster,1968-08-04,1968.0,8.0,3.0,4.0,Sunday,IA,Iowa,Midwest,Black Hawk County,Flood,Heavy Rains and Flooding,1968-08-04,1968-08-04,1972-02-07
+DR-250,Disaster,1968-09-09,1968.0,9.0,3.0,9.0,Monday,MN,Minnesota,Midwest,Roseau County,Flood,Heavy Rains and Flooding,1968-09-09,1968-09-09,1971-03-01
+DR-252,Disaster,1968-11-07,1968.0,11.0,4.0,7.0,Thursday,FL,Florida,South,Charlotte County,Hurricane,Hurricane Gladys,1968-11-07,1968-11-07,1971-03-02
+DR-260,Disaster,1969-05-01,1969.0,5.0,2.0,1.0,Thursday,WI,Wisconsin,Midwest,Ashland County,Flood,Flooding,1969-05-01,1969-05-01,1972-03-10
+DR-262,Disaster,1969-06-06,1969.0,6.0,2.0,6.0,Friday,IL,Illinois,Midwest,Adams County,Flood,Flooding,1969-06-06,1969-06-06,
+DR-263,Disaster,1969-07-11,1969.0,7.0,3.0,11.0,Friday,TN,Tennessee,South,Clay County,Flood,Severe Storms and Flooding,1969-07-11,1969-07-11,
+DR-264,Disaster,1969-07-11,1969.0,7.0,3.0,11.0,Friday,WI,Wisconsin,Midwest,Grant County,Flood,Severe Storms and Flooding,1969-07-11,1969-07-11,
+DR-268,Disaster,1969-08-05,1969.0,8.0,3.0,5.0,Tuesday,MN,Minnesota,Midwest,Jackson County,Flood,Heavy Rains and Flooding,1969-08-05,1969-08-05,
+DR-278,Disaster,1969-09-03,1969.0,9.0,3.0,3.0,Wednesday,WV,West Virginia,South,Greenbrier County,Hurricane,Severe Storms and Flooding,1969-09-03,1969-09-03,
+DR-280,Disaster,1969-11-07,1969.0,11.0,4.0,7.0,Friday,AL,Alabama,South,Baldwin County,Hurricane,Hurricane Camille,1969-11-07,1969-11-07,
+DR-282,Disaster,1970-02-02,1970.0,2.0,1.0,2.0,Monday,KY,Kentucky,South,Bell County,Flood,"Heavy Snowmelt, Rains, and Flooding",1970-02-02,1970-02-02,
+DR-285,Disaster,1970-04-09,1970.0,4.0,2.0,9.0,Thursday,AL,Alabama,South,Chambers County,Storm,"Heavy Rains, Tornadoes, and Flooding",1970-04-09,1970-04-09,1973-01-05
+DR-287,Disaster,1970-06-05,1970.0,6.0,2.0,5.0,Friday,ND,North Dakota,Midwest,Bottineau County,Flood,Severe Storms and Flooding,1970-06-05,1970-06-05,
+DR-288,Disaster,1970-06-05,1970.0,6.0,2.0,5.0,Friday,KY,Kentucky,South,Bullitt County,Flood,Severe Storms and Flooding,1970-06-05,1970-06-05,
+DR-289,Disaster,1970-07-03,1970.0,7.0,3.0,3.0,Friday,FL,Florida,South,Escambia County,Flood,Heavy Rains and Flooding,1970-07-03,1970-07-03,1972-03-03
+DR-292,Disaster,1970-08-04,1970.0,8.0,3.0,4.0,Tuesday,TX,Texas,South,Aransas County,Hurricane,Hurricane Celia,1970-08-04,1970-08-04,
+DR-296,Disaster,1970-10-12,1970.0,10.0,4.0,12.0,Monday,PR,Puerto Rico,Territory,Adjuntas Municipio,Flood,Heavy Rains and Flooding,1970-10-12,1970-10-12,
+DR-299,Disaster,1971-02-09,1971.0,2.0,1.0,9.0,Tuesday,CA,California,West,Los Angeles County,Earthquake,San Fernando Earthquake,1971-02-09,1971-02-09,
+DR-300,Disaster,1971-02-09,1971.0,2.0,1.0,9.0,Tuesday,WA,Washington,West,Columbia County,Flood,"Heavy Rains, Melting Snows, and Flooding",1971-02-09,1971-02-09,
+DR-305,Disaster,1971-05-10,1971.0,5.0,2.0,10.0,Monday,KY,Kentucky,South,Adair County,Tornado,Tornado,1971-05-10,1971-05-10,1973-10-01
+DR-308,Disaster,1971-07-07,1971.0,7.0,3.0,7.0,Wednesday,NE,Nebraska,Midwest,Cedar County,Flood,Floods,1971-07-07,1971-07-07,
+DR-310,Disaster,1971-09-04,1971.0,9.0,3.0,4.0,Saturday,NJ,New Jersey,Northeast,Atlantic County,Flood,Heavy Rains and Flooding,1971-09-04,1971-09-04,1976-11-12
+DR-316,Disaster,1972-01-11,1972.0,1.0,1.0,11.0,Tuesday,CA,California,West,Santa Barbara County,Flood,"Winds, Flooding, and Mudslides",1972-01-11,1972-01-11,
+DR-322,Disaster,1972-02-01,1972.0,2.0,1.0,1.0,Tuesday,WA,Washington,West,Asotin County,Flood,Severe Storms and Flooding,1972-02-01,1972-02-01,
+DR-324,Disaster,1972-03-02,1972.0,3.0,1.0,2.0,Thursday,ID,Idaho,West,Latah County,Flood,Severe Storms and Extensive Flooding,1972-03-02,1972-03-02,
+DR-325,Disaster,1972-03-06,1972.0,3.0,1.0,6.0,Monday,MA,Massachusetts,Northeast,"Essex County(in PMSA 1120,4160,7090",Flood,Severe Storms and Flooding,1972-03-06,1972-03-06,1977-02-04
+DR-326,Disaster,1972-03-07,1972.0,3.0,1.0,7.0,Tuesday,ME,Maine,Northeast,Cumberland County,Flood,Severe Storms and Flooding,1972-03-07,1972-03-07,
+DR-329,Disaster,1972-04-05,1972.0,4.0,2.0,5.0,Wednesday,CA,California,West,Del Norte County,Flood,Severe Storms and Flooding,1972-04-05,1972-04-05,
+DR-330,Disaster,1972-04-05,1972.0,4.0,2.0,5.0,Wednesday,MI,Michigan,Midwest,Allegan County,Snow,Severe Storm and Freezing,1972-04-05,1972-04-05,
+DR-334,Disaster,1972-06-10,1972.0,6.0,2.0,10.0,Saturday,WA,Washington,West,Chelan County,Flood,Severe Storms and Flooding,1972-06-10,1972-06-10,
+DR-335,Disaster,1972-06-10,1972.0,6.0,2.0,10.0,Saturday,ND,North Dakota,Midwest,Grant County,Flood,Severe Storms and Flooding,1972-06-10,1972-06-10,
+DR-336,Disaster,1972-06-10,1972.0,6.0,2.0,10.0,Saturday,SD,South Dakota,Midwest,Custer County,Flood,Heavy Rains and Flooding,1972-06-10,1972-06-10,
+DR-343,Disaster,1972-07-03,1972.0,7.0,3.0,3.0,Monday,AZ,Arizona,West,Maricopa County,Flood,Severe Storms and Flooding,1972-07-03,1972-07-03,1977-03-07
+DR-344,Disaster,1972-07-03,1972.0,7.0,3.0,3.0,Monday,WV,West Virginia,South,Barbour County,Flood,Tropical Storm Agnes,1972-07-03,1972-07-03,
+DR-346,Disaster,1972-08-01,1972.0,8.0,3.0,1.0,Tuesday,NM,New Mexico,West,McKinley County,Flood,Severe Storms and Flooding,1972-08-01,1972-08-01,
+DR-347,Disaster,1972-08-01,1972.0,8.0,3.0,1.0,Tuesday,MN,Minnesota,Midwest,Aitkin County,Flood,Severe Storms and Flooding,1972-08-01,1972-08-01,1977-03-09
+DR-351,Disaster,1972-09-04,1972.0,9.0,3.0,4.0,Monday,IL,Illinois,Midwest,Cook County,Flood,Severe Storms and Flooding,1972-09-04,1972-09-04,1976-06-04
+DR-352,Disaster,1972-09-10,1972.0,9.0,3.0,10.0,Sunday,WI,Wisconsin,Midwest,Ashland County,Flood,Heavy Rains and Flooding,1972-09-10,1972-09-10,
+DR-358,Disaster,1972-10-07,1972.0,10.0,4.0,7.0,Saturday,VA,Virginia,South,Alexandria,Flood,Severe Storms and Flooding,1972-10-07,1972-10-07,
+DR-359,Disaster,1972-10-10,1972.0,10.0,4.0,10.0,Tuesday,VA,Virginia,South,Alexandria,Flood,Severe Storms and Flooding,1972-10-10,1972-10-10,1979-09-10
+DR-363,Disaster,1972-12-01,1972.0,12.0,4.0,1.0,Friday,MI,Michigan,Midwest,Arenac County,Flood,Severe Storms and Flooding,1972-12-01,1972-12-01,
+DR-364,Disaster,1973-02-08,1973.0,2.0,1.0,8.0,Thursday,CA,California,West,Marin County,Flood,"Severe Storms, High Tides, and Flooding",1973-02-08,1973-02-08,
+DR-365,Disaster,1973-03-12,1973.0,3.0,1.0,12.0,Monday,TX,Texas,South,Burnet County,Storm,"High Winds, Tornadoes, and Flooding",1973-03-12,1973-03-12,1976-02-12
+DR-370,Disaster,1973-04-04,1973.0,4.0,2.0,4.0,Wednesday,GA,Georgia,South,Catoosa County,Tornado,Tornadoes and Flooding,1973-04-04,1973-04-04,
+DR-371,Disaster,1973-04-12,1973.0,4.0,2.0,12.0,Thursday,MI,Michigan,Midwest,Arenac County,Flood,Severe Storms and Flooding,1973-04-12,1973-04-12,
+DR-378,Disaster,1973-05-02,1973.0,5.0,2.0,2.0,Wednesday,KS,Kansas,Midwest,Atchison County,Flood,Severe Storms and Flooding,1973-05-02,1973-05-02,
+DR-379,Disaster,1973-05-08,1973.0,5.0,2.0,8.0,Tuesday,CO,Colorado,West,Weld County,Dam/Levee Break,Dam Failure,1973-05-08,1973-05-08,1976-08-02
+DR-380,Disaster,1973-05-11,1973.0,5.0,2.0,11.0,Friday,NM,New Mexico,West,Colfax County,Flood,"Severe Storms, Snow Melt, and Flooding",1973-05-11,1973-05-11,1977-11-01
+DR-381,Disaster,1973-05-11,1973.0,5.0,2.0,11.0,Friday,KY,Kentucky,South,Ballard County,Flood,Severe Storms and Flooding,1973-05-11,1973-05-11,
+DR-382,Disaster,1973-05-11,1973.0,5.0,2.0,11.0,Friday,TN,Tennessee,South,Dyer County,Flood,Severe Storms and Flooding,1973-05-11,1973-05-11,
+DR-390,Disaster,1973-06-04,1973.0,6.0,2.0,4.0,Monday,OH,Ohio,Midwest,Hamilton County,Mud/Landslide,Mudslides,1973-06-04,1973-06-04,
+DR-391,Disaster,1973-06-11,1973.0,6.0,2.0,11.0,Monday,GA,Georgia,South,Clarke County,Tornado,Severe Storms and Tornadoes,1973-06-11,1973-06-11,1976-10-07
+DR-396,Disaster,1973-07-06,1973.0,7.0,3.0,6.0,Friday,CO,Colorado,West,Alamosa County,Flood,Flooding and Landslides,1973-07-06,1973-07-06,
+DR-397,Disaster,1973-07-06,1973.0,7.0,3.0,6.0,Friday,VT,Vermont,Northeast,Addison County,Flood,"Severe Storms, Flooding, and Landslides",1973-07-06,1973-07-06,1976-11-12
+DR-398,Disaster,1973-07-11,1973.0,7.0,3.0,11.0,Wednesday,TX,Texas,South,Brazoria County,Flood,Severe Storms and Flooding,1973-07-11,1973-07-11,
+DR-399,Disaster,1973-07-11,1973.0,7.0,3.0,11.0,Wednesday,NH,New Hampshire,Northeast,Belknap County,Flood,Severe Storms and Flooding,1973-07-11,1973-07-11,
+DR-402,Disaster,1973-08-07,1973.0,8.0,3.0,7.0,Tuesday,NJ,New Jersey,Northeast,Essex County,Flood,Severe Storms and Flooding,1973-08-07,1973-08-07,
+DR-407,Disaster,1973-11-01,1973.0,11.0,4.0,1.0,Thursday,MO,Missouri,Midwest,Adair County,Flood,Severe Storms and Flooding,1973-11-01,1973-11-01,
+DR-408,Disaster,1973-11-07,1973.0,11.0,4.0,7.0,Wednesday,AK,Alaska,West,Tanana ANV/ANVSA,Flood,Heavy Rains and Flooding,1973-11-07,1973-11-07,1978-08-01
+DR-409,Disaster,1973-12-10,1973.0,12.0,4.0,10.0,Monday,OK,Oklahoma,South,Adair County,Flood,Severe Storms and Flooding,1973-12-10,1973-12-10,
+DR-420,Disaster,1974-04-04,1974.0,4.0,2.0,4.0,Thursday,KY,Kentucky,South,Anderson County,Tornado,Tornadoes,1974-04-04,1974-04-04,
+DR-421,Disaster,1974-04-04,1974.0,4.0,2.0,4.0,Thursday,OH,Ohio,Midwest,Adams County,Tornado,Tornadoes,1974-04-04,1974-04-04,
+DR-422,Disaster,1974-04-04,1974.0,4.0,2.0,4.0,Thursday,AL,Alabama,South,Blount County,Tornado,Tornadoes,1974-04-04,1974-04-04,1978-11-03
+DR-423,Disaster,1974-04-04,1974.0,4.0,2.0,4.0,Thursday,IN,Indiana,Midwest,Adams County,Tornado,Tornadoes,1974-04-04,1974-04-04,
+DR-424,Disaster,1974-04-04,1974.0,4.0,2.0,4.0,Thursday,TN,Tennessee,South,Bedford County,Tornado,Tornadoes,1974-04-04,1974-04-04,
+DR-425,Disaster,1974-04-05,1974.0,4.0,2.0,5.0,Friday,GA,Georgia,South,Bartow County,Tornado,Tornadoes,1974-04-05,1974-04-05,
+DR-426,Disaster,1974-04-11,1974.0,4.0,2.0,11.0,Thursday,WV,West Virginia,South,Fayette County,Flood,Severe Storms and Flooding,1974-04-11,1974-04-11,
+DR-427,Disaster,1974-04-11,1974.0,4.0,2.0,11.0,Thursday,IL,Illinois,Midwest,Champaign County,Tornado,Tornadoes,1974-04-11,1974-04-11,
+DR-428,Disaster,1974-04-12,1974.0,4.0,2.0,12.0,Friday,NC,North Carolina,South,Burke County,Tornado,Tornadoes,1974-04-12,1974-04-12,1976-08-02
+DR-429,Disaster,1974-04-12,1974.0,4.0,2.0,12.0,Friday,MI,Michigan,Midwest,Hillsdale County,Tornado,Tornadoes,1974-04-12,1974-04-12,
+DR-432,Disaster,1974-05-07,1974.0,5.0,2.0,7.0,Tuesday,CA,California,West,Mendocino County,Flood,Severe Storms and Flooding,1974-05-07,1974-05-07,
+DR-433,Disaster,1974-05-07,1974.0,5.0,2.0,7.0,Tuesday,HI,Hawaii,West,Honolulu County,Flood,Heavy Rains and Flooding,1974-05-07,1974-05-07,1977-03-07
+DR-437,Disaster,1974-06-08,1974.0,6.0,2.0,8.0,Saturday,AR,Arkansas,South,Benton County,Flood,Severe Storms and Flooding,1974-06-08,1974-06-08,
+DR-438,Disaster,1974-06-10,1974.0,6.0,2.0,10.0,Monday,IL,Illinois,Midwest,Adams County,Flood,Severe Storms and Flooding,1974-06-10,1974-06-10,
+DR-439,Disaster,1974-06-10,1974.0,6.0,2.0,10.0,Monday,MO,Missouri,Midwest,Adair County,Flood,Severe Storms and Flooding,1974-06-10,1974-06-10,
+DR-440,Disaster,1974-06-10,1974.0,6.0,2.0,10.0,Monday,MN,Minnesota,Midwest,Becker County,Flood,Heavy Rains and Flooding,1974-06-10,1974-06-10,
+DR-441,Disaster,1974-06-10,1974.0,6.0,2.0,10.0,Monday,OK,Oklahoma,South,Adair County,Flood,Severe Storms and Flooding,1974-06-10,1974-06-10,1978-04-03
+DR-442,Disaster,1974-06-10,1974.0,6.0,2.0,10.0,Monday,KS,Kansas,Midwest,Lyon County,Flood,Severe Storms and Flooding,1974-06-10,1974-06-10,
+DR-445,Disaster,1974-07-11,1974.0,7.0,3.0,11.0,Thursday,OH,Ohio,Midwest,Warren County,Flood,Heavy Rains and Flooding,1974-07-11,1974-07-11,1977-12-02
+DR-450,Disaster,1974-11-01,1974.0,11.0,4.0,1.0,Friday,LA,Louisiana,South,Acadia Parish,Storm,Severe Storms,1974-11-01,1974-11-01,
+EM-3004,Emergency,1974-11-02,1974.0,11.0,4.0,2.0,Saturday,NY,New York,Northeast,Monroe County,Flood,Floodng (New York Barge Canal),1974-11-02,1974-11-02,
+DR-462,Disaster,1975-04-01,1975.0,4.0,2.0,1.0,Tuesday,TX,Texas,South,Gray County,Tornado,Tornadoes,1975-04-01,1975-04-01,
+DR-463,Disaster,1975-04-01,1975.0,4.0,2.0,1.0,Tuesday,AR,Arkansas,South,Bradley County,Tornado,Severe Storms and Tornadoes,1975-04-01,1975-04-01,
+EM-3010,Emergency,1975-04-04,1975.0,4.0,2.0,4.0,Friday,MS,Mississippi,South,Humphreys County,Flood,Heavy Rains and Flooding,1975-04-04,1975-04-04,
+EM-3011,Emergency,1975-04-12,1975.0,4.0,2.0,12.0,Saturday,LA,Louisiana,South,Avoyelles Parish,Flood,Heavy Rains and Flooding,1975-04-12,1975-04-12,
+DR-466,Disaster,1975-05-03,1975.0,5.0,2.0,3.0,Saturday,MO,Missouri,Midwest,Caldwell County,Tornado,"Tornadoes, High Winds, and Hail",1975-05-03,1975-05-03,1978-12-08
+DR-467,Disaster,1975-05-07,1975.0,5.0,2.0,7.0,Wednesday,NE,Nebraska,Midwest,Cedar County,Tornado,Severe Storms and Tornadoes,1975-05-07,1975-05-07,1984-05-04
+DR-470,Disaster,1975-06-06,1975.0,6.0,2.0,6.0,Friday,LA,Louisiana,South,Ward 9 Police Jury Ward,Storm,"Heavy Rains, Tornadoes, and Flooding",1975-06-06,1975-06-06,
+DR-471,Disaster,1975-06-07,1975.0,6.0,2.0,7.0,Saturday,AR,Arkansas,South,Independence County,Flood,Heavy Rains and Flooding,1975-06-07,1975-06-07,
+DR-473,Disaster,1975-07-05,1975.0,7.0,3.0,5.0,Saturday,MN,Minnesota,Midwest,Aitkin County,Flood,Flooding,1975-07-05,1975-07-05,
+DR-474,Disaster,1975-07-09,1975.0,7.0,3.0,9.0,Wednesday,OK,Oklahoma,South,Blaine County,Storm,"Severe Storms, Flooding, and Tornadoes",1975-07-09,1975-07-09,1978-08-01
+DR-475,Disaster,1975-07-11,1975.0,7.0,3.0,11.0,Friday,ND,North Dakota,Midwest,Barnes County,Flood,Severe Storms and Flooding,1975-07-11,1975-07-11,
+DR-480,Disaster,1975-09-11,1975.0,9.0,3.0,11.0,Thursday,OH,Ohio,Midwest,Belmont County,Flood,"Winds, Tornadoes, Heavy Rains, and Flooding",1975-09-11,1975-09-11,
+DR-481,Disaster,1975-09-12,1975.0,9.0,3.0,12.0,Friday,WV,West Virginia,South,Marshall County,Flood,Heavy Rains and Flooding,1975-09-12,1975-09-12,1984-05-04
+DR-487,Disaster,1975-10-02,1975.0,10.0,4.0,2.0,Thursday,NY,New York,Northeast,Allegany County,Flood,"Storms, Rains, Landslides, and Flooding",1975-10-02,1975-10-02,1988-08-03
+DR-488,Disaster,1975-10-02,1975.0,10.0,4.0,2.0,Thursday,AL,Alabama,South,Barbour County,Storm,"Severe Storms, Tornadoes, and Flooding",1975-10-02,1975-10-02,1981-11-06
+DR-489,Disaster,1975-10-04,1975.0,10.0,4.0,4.0,Saturday,MD,Maryland,South,Baltimore,Flood,Heavy Rains and Flooding,1975-10-04,1975-10-04,1991-10-02
+DR-490,Disaster,1975-12-07,1975.0,12.0,4.0,7.0,Sunday,HI,Hawaii,West,Hawaii County,Earthquake,"Earthquake, Seismic Waves, and Volcanic Eruption",1975-12-07,1975-12-07,1979-09-10
+DR-491,Disaster,1975-12-10,1975.0,12.0,4.0,10.0,Wednesday,OK,Oklahoma,South,Latimer County,Tornado,Severe Storms and Tornadoes,1975-12-10,1975-12-10,
+DR-497,Disaster,1976-04-01,1976.0,4.0,2.0,1.0,Thursday,OK,Oklahoma,South,Latimer County,Tornado,Severe Storms and Tornadoes,1976-04-01,1976-04-01,1981-11-06
+DR-498,Disaster,1976-04-01,1976.0,4.0,2.0,1.0,Thursday,AR,Arkansas,South,Cleburne County,Tornado,Tornadoes,1976-04-01,1976-04-01,1981-11-06
+DR-499,Disaster,1976-04-01,1976.0,4.0,2.0,1.0,Thursday,MS,Mississippi,South,Copiah County,Storm,"Severe Storms, Tornadoes, and Flooding",1976-04-01,1976-04-01,1981-11-06
+DR-500,Disaster,1976-04-08,1976.0,4.0,2.0,8.0,Thursday,NE,Nebraska,Midwest,Adams County,Ice,Ice Storms and High Winds,1976-04-08,1976-04-08,
+DR-504,Disaster,1976-06-05,1976.0,6.0,2.0,5.0,Saturday,OK,Oklahoma,South,Tulsa County,Flood,Severe Storms and Flooding,1976-06-05,1976-06-05,1981-11-06
+DR-505,Disaster,1976-06-06,1976.0,6.0,2.0,6.0,Sunday,ID,Idaho,West,Bingham County,Flood,Dam Collapse and Flooding,1976-06-06,1976-06-06,
+DR-506,Disaster,1976-06-08,1976.0,6.0,2.0,8.0,Tuesday,PW,,,Koror State,Typhoon,Typhoon Pamela,1976-06-08,1976-06-08,
+DR-507,Disaster,1976-06-11,1976.0,6.0,2.0,11.0,Friday,GA,Georgia,South,Banks County,Flood,Severe Storms and Flooding,1976-06-11,1976-06-11,1978-11-03
+DR-513,Disaster,1976-07-07,1976.0,7.0,3.0,7.0,Wednesday,PA,Pennsylvania,Northeast,Lackawanna County,Flood,High Winds and Flash Floods,1976-07-07,1976-07-07,
+DR-517,Disaster,1976-08-02,1976.0,8.0,3.0,2.0,Monday,CO,Colorado,West,El Paso County,Flood,Severe Storms and Flash Flooding,1976-08-02,1976-08-02,
+DR-518,Disaster,1976-08-05,1976.0,8.0,3.0,5.0,Thursday,VT,Vermont,Northeast,Addison County,Flood,"Severe Storms, High Winds, and Flooding",1976-08-05,1976-08-05,
+DR-520,Disaster,1976-09-03,1976.0,9.0,3.0,3.0,Friday,NY,New York,Northeast,Nassau County,Hurricane,Hurricane Belle,1976-09-03,1976-09-03,
+EM-3019,Emergency,1976-12-03,1976.0,12.0,4.0,3.0,Friday,AR,Arkansas,South,Baxter County,Drought,Drought,1976-12-03,1976-12-03,
+EM-3028,Emergency,1977-02-02,1977.0,2.0,1.0,2.0,Wednesday,IN,Indiana,Midwest,Adams County,Snow,Snowstorms,1977-02-02,1977-02-02,
+EM-3029,Emergency,1977-02-02,1977.0,2.0,1.0,2.0,Wednesday,OH,Ohio,Midwest,Ashland County,Snow,Snowstorms,1977-02-02,1977-02-02,
+DR-527,Disaster,1977-02-05,1977.0,2.0,1.0,5.0,Saturday,NY,New York,Northeast,Cattaraugus County,Snow,Snowstorms,1977-02-05,1977-02-05,
+EM-3030,Emergency,1977-02-05,1977.0,2.0,1.0,5.0,Saturday,MI,Michigan,Midwest,Allegan County,Snow,Snowstorms,1977-02-05,1977-02-05,
+DR-528,Disaster,1977-02-08,1977.0,2.0,1.0,8.0,Tuesday,NJ,New Jersey,Northeast,Atlantic County,Ice,Ice Conditions,1977-02-08,1977-02-08,
+EM-3033,Emergency,1977-03-02,1977.0,3.0,1.0,2.0,Wednesday,NC,North Carolina,South,Alamance County,Snow,Drought and Freezing,1977-03-02,1977-03-02,1978-07-03
+EM-3034,Emergency,1977-03-02,1977.0,3.0,1.0,2.0,Wednesday,NM,New Mexico,West,Colfax County,Drought,Drought,1977-03-02,1977-03-02,
+EM-3035,Emergency,1977-03-02,1977.0,3.0,1.0,2.0,Wednesday,MI,Michigan,Midwest,Alcona County,Drought,Drought,1977-03-02,1977-03-02,
+DR-529,Disaster,1977-04-06,1977.0,4.0,2.0,6.0,Wednesday,KY,Kentucky,South,Bell County,Flood,Severe Storms and Flooding,1977-04-06,1977-04-06,1985-03-08
+DR-530,Disaster,1977-04-07,1977.0,4.0,2.0,7.0,Thursday,VA,Virginia,South,Norton,Flood,Severe Storms and Flooding,1977-04-07,1977-04-07,1985-06-05
+DR-531,Disaster,1977-04-07,1977.0,4.0,2.0,7.0,Thursday,WV,West Virginia,South,Cabell County,Flood,Severe Storms and Flooding,1977-04-07,1977-04-07,
+DR-532,Disaster,1977-04-09,1977.0,4.0,2.0,9.0,Saturday,AL,Alabama,South,Blount County,Flood,Severe Storms and Flooding,1977-04-09,1977-04-09,1981-11-03
+DR-534,Disaster,1977-05-02,1977.0,5.0,2.0,2.0,Monday,LA,Louisiana,South,Ascension Parish,Flood,Severe Storms and Flooding,1977-05-02,1977-05-02,
+EM-3040,Emergency,1977-05-05,1977.0,5.0,2.0,5.0,Thursday,ID,Idaho,West,Adams County,Drought,Drought,1977-05-05,1977-05-05,1978-11-08
+DR-535,Disaster,1977-05-07,1977.0,5.0,2.0,7.0,Saturday,MO,Missouri,Midwest,Carroll County,Tornado,Tornadoes and Flooding,1977-05-07,1977-05-07,
+DR-536,Disaster,1977-06-02,1977.0,6.0,2.0,2.0,Thursday,GA,Georgia,South,Bryan County,Winter,Shrimp Loss Due to Cold Weather,1977-06-02,1977-06-02,1978-06-05
+EM-3041,Emergency,1977-06-11,1977.0,6.0,2.0,11.0,Saturday,NV,Nevada,West,Elko County,Drought,Drought,1977-06-11,1977-06-11,
+EM-3047,Emergency,1977-08-04,1977.0,8.0,3.0,4.0,Thursday,SC,South Carolina,South,Abbeville County,Drought,Drought,1977-08-04,1977-08-04,1978-07-03
+EM-3049,Emergency,1977-08-11,1977.0,8.0,3.0,11.0,Thursday,NC,North Carolina,South,Alamance County,Drought,Drought,1977-08-11,1977-08-11,1978-07-03
+EM-3053,Emergency,1977-09-06,1977.0,9.0,3.0,6.0,Tuesday,VT,Vermont,Northeast,Addison County,Drought,Drought,1977-09-06,1977-09-06,1979-03-09
+EM-3048,Emergency,1977-10-03,1977.0,10.0,4.0,3.0,Monday,WI,Wisconsin,Midwest,Barron County,Storm,"Winds, Hail, and Rain",1977-08-05,1977-08-05,1984-07-06
+DR-540,Disaster,1977-11-04,1977.0,11.0,4.0,4.0,Friday,AZ,Arizona,West,Pima County,Flood,Severe Storms and Flooding,1977-11-04,1977-11-04,1984-07-06
+DR-541,Disaster,1977-11-07,1977.0,11.0,4.0,7.0,Monday,GA,Georgia,South,Stephens County,Flood,Dam Collapse and Flooding,1977-11-07,1977-11-07,
+DR-542,Disaster,1977-11-09,1977.0,11.0,4.0,9.0,Wednesday,NC,North Carolina,South,Ashe County,Flood,Severe Storms and Flooding,1977-11-09,1977-11-09,1984-05-10
+DR-543,Disaster,1977-11-12,1977.0,11.0,4.0,12.0,Saturday,VA,Virginia,South,Radford,Flood,Severe Storms and Flooding,1977-11-12,1977-11-12,
+DR-544,Disaster,1977-11-12,1977.0,11.0,4.0,12.0,Saturday,TN,Tennessee,South,Carter County,Flood,Severe Storms and Flooding,1977-11-12,1977-11-12,
+DR-545,Disaster,1977-12-10,1977.0,12.0,4.0,10.0,Saturday,WA,Washington,West,Benton County,Flood,"Severe Storms, Mudslides, and Flooding",1977-12-10,1977-12-10,
+EM-3058,Emergency,1978-02-07,1978.0,2.0,1.0,7.0,Tuesday,RI,Rhode Island,Northeast,Bristol County,Snow,Blizzards and Snowstorms,1978-02-07,1978-02-07,
+EM-3059,Emergency,1978-02-07,1978.0,2.0,1.0,7.0,Tuesday,MA,Massachusetts,Northeast,Suffolk County,Snow,Blizzards and Snowstorms,1978-02-07,1978-02-07,
+EM-3060,Emergency,1978-02-07,1978.0,2.0,1.0,7.0,Tuesday,CT,Connecticut,Northeast,"Fairfield County(in PMSA 1160,1930,5760,8040",Snow,Blizzards and Snowstorms,1978-02-07,1978-02-07,
+DR-546,Disaster,1978-02-10,1978.0,2.0,1.0,10.0,Friday,MA,Massachusetts,Northeast,Barnstable County,Flood,"Coastal Storms, Flood, Ice, and Snow",1978-02-06,1978-02-08,1995-09-08
+DR-551,Disaster,1978-03-04,1978.0,3.0,1.0,4.0,Saturday,AZ,Arizona,West,Apache County,Flood,Severe Storms and Flooding,1978-03-04,1978-03-04,
+DR-556,Disaster,1978-05-09,1978.0,5.0,2.0,9.0,Tuesday,LA,Louisiana,South,Ward 9 Police Jury Ward,Flood,Severe Storms and Flooding,1978-05-09,1978-05-09,1984-07-06
+DR-559,Disaster,1978-07-07,1978.0,7.0,3.0,7.0,Friday,WI,Wisconsin,Midwest,Buffalo County,Storm,"Severe Storms, Flooding, Hail, and Tornadoes",1978-07-07,1978-07-07,1984-07-06
+EM-3065,Emergency,1978-07-07,1978.0,7.0,3.0,7.0,Friday,ND,North Dakota,Midwest,Grant County,Tornado,Severe Storms and Tornadoes,1978-07-07,1978-07-07,
+DR-560,Disaster,1978-07-08,1978.0,7.0,3.0,8.0,Saturday,MN,Minnesota,Midwest,Benton County,Storm,"Severe Storms, Flooding, Hail, and Tornadoes",1978-07-08,1978-07-08,1984-07-06
+DR-561,Disaster,1978-08-03,1978.0,8.0,3.0,3.0,Thursday,TX,Texas,South,Bandera County,Flood,Severe Storms and Flooding,1978-08-03,1978-08-03,
+EM-3066,Emergency,1978-08-07,1978.0,8.0,3.0,7.0,Monday,NY,New York,Northeast,Rensselaer County,Chemical,Chemical Waste (Love Canal),1978-08-07,1978-08-07,
+DR-563,Disaster,1978-08-09,1978.0,8.0,3.0,9.0,Wednesday,AL,Alabama,South,Baldwin County,Flood,Severe Storms and Flooding,1978-08-09,1978-08-09,
+DR-566,Disaster,1978-10-09,1978.0,10.0,4.0,9.0,Monday,CA,California,West,Orange County,Flood,Landslides,1978-10-09,1978-10-09,
+DR-567,Disaster,1978-12-06,1978.0,12.0,4.0,6.0,Wednesday,LA,Louisiana,South,Bossier Parish,Tornado,Severe Storms and Tornadoes,1978-12-06,1978-12-06,
+DR-568,Disaster,1978-12-12,1978.0,12.0,4.0,12.0,Tuesday,KY,Kentucky,South,Anderson County,Flood,Severe Storms and Flooding,1978-12-12,1978-12-12,1985-03-08
+DR-572,Disaster,1979-02-12,1979.0,2.0,1.0,12.0,Monday,MH,,,Ebeye,Typhoon,Typhoon Alice,1979-02-12,1979-02-12,
+DR-573,Disaster,1979-03-07,1979.0,3.0,1.0,7.0,Wednesday,HI,Hawaii,West,Hawaii County,Flood,Severe Storms and Flooding,1979-03-07,1979-03-07,
+EM-3070,Emergency,1979-03-12,1979.0,3.0,1.0,12.0,Monday,WA,Washington,West,Franklin County,Flood,Flooding,1979-03-12,1979-03-12,
+EM-3071,Emergency,1979-03-12,1979.0,3.0,1.0,12.0,Monday,MO,Missouri,Midwest,Andrew County,Flood,Ice Jam and Flooding,1979-03-12,1979-03-12,
+EM-3076,Emergency,1979-04-06,1979.0,4.0,2.0,6.0,Friday,IA,Iowa,Midwest,Madison County,Tornado,Severe Storms and Tornadoes,1979-04-06,1979-04-06,
+DR-574,Disaster,1979-04-11,1979.0,4.0,2.0,11.0,Wednesday,AR,Arkansas,South,Ashley County,Tornado,Tornado,1979-04-11,1979-04-11,
+DR-575,Disaster,1979-04-11,1979.0,4.0,2.0,11.0,Wednesday,TX,Texas,South,Baylor County,Tornado,Severe Storms and Tornadoes,1979-04-11,1979-04-11,
+DR-584,Disaster,1979-05-02,1979.0,5.0,2.0,2.0,Wednesday,LA,Louisiana,South,Ascension Parish,Flood,Severe Storms and Flooding,1979-05-02,1979-05-02,
+DR-585,Disaster,1979-05-07,1979.0,5.0,2.0,7.0,Monday,TN,Tennessee,South,Crockett County,Storm,"Severe Storms, Tornadoes, and Flooding",1979-05-07,1979-05-07,
+DR-590,Disaster,1979-07-01,1979.0,7.0,3.0,1.0,Sunday,IA,Iowa,Midwest,Calhoun County,Tornado,High Winds and Tornadoes,1979-07-01,1979-07-01,
+DR-597,Disaster,1979-09-02,1979.0,9.0,3.0,2.0,Sunday,PR,Puerto Rico,Territory,Adjuntas Municipio,Hurricane,Hurricane David,1979-09-02,1979-09-02,
+DR-608,Disaster,1979-10-04,1979.0,10.0,4.0,4.0,Thursday,CT,Connecticut,Northeast,"Hartford County(in PMSA 1170,3280,5440",Tornado,Tornado and Severe Storms,1979-10-04,1979-10-04,1985-07-05
+DR-610,Disaster,1979-11-09,1979.0,11.0,4.0,9.0,Friday,AS,American Samoa,Territory,Eastern District,Flood,"Flooding, Mudslides, and Landslides",1979-11-09,1979-11-09,
+DR-611,Disaster,1979-12-01,1979.0,12.0,4.0,1.0,Saturday,FM,,,Kosrae County-equivalent,Flood,Seawave Action and Flooding,1979-12-01,1979-12-01,
+EM-3078,Emergency,1980-02-01,1980.0,2.0,1.0,1.0,Friday,CA,California,West,Contra Costa County,Storm,"Torrential Rain, High Tide, and Winds",1980-02-01,1980-02-01,
+DR-613,Disaster,1980-02-06,1980.0,2.0,1.0,6.0,Wednesday,HI,Hawaii,West,Maui County,Flood,"Severe Storms, High Surf, and Flooding",1980-02-06,1980-02-06,
+DR-616,Disaster,1980-04-09,1980.0,4.0,2.0,9.0,Wednesday,LA,Louisiana,South,Ward 9 Police Jury Ward,Flood,Severe Storms and Flooding,1980-04-09,1980-04-09,
+EM-3079,Emergency,1980-05-06,1980.0,5.0,2.0,6.0,Tuesday,FL,Florida,South,Broward County,Human Cause,Undocumented Aliens,1980-05-06,1980-05-06,1994-02-10
+DR-625,Disaster,1980-06-04,1980.0,6.0,2.0,4.0,Wednesday,NE,Nebraska,Midwest,Hall County,Tornado,Severe Storms and Tornadoes,1980-06-04,1980-06-04,
+DR-627,Disaster,1980-08-11,1980.0,8.0,3.0,11.0,Monday,TX,Texas,South,Aransas County,Hurricane,Hurricane Allen,1980-08-11,1980-08-11,
+DR-631,Disaster,1980-09-08,1980.0,9.0,3.0,8.0,Monday,MI,Michigan,Midwest,Allegan County,Flood,Severe Storms and Flooding,1980-09-08,1980-09-08,1988-08-03
+DR-633,Disaster,1980-10-02,1980.0,10.0,4.0,2.0,Thursday,CA,California,West,San Joaquin County,Flood,Levee Break and Flooding,1980-10-02,1980-10-02,
+DR-638,Disaster,1981-04-10,1981.0,4.0,2.0,10.0,Friday,AL,Alabama,South,Russell County,Storm,"Severe Storms, Tornadoes, and Flooding",1981-04-10,1981-04-10,1990-01-09
+DR-649,Disaster,1981-11-04,1981.0,11.0,4.0,4.0,Wednesday,OK,Oklahoma,South,Atoka County,Flood,Severe Storms and Flooding,1981-11-04,1981-11-04,1984-07-06
+DR-650,Disaster,1981-12-03,1981.0,12.0,4.0,3.0,Thursday,MA,Massachusetts,Northeast,"Essex County(in PMSA 1120,4160,7090",Fire,Urban Fire,1981-12-03,1981-12-03,
+DR-651,Disaster,1982-01-07,1982.0,1.0,1.0,7.0,Thursday,CA,California,West,Alameda County,Flood,"Severe Storms, Flood, Mudslides and High Tide",,1983-01-08,
+DR-655,Disaster,1982-04-08,1982.0,4.0,2.0,8.0,Thursday,TX,Texas,South,Lamar County,Tornado,Severe Storms and Tornadoes,1982-04-08,1982-04-08,
+EM-3084,Emergency,1982-04-10,1982.0,4.0,2.0,10.0,Saturday,MS,Mississippi,South,Kemper County,Tornado,Tornadoes,1982-04-10,1982-04-10,
+DR-658,Disaster,1982-05-11,1982.0,5.0,2.0,11.0,Tuesday,ND,North Dakota,Midwest,Adams County,Flood,Flooding,1982-05-11,1982-05-11,1986-06-09
+DR-660,Disaster,1982-06-05,1982.0,6.0,2.0,5.0,Saturday,IL,Illinois,Midwest,Perry County,Tornado,Severe Storms and Tornadoes,1982-06-05,1982-06-05,
+DR-664,Disaster,1982-07-07,1982.0,7.0,3.0,7.0,Wednesday,FL,Florida,South,DeSoto County,Flood,Severe Storms and Flooding,1982-07-07,1982-07-07,
+DR-672,Disaster,1982-12-10,1982.0,12.0,4.0,10.0,Friday,MO,Missouri,Midwest,Bollinger County,Flood,Severe Storms and Flooding,1982-12-10,1982-12-10,
+DR-675,Disaster,1983-01-11,1983.0,1.0,1.0,11.0,Tuesday,LA,Louisiana,South,Allen Parish,Flood,Severe Storms and Flooding,1983-01-11,1983-01-11,1986-06-09
+DR-677,Disaster,1983-02-09,1983.0,2.0,1.0,9.0,Wednesday,CA,California,West,Alameda County,Storm,"Coastal Storms, Floods, Slides and Tornadoes",,,
+DR-682,Disaster,1983-05-05,1983.0,5.0,2.0,5.0,Thursday,CA,California,West,Kings County,Earthquake,Coalinga Earthquake,1983-05-05,1983-05-05,1989-10-03
+DR-683,Disaster,1983-06-01,1983.0,6.0,2.0,1.0,Wednesday,MS,Mississippi,South,Claiborne County,Storm,"Severe Storms, Tornadoes, and Flooding",1983-06-01,1983-06-01,1987-02-06
+DR-684,Disaster,1983-06-06,1983.0,6.0,2.0,6.0,Monday,IL,Illinois,Midwest,Alexander County,Storm,"Severe Storms, Tornadoes, and Flooding",1983-06-06,1983-06-06,1991-02-11
+DR-685,Disaster,1983-06-10,1983.0,6.0,2.0,10.0,Friday,OK,Oklahoma,South,Hughes County,Flood,Severe Storms and Flooding,1983-06-10,1983-06-10,
+DR-686,Disaster,1983-07-01,1983.0,7.0,3.0,1.0,Friday,AZ,Arizona,West,La Paz County,Flood,Flooding,,,
+DR-687,Disaster,1983-07-01,1983.0,7.0,3.0,1.0,Friday,CA,California,West,Imperial County,Flood,Flooding,,1984-02-01,1991-09-12
+DR-688,Disaster,1983-08-01,1983.0,8.0,3.0,1.0,Monday,AR,Arkansas,South,Hempstead County,Flood,Severe Storms and Flooding,1983-07-02,1983-07-03,1985-08-09
+DR-691,Disaster,1983-10-05,1983.0,10.0,4.0,5.0,Wednesday,AZ,Arizona,West,Apache County,Flood,Severe Storms and Flooding,,1983-10-10,1991-10-02
+DR-696,Disaster,1984-01-07,1984.0,1.0,1.0,7.0,Saturday,TX,Texas,South,Cameron County,Winter,Severe Freezing Weather,,,
+DR-701,Disaster,1984-04-12,1984.0,4.0,2.0,12.0,Thursday,NJ,New Jersey,Northeast,Atlantic County,Flood,Coastal Storms and Flooding,,1984-04-08,
+DR-704,Disaster,1984-05-03,1984.0,5.0,2.0,3.0,Thursday,OK,Oklahoma,South,Creek County,Tornado,Severe Storms and Tornadoes,,,
+EM-3088,Emergency,1984-05-11,1984.0,5.0,2.0,11.0,Friday,AL,Alabama,South,Cleburne County,Tornado,Severe Storms and Tornadoes,1984-05-11,1984-05-11,
+EM-3089,Emergency,1984-05-11,1984.0,5.0,2.0,11.0,Friday,GA,Georgia,South,Montgomery County,Tornado,Severe Storms and Tornadoes,1984-05-11,1984-05-11,1986-06-09
+DR-710,Disaster,1984-06-12,1984.0,6.0,2.0,12.0,Tuesday,WI,Wisconsin,Midwest,Dane County,Tornado,Severe Storms and Tornadoes,1984-06-08,1984-06-08,1991-02-11
+DR-716,Disaster,1984-07-03,1984.0,7.0,3.0,3.0,Tuesday,NE,Nebraska,Midwest,Burt County,Tornado,Tornadoes and Flooding,1984-06-11,,
+EM-3091,Emergency,1984-07-10,1984.0,7.0,3.0,10.0,Tuesday,WI,Wisconsin,Midwest,Menominee County,Flood,Severe Storms and Flooding,1984-07-10,1984-07-10,
+DR-722,Disaster,1984-09-06,1984.0,9.0,3.0,6.0,Thursday,NM,New Mexico,West,Eddy County,Flood,Severe Storms and Flooding,1984-08-08,,1988-10-05
+DR-723,Disaster,1984-09-06,1984.0,9.0,3.0,6.0,Thursday,NV,Nevada,West,Clark County,Flood,Heavy Rains and Flooding,1984-09-06,1984-09-06,1991-05-01
+DR-726,Disaster,1984-10-02,1984.0,10.0,4.0,2.0,Tuesday,TX,Texas,South,Cameron County,Flood,Severe Storms and Flooding,,,1988-10-05
+DR-729,Disaster,1984-12-10,1984.0,12.0,4.0,10.0,Monday,VI,Virgin Islands,Territory,St. Croix Island County-equivalent,Hurricane,Tropical Storm Klaus,1984-11-05,1984-11-07,
+DR-737,Disaster,1985-06-03,1985.0,6.0,2.0,3.0,Monday,PA,Pennsylvania,Northeast,Beaver County,Tornado,"Severe Storms, High Winds and Tornadoes",,1985-06-01,
+DR-738,Disaster,1985-06-03,1985.0,6.0,2.0,3.0,Monday,OH,Ohio,Midwest,Ashtabula County,Tornado,Severe Storms and Tornadoes,,,
+DR-740,Disaster,1985-08-07,1985.0,8.0,3.0,7.0,Wednesday,WY,Wyoming,West,Laramie County,Flood,"Severe Storms, Hail and Flooding",1985-08-07,1985-08-07,
+DR-741,Disaster,1985-09-04,1985.0,9.0,3.0,4.0,Wednesday,MS,Mississippi,South,Harrison County,Hurricane,Hurricane Elena,,1985-09-04,
+DR-742,Disaster,1985-09-07,1985.0,9.0,3.0,7.0,Saturday,AL,Alabama,South,Baldwin County,Hurricane,Hurricane Elena,,1985-09-02,
+DR-743,Disaster,1985-09-12,1985.0,9.0,3.0,12.0,Thursday,FL,Florida,South,Dixie County,Hurricane,Hurricane Elena,,1985-09-02,
+DR-745,Disaster,1985-10-08,1985.0,10.0,4.0,8.0,Tuesday,PA,Pennsylvania,Northeast,Carbon County,Hurricane,Hurricane Gloria,,,
+DR-746,Disaster,1985-10-10,1985.0,10.0,4.0,10.0,Thursday,PR,Puerto Rico,Territory,Adjuntas Municipio,Flood,"Severe Storms, Flooding and Mudslides",1985-10-04,1985-10-07,1997-10-01
+DR-747,Disaster,1985-10-11,1985.0,10.0,4.0,11.0,Friday,CT,Connecticut,Northeast,"Fairfield County(in PMSA 1160,1930,5760,8040",Hurricane,Hurricane Gloria,,,1994-02-10
+DR-752,Disaster,1985-11-01,1985.0,11.0,4.0,1.0,Friday,LA,Louisiana,South,Ward 9 Police Jury Ward,Hurricane,Hurricane Juan,,1985-11-08,
+DR-753,Disaster,1985-11-07,1985.0,11.0,4.0,7.0,Thursday,WV,West Virginia,South,Barbour County,Flood,Severe Storms and Flooding,1985-11-03,1985-11-07,
+DR-754,Disaster,1985-11-09,1985.0,11.0,4.0,9.0,Saturday,PA,Pennsylvania,Northeast,Allegheny County,Flood,Severe Storms and Flooding,1985-11-03,1985-11-06,
+DR-755,Disaster,1985-11-09,1985.0,11.0,4.0,9.0,Saturday,VA,Virginia,South,Alexandria,Flood,Severe Storms and Flooding,1985-11-09,1985-11-09,
+DR-756,Disaster,1985-12-03,1985.0,12.0,4.0,3.0,Tuesday,FL,Florida,South,Calhoun County,Hurricane,Hurricane Kate,,,
+DR-764,Disaster,1986-05-03,1986.0,5.0,2.0,3.0,Saturday,SD,South Dakota,Midwest,Aurora County,Flood,Severe Storms and Flooding,,1986-05-10,
+DR-765,Disaster,1986-06-03,1986.0,6.0,2.0,3.0,Tuesday,FM,,,Ponape,Typhoon,Typhoon Lola,,,
+DR-766,Disaster,1986-06-05,1986.0,6.0,2.0,5.0,Thursday,PA,Pennsylvania,Northeast,Allegheny County,Flood,Severe Storms and Flooding,,,
+DR-767,Disaster,1986-06-05,1986.0,6.0,2.0,5.0,Thursday,IN,Indiana,Midwest,Randolph County,Tornado,Tornadoes,1986-03-10,1986-03-10,1991-09-12
+DR-768,Disaster,1986-07-10,1986.0,7.0,3.0,10.0,Thursday,PR,Puerto Rico,Territory,Adjuntas Municipio,Flood,"Heavy Rains, Flooding and Mudslides",,,
+DR-772,Disaster,1986-09-10,1986.0,9.0,3.0,10.0,Wednesday,TX,Texas,South,Motley County,Tornado,Tornadoes,1986-05-01,1986-05-01,1990-10-12
+DR-773,Disaster,1986-09-10,1986.0,9.0,3.0,10.0,Wednesday,MD,Maryland,South,Allegany County,Flood,Severe Storm and Flooding,1985-11-04,1985-11-06,1995-04-11
+DR-775,Disaster,1986-10-07,1986.0,10.0,4.0,7.0,Tuesday,WI,Wisconsin,Midwest,Dodge County,Flood,Severe Storms and Flooding,1986-09-10,1986-10-03,
+DR-776,Disaster,1986-10-07,1986.0,10.0,4.0,7.0,Tuesday,IL,Illinois,Midwest,Adams County,Flood,Severe Storms and Flooding,,,
+DR-783,Disaster,1986-12-10,1986.0,12.0,4.0,10.0,Wednesday,MP,Northern Mariana Islands,Territory,Northern Islands Municipality,Typhoon,Typhoon Kim,1986-12-03,1986-12-03,
+DR-786,Disaster,1987-02-02,1987.0,2.0,1.0,2.0,Monday,FM,,,Yap County-equivalent,Typhoon,Typhoon Orchid,1987-01-10,1987-01-11,
+DR-787,Disaster,1987-03-05,1987.0,3.0,1.0,5.0,Thursday,MS,Mississippi,South,Jones County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+DR-788,Disaster,1987-04-09,1987.0,4.0,2.0,9.0,Thursday,ME,Maine,Northeast,Androscoggin County,Flood,Severe Storms and Flooding,,1987-04-12,1995-09-08
+DR-794,Disaster,1987-07-09,1987.0,7.0,3.0,9.0,Thursday,OK,Oklahoma,South,Caddo County,Flood,Severe Storms and Flooding,,,
+DR-797,Disaster,1987-08-06,1987.0,8.0,3.0,6.0,Thursday,MN,Minnesota,Midwest,Anoka County,Storm,"Severe Storms, Tornadoes, and Flooding",,1987-08-05,
+EM-3092,Emergency,1987-09-04,1987.0,9.0,3.0,4.0,Friday,WY,Wyoming,West,Campbell County,Chemical,Methane Gas Seepage,1987-02-10,1987-02-10,1990-06-11
+DR-799,Disaster,1987-10-07,1987.0,10.0,4.0,7.0,Wednesday,CA,California,West,Los Angeles County,Earthquake,Earthquake and Aftershocks,1987-10-01,,2000-09-07
+DR-800,Disaster,1987-11-03,1987.0,11.0,4.0,3.0,Tuesday,MP,Northern Mariana Islands,Territory,Rota Municipality,Typhoon,Typhoon Lynn,,,
+DR-801,Disaster,1987-11-10,1987.0,11.0,4.0,10.0,Tuesday,NY,New York,Northeast,Albany County,Snow,Severe Winter Storm,1987-10-04,1987-10-04,
+DR-808,Disaster,1988-01-08,1988.0,1.0,1.0,8.0,Friday,HI,Hawaii,West,Honolulu County,Flood,"Severe Storms, Mudslides and Flooding",1987-11-12,1988-01-02,1991-05-07
+DR-812,Disaster,1988-02-05,1988.0,2.0,1.0,5.0,Friday,CA,California,West,Los Angeles County,Flood,"Severe Storms, High Tides and Flooding",,,
+DR-813,Disaster,1988-03-11,1988.0,3.0,1.0,11.0,Friday,AK,Alaska,West,Tanana ANV/ANVSA,Fire,Fire,1988-02-10,1988-02-10,
+DR-816,Disaster,1988-10-05,1988.0,10.0,4.0,5.0,Wednesday,TX,Texas,South,Bexar County,Hurricane,Hurricane Gilbert,,,1991-06-04
+DR-818,Disaster,1988-12-02,1988.0,12.0,4.0,2.0,Friday,NC,North Carolina,South,Currituck County,Tornado,Severe Storms and Tornadoes,,,
+DR-824,Disaster,1989-05-08,1989.0,5.0,2.0,8.0,Monday,MN,Minnesota,Midwest,Clay County,Flood,Flooding,,1989-05-08,1999-03-01
+DR-825,Disaster,1989-05-08,1989.0,5.0,2.0,8.0,Monday,ND,North Dakota,Midwest,Cass County,Flood,Flooding,,1989-05-08,
+DR-826,Disaster,1989-05-10,1989.0,5.0,2.0,10.0,Wednesday,AK,Alaska,West,Aleutian Islands Census Subarea,Winter,Severe Freezing,,,
+DR-830,Disaster,1989-06-07,1989.0,6.0,2.0,7.0,Wednesday,ME,Maine,Northeast,Androscoggin County,Flood,Severe Storms and Flooding,1989-05-05,,
+DR-831,Disaster,1989-06-10,1989.0,6.0,2.0,10.0,Saturday,OH,Ohio,Midwest,Butler County,Flood,Severe Storms and Flooding,,,
+DR-832,Disaster,1989-06-10,1989.0,6.0,2.0,10.0,Saturday,AK,Alaska,West,Bethel Census Area,Flood,Flooding,1989-05-01,1989-06-10,
+DR-840,Disaster,1989-09-11,1989.0,9.0,3.0,11.0,Monday,VT,Vermont,Northeast,Addison County,Flood,Severe Storms and Flooding,1989-08-04,1989-08-05,2002-02-05
+DR-847,Disaster,1989-11-08,1989.0,11.0,4.0,8.0,Wednesday,VA,Virginia,South,Buchanan County,Flood,"Severe Storms, Mudslides and Flooding",,,2001-08-03
+DR-850,Disaster,1990-01-09,1990.0,1.0,1.0,9.0,Tuesday,TX,Texas,South,Cameron County,Winter,Severe Freeze,,,
+DR-854,Disaster,1990-02-05,1990.0,2.0,1.0,5.0,Monday,MP,Northern Mariana Islands,Territory,Northern Islands Municipality,Typhoon,Typhoon Koryn,,,1999-04-12
+DR-855,Disaster,1990-02-09,1990.0,2.0,1.0,9.0,Friday,AS,American Samoa,Territory,Eastern District,Hurricane,Hurricane Ofa,1990-02-02,1990-02-12,
+DR-860,Disaster,1990-03-06,1990.0,3.0,1.0,6.0,Tuesday,IL,Illinois,Midwest,Champaign County,Ice,Severe Ice Storm,,,
+DR-862,Disaster,1990-04-03,1990.0,4.0,2.0,3.0,Tuesday,FL,Florida,South,Bay County,Flood,Severe Storms and Flooding,,1990-04-09,1996-06-12
+DR-863,Disaster,1990-05-02,1990.0,5.0,2.0,2.0,Wednesday,TX,Texas,South,Anderson County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+DR-869,Disaster,1990-06-04,1990.0,6.0,2.0,4.0,Monday,IN,Indiana,Midwest,Brown County,Storm,"Severe Storms, Tornadoes, and Flooding",,,2002-08-02
+DR-870,Disaster,1990-06-06,1990.0,6.0,2.0,6.0,Wednesday,OH,Ohio,Midwest,Athens County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+DR-873,Disaster,1990-07-04,1990.0,7.0,3.0,4.0,Wednesday,NE,Nebraska,Midwest,Boone County,Storm,"Severe Storms, Tornadoes, and Flooding",1990-06-10,,2002-04-02
+DR-879,Disaster,1990-09-06,1990.0,9.0,3.0,6.0,Thursday,IA,Iowa,Midwest,Black Hawk County,Flood,Severe Storms and Flooding,,,
+DR-884,Disaster,1990-12-06,1990.0,12.0,4.0,6.0,Thursday,AZ,Arizona,West,Gila Bend Indian Reservation,Flood,Severe Storms and Flooding,1990-07-08,,
+DR-885,Disaster,1990-12-06,1990.0,12.0,4.0,6.0,Thursday,IN,Indiana,Midwest,Lake County,Flood,Severe Storms and Flooding,,,
+DR-888,Disaster,1991-01-03,1991.0,1.0,1.0,3.0,Thursday,MS,Mississippi,South,Carroll County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+DR-889,Disaster,1991-01-04,1991.0,1.0,1.0,4.0,Friday,TN,Tennessee,South,Anderson County,Flood,Severe Storms and Flooding,,,
+DR-890,Disaster,1991-01-04,1991.0,1.0,1.0,4.0,Friday,AL,Alabama,South,Colbert County,Flood,Severe Storms and Flooding,,,
+DR-891,Disaster,1991-01-05,1991.0,1.0,1.0,5.0,Saturday,IN,Indiana,Midwest,Adams County,Flood,Severe Storms and Flooding,,,
+DR-894,Disaster,1991-02-11,1991.0,2.0,1.0,11.0,Monday,CA,California,West,Alameda County,Winter,Severe Freeze,,1991-01-03,
+DR-895,Disaster,1991-03-05,1991.0,3.0,1.0,5.0,Tuesday,MS,Mississippi,South,Adams County,Flood,Severe Storms and Flooding,,,
+DR-896,Disaster,1991-03-08,1991.0,3.0,1.0,8.0,Friday,WA,Washington,West,Island County,Flood,Severe Storms and High Tides,,,
+DR-900,Disaster,1991-04-12,1991.0,4.0,2.0,12.0,Friday,TX,Texas,South,Brazoria County,Storm,"Severe Storms, Tornadoes, and Flooding",1991-04-05,1991-04-06,
+DR-904,Disaster,1991-05-03,1991.0,5.0,2.0,3.0,Friday,LA,Louisiana,South,Assumption Parish,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+DR-905,Disaster,1991-05-08,1991.0,5.0,2.0,8.0,Wednesday,OK,Oklahoma,South,Garfield County,Tornado,Severe Storms and Tornadoes,,,
+DR-911,Disaster,1991-07-12,1991.0,7.0,3.0,12.0,Friday,IA,Iowa,Midwest,Black Hawk County,Flood,Severe Storms and Flooding,1991-06-01,,2005-08-02
+DR-912,Disaster,1991-08-06,1991.0,8.0,3.0,6.0,Tuesday,WI,Wisconsin,Midwest,Dane County,Storm,Severe Storms and Hail,1991-07-07,1991-07-07,1998-07-09
+DR-917,Disaster,1991-09-09,1991.0,9.0,3.0,9.0,Monday,NH,New Hampshire,Northeast,Carroll County,Hurricane,Hurricane Bob and Severe Storms,,,
+DR-920,Disaster,1991-11-04,1991.0,11.0,4.0,4.0,Monday,MA,Massachusetts,Northeast,Barnstable County,Storm,Coastal Storm,,1991-11-02,
+DR-921,Disaster,1991-11-07,1991.0,11.0,4.0,7.0,Thursday,ME,Maine,Northeast,Cumberland County,Storm,Coastal Storm,,1991-11-02,
+DR-924,Disaster,1991-12-04,1991.0,12.0,4.0,4.0,Wednesday,GU,Guam,Territory,Guam County-equivalent,Typhoon,Typhoon Yuri,,,
+DR-925,Disaster,1991-12-06,1991.0,12.0,4.0,6.0,Friday,MH,,,Ebeye,Typhoon,Typhoon Zelda,,,
+DR-926,Disaster,1991-12-10,1991.0,12.0,4.0,10.0,Tuesday,FM,,,Pingelap Municipality,Typhoon,Typhoon Yuri,,,
+DR-933,Disaster,1992-02-06,1992.0,2.0,1.0,6.0,Thursday,DE,Delaware,South,Kent County,Flood,Severe Coastal Storm,1992-01-04,1992-01-05,
+DR-932,Disaster,1992-02-07,1992.0,2.0,1.0,7.0,Friday,MH,,,Ebeye,Flood,Tropical Storm Axel,1992-01-06,1992-01-06,
+DR-934,Disaster,1992-02-07,1992.0,2.0,1.0,7.0,Friday,FM,,,Pingelap Municipality,Typhoon,Typhoon Axel,1992-01-08,1992-01-10,
+DR-936,Disaster,1992-03-03,1992.0,3.0,1.0,3.0,Tuesday,NJ,New Jersey,Northeast,Atlantic County,Storm,Severe Coastal Storm,1992-01-04,1992-01-04,
+DR-942,Disaster,1992-05-02,1992.0,5.0,2.0,2.0,Saturday,CA,California,West,Los Angeles County,Fire,Fire During A Period of Civil Unrest,,,2010-08-11
+DR-943,Disaster,1992-05-04,1992.0,5.0,2.0,4.0,Monday,CA,California,West,Humboldt County,Earthquake,Earthquake and Aftershocks,,,2010-08-09
+DR-947,Disaster,1992-07-02,1992.0,7.0,3.0,2.0,Thursday,CA,California,West,Riverside County,Earthquake,Earthquake and Aftershocks,,,2010-08-06
+DR-948,Disaster,1992-07-02,1992.0,7.0,3.0,2.0,Thursday,SD,South Dakota,Midwest,Brookings County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+DR-949,Disaster,1992-07-02,1992.0,7.0,3.0,2.0,Thursday,TX,Texas,South,Carson County,Tornado,Severe Storms and Tornadoes,,,
+DR-951,Disaster,1992-08-04,1992.0,8.0,3.0,4.0,Tuesday,OH,Ohio,Midwest,Auglaize County,Storm,"Severe Storms, Tornadoes, and Flooding",1992-07-12,1992-08-01,
+DR-959,Disaster,1992-09-02,1992.0,9.0,3.0,2.0,Wednesday,WI,Wisconsin,Midwest,Waushara County,Tornado,Severe Storms and Tornadoes,,,
+DR-960,Disaster,1992-09-09,1992.0,9.0,3.0,9.0,Wednesday,TX,Texas,South,Bailey County,Storm,Excessive Rain and Hail,1992-05-01,,1995-09-08
+DR-961,Disaster,1992-09-12,1992.0,9.0,3.0,12.0,Saturday,HI,Hawaii,West,Niihau CCD,Hurricane,Hurricane Iniki,1992-09-11,1992-09-11,
+DR-965,Disaster,1992-10-02,1992.0,10.0,4.0,2.0,Friday,IA,Iowa,Midwest,Adams County,Flood,Severe Storms and Flooding,,,2005-08-03
+DR-966,Disaster,1992-10-08,1992.0,10.0,4.0,8.0,Thursday,FL,Florida,South,Baker County,Storm,"Severe Storms, Tornadoes, and Flooding",1992-10-03,1992-10-04,2004-04-07
+DR-969,Disaster,1992-12-01,1992.0,12.0,4.0,1.0,Tuesday,GA,Georgia,South,Carroll County,Tornado,"High Winds, Heavy Rains and Tornadoes",,1992-12-07,2002-04-04
+DR-970,Disaster,1992-12-04,1992.0,12.0,4.0,4.0,Friday,TX,Texas,South,Harris County,Tornado,Severe Thunderstorms and Tornadoes,,,
+DR-978,Disaster,1993-02-02,1993.0,2.0,1.0,2.0,Tuesday,LA,Louisiana,South,Ascension Parish,Flood,Severe Storms and Flooding,,,1996-03-06
+DR-979,Disaster,1993-02-03,1993.0,2.0,1.0,3.0,Wednesday,CA,California,West,Alpine County,Flood,"Severe Winter Storm, Mud and Land Slides, and Flooding",1993-01-05,,2011-02-10
+DR-980,Disaster,1993-03-04,1993.0,3.0,1.0,4.0,Thursday,GA,Georgia,South,Bartow County,Tornado,"Tornadoes, High Winds and Heavy Rains",,,
+DR-981,Disaster,1993-03-04,1993.0,3.0,1.0,4.0,Thursday,WA,Washington,West,King County,Storm,Severe Storms and High Wind,,,
+DR-983,Disaster,1993-04-02,1993.0,4.0,2.0,2.0,Friday,NE,Nebraska,Midwest,Adams County,Flood,Ice Jams and Flooding,1993-03-07,,
+DR-984,Disaster,1993-04-02,1993.0,4.0,2.0,2.0,Friday,NY,New York,Northeast,New York County,Human Cause,Explosion at World Trade Center,,,
+DR-988,Disaster,1993-05-11,1993.0,5.0,2.0,11.0,Tuesday,ME,Maine,Northeast,Androscoggin County,Flood,"Heavy Rain, Snowmelt, Ice Jams and Flooding",1993-04-09,,1999-04-12
+DR-989,Disaster,1993-05-11,1993.0,5.0,2.0,11.0,Tuesday,MO,Missouri,Midwest,Jefferson County,Flood,Severe Storms and Flooding,,,1998-02-12
+DR-990,Disaster,1993-05-12,1993.0,5.0,2.0,12.0,Wednesday,VT,Vermont,Northeast,Addison County,Flood,"Heavy Rain, Snowmelt and Flooding",,,
+DR-991,Disaster,1993-05-12,1993.0,5.0,2.0,12.0,Wednesday,OK,Oklahoma,South,Adair County,Storm,"Severe Storms, Tornadoes, and Flooding",1993-05-08,,2005-07-08
+DR-992,Disaster,1993-06-07,1993.0,6.0,2.0,7.0,Monday,NM,New Mexico,West,Catron County,Flood,Severe Storms and Flooding,1993-01-05,,
+DR-993,Disaster,1993-06-11,1993.0,6.0,2.0,11.0,Friday,MN,Minnesota,Midwest,Aitkin County,Storm,"Severe Storms, Tornadoes, and Flooding",1993-05-06,,2009-03-11
+DR-994,Disaster,1993-07-02,1993.0,7.0,3.0,2.0,Friday,WI,Wisconsin,Midwest,Adams County,Storm,"Severe Storms, Tornadoes, and Flooding",1993-06-07,,2006-03-07
+DR-995,Disaster,1993-07-09,1993.0,7.0,3.0,9.0,Friday,MO,Missouri,Midwest,Jefferson City,Flood,Severe Storms and Flooding,1993-06-10,,
+DR-996,Disaster,1993-07-09,1993.0,7.0,3.0,9.0,Friday,IA,Iowa,Midwest,Adair County,Flood,Severe Storms and Flooding,,1993-10-01,
+DR-997,Disaster,1993-07-09,1993.0,7.0,3.0,9.0,Friday,IL,Illinois,Midwest,Adams County,Flood,Severe Storms and Flooding,,,
+DR-1002,Disaster,1993-09-09,1993.0,9.0,3.0,9.0,Thursday,IN,Indiana,Midwest,Clay County,Storm,Severe Storms and Flooding,,,
+DR-1003,Disaster,1993-09-10,1993.0,9.0,3.0,10.0,Friday,NC,North Carolina,South,Dare County,Hurricane,Hurricane Emily,,,
+EM-3113,Emergency,1993-09-10,1993.0,9.0,3.0,10.0,Friday,TX,Texas,South,Anderson County,Drought,Extreme Fire Hazard,,,
+DR-1006,Disaster,1993-12-01,1993.0,12.0,4.0,1.0,Wednesday,MO,Missouri,Midwest,Bollinger County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+DR-1013,Disaster,1994-03-03,1994.0,3.0,1.0,3.0,Thursday,AL,Alabama,South,Colbert County,Storm,"Severe Winter Storms, Freezing, Flooding",,,
+DR-1014,Disaster,1994-03-10,1994.0,3.0,1.0,10.0,Thursday,VA,Virginia,South,Bedford,Snow,"Severe Ice Storms, Flooding",1994-02-08,1994-02-12,
+DR-1015,Disaster,1994-03-10,1994.0,3.0,1.0,10.0,Thursday,PA,Pennsylvania,Northeast,Adams County,Storm,Severe Winter Storms,1994-01-04,,
+DR-1021,Disaster,1994-04-11,1994.0,4.0,2.0,11.0,Monday,VA,Virginia,South,Emporia,Storm,Severe Winter Ice Storm,1994-03-01,1994-03-05,
+DR-1027,Disaster,1994-05-09,1994.0,5.0,2.0,9.0,Monday,NE,Nebraska,Midwest,Buffalo County,Snow,Severe Snow and Ice Storm,1994-04-10,,
+DR-1028,Disaster,1994-05-10,1994.0,5.0,2.0,10.0,Tuesday,MI,Michigan,Midwest,Charlevoix County,Winter,Severe Deep Freeze,1994-01-10,1994-06-10,1999-04-12
+DR-1032,Disaster,1994-07-01,1994.0,7.0,3.0,1.0,Friday,ND,North Dakota,Midwest,Barnes County,Storm,"Severe Storms, Flooding",1994-03-05,1994-08-05,
+DR-1033,Disaster,1994-07-07,1994.0,7.0,3.0,7.0,Thursday,GA,Georgia,South,Baker County,Tornado,"Tornadoes, Flooding Torrential Rain(Trop Storm Alberto)",1994-07-03,,
+DR-1034,Disaster,1994-07-08,1994.0,7.0,3.0,8.0,Friday,AL,Alabama,South,Barbour County,Storm,Severe Storms and Flooding (Tropical Storm Alberto),1994-07-02,,
+EM-3114,Emergency,1994-07-08,1994.0,7.0,3.0,8.0,Friday,FL,Florida,South,Bay County,Flood,Tropical Storm Alberto,1994-07-02,,
+DR-1035,Disaster,1994-07-10,1994.0,7.0,3.0,10.0,Sunday,FL,Florida,South,Bay County,Storm,Severe Storms and Flooding (Tropical Storm Alberto),1994-07-02,,
+DR-1036,Disaster,1994-08-02,1994.0,8.0,3.0,2.0,Tuesday,OR,Oregon,West,Clatsop County,Water,The El Nino (The Salmon Industry),1994-05-01,,
+DR-1037,Disaster,1994-08-02,1994.0,8.0,3.0,2.0,Tuesday,WA,Washington,West,Clallam County,Water,The El Nino (The Salmon Industry),1994-05-01,,
+DR-1040,Disaster,1994-10-06,1994.0,10.0,4.0,6.0,Thursday,MH,,,Majuro County-equivalent,Storm,High Surf and Wave Action,1994-06-09,1994-06-10,2006-03-06
+DR-1044,Disaster,1995-01-10,1995.0,1.0,1.0,10.0,Tuesday,CA,California,West,Alameda County,Storm,"Severe Winter Storms, Flooding, Landslides, Mud Flows",1995-01-03,1995-02-10,2012-05-02
+DR-1046,Disaster,1995-03-12,1995.0,3.0,1.0,12.0,Sunday,CA,California,West,Alameda County,Storm,"Severe Winter Storms, Flooding Landslides, Mud Flow",,,
+DR-1049,Disaster,1995-05-10,1995.0,5.0,2.0,10.0,Wednesday,LA,Louisiana,South,Ward 9 Police Jury Ward,Storm,Severe Storms and Flooding,1995-05-08,,
+DR-1051,Disaster,1995-05-12,1995.0,5.0,2.0,12.0,Friday,MS,Mississippi,South,Hancock County,Storm,"Severe Storms, Tornadoes, Flooding",1995-05-08,,
+DR-1054,Disaster,1995-06-02,1995.0,6.0,2.0,2.0,Friday,MO,Missouri,Midwest,St. Louis,Storm,"Severe Storms, Tornadoes, Hail, Flooding",,,
+DR-1059,Disaster,1995-07-01,1995.0,7.0,3.0,1.0,Saturday,VA,Virginia,South,Bedford,Storm,Severe Storms and Flooding,,1995-07-07,
+DR-1060,Disaster,1995-07-12,1995.0,7.0,3.0,12.0,Wednesday,WV,West Virginia,South,Mercer County,Storm,"Severe Storms, Heavy Rains, Flooding, Mudslides",,,
+DR-1061,Disaster,1995-08-03,1995.0,8.0,3.0,3.0,Thursday,OR,Oregon,West,Wasco County,Flood,Flooding,1995-07-08,1995-07-09,2000-09-07
+EM-3116,Emergency,1995-08-03,1995.0,8.0,3.0,3.0,Thursday,FL,Florida,South,,Hurricane,Hurricane Erin,1995-08-02,1995-08-03,
+DR-1062,Disaster,1995-08-10,1995.0,8.0,3.0,10.0,Thursday,FL,Florida,South,Bay County,Hurricane,Hurricane Erin,1995-08-02,1995-08-03,
+DR-1066,Disaster,1995-09-01,1995.0,9.0,3.0,1.0,Friday,OK,Oklahoma,South,Alfalfa County,Storm,Severe Storms and Flooding,,1995-08-06,2003-06-04
+DR-1069,Disaster,1995-10-04,1995.0,10.0,4.0,4.0,Wednesday,FL,Florida,South,Bay County,Hurricane,Hurricane Opal,1995-10-04,1995-10-11,2007-06-06
+DR-1070,Disaster,1995-10-04,1995.0,10.0,4.0,4.0,Wednesday,AL,Alabama,South,Autauga County,Hurricane,Hurricane Opal,1995-10-04,1995-10-08,
+DR-1071,Disaster,1995-10-10,1995.0,10.0,4.0,10.0,Tuesday,GA,Georgia,South,Banks County,Hurricane,Hurricane Opal,1995-10-04,1995-10-05,
+DR-1077,Disaster,1996-01-03,1996.0,1.0,1.0,3.0,Wednesday,NH,New Hampshire,Northeast,Carroll County,Flood,"Excessive Rainfall, High Winds, and Flooding",,,
+DR-1079,Disaster,1996-01-03,1996.0,1.0,1.0,3.0,Wednesday,WA,Washington,West,Chelan County,Storm,"Severe Storms, High Wind, and Flooding",1995-11-07,,
+DR-1075,Disaster,1996-01-05,1996.0,1.0,1.0,5.0,Friday,SD,South Dakota,Midwest,Aurora County,Snow,Severe Winter Storm,,,
+DR-1078,Disaster,1996-01-05,1996.0,1.0,1.0,5.0,Friday,MN,Minnesota,Midwest,Big Stone County,Snow,"High Winds, Freezing Rain, Heavy Snowfall",,,1999-12-06
+DR-1080,Disaster,1996-01-11,1996.0,1.0,1.0,11.0,Thursday,DC,District of Columbia,South,,Storm,Blizzard of 96 (Severe Snow Storm),1996-01-06,1996-01-10,
+DR-1081,Disaster,1996-01-11,1996.0,1.0,1.0,11.0,Thursday,MD,Maryland,South,Baltimore,Snow,Blizzard of 96 (Severe Snow Storm),1996-01-06,1996-01-12,
+DR-1082,Disaster,1996-01-12,1996.0,1.0,1.0,12.0,Friday,DE,Delaware,South,Kent County,Snow,Blizzard of 96 (Severe Snow Storm),1996-01-06,1996-01-12,
+DR-1083,Disaster,1996-01-12,1996.0,1.0,1.0,12.0,Friday,NY,New York,Northeast,Albany County,Snow,Blizzard of 96 (Severe Snow Storm),1996-01-06,1996-01-12,2001-08-03
+DR-1099,Disaster,1996-02-09,1996.0,2.0,1.0,9.0,Friday,OR,Oregon,West,Benton County,Flood,"High Winds, Severe  Storms and Flooding",1996-02-04,,
+DR-1100,Disaster,1996-02-09,1996.0,2.0,1.0,9.0,Friday,WA,Washington,West,Adams County,Flood,"High Winds, Severe Storms and Flooding",,,
+DR-1102,Disaster,1996-02-11,1996.0,2.0,1.0,11.0,Sunday,ID,Idaho,West,Benewah County,Storm,Severe Storms and Flooding,1996-02-06,,
+DR-1109,Disaster,1996-04-02,1996.0,4.0,2.0,2.0,Tuesday,IN,Indiana,Midwest,Bartholomew County,Flood,Blizzard of 96,1996-01-06,1996-01-12,1998-07-09
+DR-1112,Disaster,1996-05-06,1996.0,5.0,2.0,6.0,Monday,IL,Illinois,Midwest,Adams County,Storm,Severe Storms and Flooding,,,
+DR-1116,Disaster,1996-06-01,1996.0,6.0,2.0,1.0,Saturday,MN,Minnesota,Midwest,Aitkin County,Flood,Flooding and Severe Storms,,,2005-03-09
+DR-1117,Disaster,1996-06-01,1996.0,6.0,2.0,1.0,Saturday,KY,Kentucky,South,Bullitt County,Storm,"Severe Storms, Flooding and Tornadoes",,,
+DR-1118,Disaster,1996-06-05,1996.0,6.0,2.0,5.0,Wednesday,ND,North Dakota,Midwest,Barnes County,Storm,"Severe Storms,Flooding, and  Ice Jams",1996-03-12,,
+DR-1119,Disaster,1996-06-07,1996.0,6.0,2.0,7.0,Friday,AK,Alaska,West,Matanuska-Susitna Borough,Fire,Wildland Fires,1996-06-02,,
+DR-1125,Disaster,1996-07-03,1996.0,7.0,3.0,3.0,Wednesday,IN,Indiana,Midwest,Brown County,Storm,Severe Storms and Flooding,,,
+DR-1126,Disaster,1996-07-11,1996.0,7.0,3.0,11.0,Thursday,VI,Virgin Islands,Territory,St. Croix Island County-equivalent,Hurricane,Hurricane Bertha,1996-07-08,1996-07-09,2011-02-09
+DR-1131,Disaster,1996-08-02,1996.0,8.0,3.0,2.0,Friday,WI,Wisconsin,Midwest,Fond du Lac County,Flood,"Severe Storms, Flooding and Tornadoes",,,
+DR-1134,Disaster,1996-09-06,1996.0,9.0,3.0,6.0,Friday,NC,North Carolina,South,Alamance County,Hurricane,Hurricane Fran,1996-09-05,,
+DR-1135,Disaster,1996-09-06,1996.0,9.0,3.0,6.0,Friday,VA,Virginia,South,Bedford,Hurricane,Hurricane Fran and Associated Severe Storm Cond,1996-09-05,,2010-06-02
+DR-1136,Disaster,1996-09-11,1996.0,9.0,3.0,11.0,Wednesday,PR,Puerto Rico,Territory,Adjuntas Municipio,Hurricane,Hurricane Hortense,1996-09-09,1996-09-11,2010-11-10
+DR-1137,Disaster,1996-09-11,1996.0,9.0,3.0,11.0,Wednesday,WV,West Virginia,South,Berkeley County,Storm,"Hurricane Fran and Associated Heavy Rains,Flooding Highwind",1996-09-05,1996-09-08,
+DR-1148,Disaster,1996-12-09,1996.0,12.0,4.0,9.0,Monday,NY,New York,Northeast,Chemung County,Storm,"Severe Storms High Winds, Rain and Flooding",1996-11-08,,2004-12-08
+DR-1153,Disaster,1997-01-03,1997.0,1.0,1.0,3.0,Friday,NV,Nevada,West,Carson City,Storm,"Severe Storms, Flooding, Mud and Landslides",,,
+DR-1154,Disaster,1997-01-04,1997.0,1.0,1.0,4.0,Saturday,ID,Idaho,West,Adams County,Storm,"Severe Storms, Flooding, Mud and Landslides",,1997-01-03,
+DR-1155,Disaster,1997-01-04,1997.0,1.0,1.0,4.0,Saturday,CA,California,West,Alameda County,Storm,"Severe Storms, Flooding, Mud and Landslides",,1997-04-01,2013-07-01
+DR-1151,Disaster,1997-01-07,1997.0,1.0,1.0,7.0,Tuesday,MN,Minnesota,Midwest,Cottonwood County,Storm,Severe Ice Storm,,,
+DR-1152,Disaster,1997-01-07,1997.0,1.0,1.0,7.0,Tuesday,WA,Washington,West,Klickitat County,Ice,Severe Ice Storm,,1996-12-04,2002-08-02
+DR-1156,Disaster,1997-01-10,1997.0,1.0,1.0,10.0,Friday,SD,South Dakota,Midwest,West Washabaugh Unorganized Territory of,Storm,Severe Winter Storms and Blizzard Conditions,1997-01-03,,
+DR-1157,Disaster,1997-01-12,1997.0,1.0,1.0,12.0,Sunday,ND,North Dakota,Midwest,Adams County,Storm,Severe Winter Storms and Blizzard Conditions,1997-01-03,,
+DR-1162,Disaster,1997-03-02,1997.0,3.0,1.0,2.0,Sunday,AR,Arkansas,South,Baxter County,Storm,Severe Storms and Tornadoes,1997-03-01,1997-03-04,2014-04-02
+DR-1163,Disaster,1997-03-04,1997.0,3.0,1.0,4.0,Tuesday,KY,Kentucky,South,Adair County,Storm,"Severe Storm, Flooding, and Tornadoes",1997-03-01,,
+DR-1164,Disaster,1997-03-04,1997.0,3.0,1.0,4.0,Tuesday,OH,Ohio,Midwest,Adams County,Storm,Severe Storms and Flooding,,,
+DR-1165,Disaster,1997-03-06,1997.0,3.0,1.0,6.0,Thursday,IN,Indiana,Midwest,Clark County,Storm,Severe Storms and Flooding,,,
+DR-1167,Disaster,1997-03-07,1997.0,3.0,1.0,7.0,Friday,TN,Tennessee,South,Benton County,Tornado,"Heavy Rains, Tornadoes, Flooding, Hail, High Winds",,,2007-07-03
+DR-1168,Disaster,1997-03-07,1997.0,3.0,1.0,7.0,Friday,WV,West Virginia,South,Braxton County,Flood,"Heavy and Wind Driven Rain, High Winds,Flooding,Slides",,,2006-12-08
+DR-1166,Disaster,1997-03-11,1997.0,3.0,1.0,11.0,Tuesday,FM,,,Yap County-equivalent,Typhoon,Typhoon Fern,,,
+DR-1171,Disaster,1997-04-02,1997.0,4.0,2.0,2.0,Wednesday,TN,Tennessee,South,Bradley County,Storm,Severe Storms and Tornadoes,,,2007-07-03
+DR-1172,Disaster,1997-04-02,1997.0,4.0,2.0,2.0,Wednesday,WA,Washington,West,Clallam County,Flood,"Heavy Rains, Snow Melt, Flooding, Land and Mud Slides",,,
+DR-1173,Disaster,1997-04-07,1997.0,4.0,2.0,7.0,Monday,SD,South Dakota,Midwest,Aurora County,Flood,"Severe Flooding, Sever Winter Storms,Heavy Rains High Winds",1997-02-03,,
+DR-1174,Disaster,1997-04-07,1997.0,4.0,2.0,7.0,Monday,ND,North Dakota,Midwest,Adams County,Flood,"Severe Flooding,Severe Winter Storms, Snowmelt, Spring Rains",,,
+DR-1175,Disaster,1997-04-08,1997.0,4.0,2.0,8.0,Tuesday,MN,Minnesota,Midwest,Aitkin County,Flood,"Severe Flooding, High Winds,Severe Storms",,,2010-06-07
+DR-1179,Disaster,1997-07-07,1997.0,7.0,3.0,7.0,Monday,TX,Texas,South,Bandera County,Flood,Severe Storms and Flooding,,,2009-03-11
+DR-1180,Disaster,1997-07-07,1997.0,7.0,3.0,7.0,Monday,WI,Wisconsin,Midwest,Milwaukee County,Storm,Severe Storms and Flooding,,,
+DR-1181,Disaster,1997-07-11,1997.0,7.0,3.0,11.0,Friday,MI,Michigan,Midwest,Genesee County,Storm,"Severe Storms, Tornadoes,and Flooding",1997-07-02,1997-07-02,2008-05-07
+DR-1186,Disaster,1997-08-01,1997.0,8.0,3.0,1.0,Friday,CO,Colorado,West,Baca County,Flood,"Severe Storms, Heavy Rain, Flash Floods, Flooding, Mudslides",,1997-08-12,2010-06-01
+DR-1190,Disaster,1997-11-01,1997.0,11.0,4.0,1.0,Saturday,NE,Nebraska,Midwest,Adams County,Storm,"Severe Snow Storms, Rain, and Strong Winds",,,2006-09-05
+DR-1192,Disaster,1997-12-08,1997.0,12.0,4.0,8.0,Monday,MP,Northern Mariana Islands,Territory,Rota Municipality,Typhoon,Super Typhoon Keith,1997-11-02,1997-11-03,2010-06-07
+DR-1195,Disaster,1998-01-06,1998.0,1.0,1.0,6.0,Tuesday,FL,Florida,South,Alachua County,Storm,"Severe Storms, High Winds, Tornadoes, and Flooding",,,2011-06-09
+DR-1196,Disaster,1998-01-06,1998.0,1.0,1.0,6.0,Tuesday,NY,New York,Northeast,Clinton County,Snow,Severe Storms and Flooding,1998-01-05,,2005-09-08
+DR-1203,Disaster,1998-02-09,1998.0,2.0,1.0,9.0,Monday,CA,California,West,Alameda County,Storm,Severe Winter Storms and Flooding,1998-02-02,,
+DR-1204,Disaster,1998-02-12,1998.0,2.0,1.0,12.0,Thursday,FL,Florida,South,Broward County,Storm,"Severe Storms, High Winds, Tornadoes, and Flooding",1998-02-02,1998-02-04,
+DR-1206,Disaster,1998-03-03,1998.0,3.0,1.0,3.0,Tuesday,NJ,New Jersey,Northeast,Atlantic County,Storm,"Severe Winter Coastal Storm, High Winds, Flooding",1998-02-04,1998-02-08,2006-04-10
+DR-1207,Disaster,1998-03-03,1998.0,3.0,1.0,3.0,Tuesday,KY,Kentucky,South,Adair County,Storm,Severe Winter Storm,1998-02-04,1998-02-06,
+DR-1208,Disaster,1998-03-09,1998.0,3.0,1.0,9.0,Monday,AL,Alabama,South,Barbour County,Storm,Severe Storms and Flooding,1998-03-07,,
+DR-1209,Disaster,1998-03-11,1998.0,3.0,1.0,11.0,Wednesday,GA,Georgia,South,Appling County,Storm,Severe Storms and Flooding,,1998-05-11,
+DR-1212,Disaster,1998-04-01,1998.0,4.0,2.0,1.0,Wednesday,MN,Minnesota,Midwest,Blue Earth County,Tornado,Tornadoes and Severe Storms,,,2010-05-07
+DR-1213,Disaster,1998-04-03,1998.0,4.0,2.0,3.0,Friday,FM,,,Pohnpei County-equivalent,Drought,Severe Drought,,,
+DR-1214,Disaster,1998-04-09,1998.0,4.0,2.0,9.0,Thursday,AL,Alabama,South,Covington County,Storm,Severe Storms and Tornadoes,1998-04-08,,
+DR-1217,Disaster,1998-05-08,1998.0,5.0,2.0,8.0,Friday,IN,Indiana,Midwest,Benton County,Storm,Severe Winter Storm,1998-03-09,1998-03-12,
+DR-1218,Disaster,1998-06-01,1998.0,6.0,2.0,1.0,Monday,SD,South Dakota,Midwest,Brown County,Flood,"Flooding, Severe Storms, Tornadoes",,,
+DR-1219,Disaster,1998-06-08,1998.0,6.0,2.0,8.0,Monday,PA,Pennsylvania,Northeast,Allegheny County,Storm,"Severe Storms, Tornadoes,and Flooding",,1998-06-02,2006-08-07
+EM-3126,Emergency,1998-06-09,1998.0,6.0,2.0,9.0,Tuesday,KS,Kansas,Midwest,Harvey County,Other,Debruce Grain Elevator Explosion  (Sedgwick Cty),1998-06-08,1998-06-08,
+DR-1221,Disaster,1998-06-12,1998.0,6.0,2.0,12.0,Friday,OR,Oregon,West,Crook County,Flood,Flooding,,1998-06-03,2003-10-02
+DR-1229,Disaster,1998-07-01,1998.0,7.0,3.0,1.0,Wednesday,WV,West Virginia,South,Braxton County,Storm,Severe Storms and Flooding,,,
+DR-1230,Disaster,1998-07-02,1998.0,7.0,3.0,2.0,Thursday,IA,Iowa,Midwest,Carroll,Flood,"Severe Storms, Tornadoes, and Flooding",,,2007-01-08
+DR-1231,Disaster,1998-07-02,1998.0,7.0,3.0,2.0,Thursday,NH,New Hampshire,Northeast,Belknap County,Storm,Severe Storms and Flooding,1998-06-12,1998-07-02,
+DR-1232,Disaster,1998-07-02,1998.0,7.0,3.0,2.0,Thursday,ME,Maine,Northeast,Androscoggin County,Storm,Severe Storms and Flooding,,1998-07-01,
+EM-3128,Emergency,1998-07-02,1998.0,7.0,3.0,2.0,Thursday,NM,New Mexico,West,,Fire,Extreme Fire Hazards,,,
+DR-1233,Disaster,1998-07-07,1998.0,7.0,3.0,7.0,Tuesday,NY,New York,Northeast,Allegany County,Storm,Severe Storms and Flooding,,1998-07-10,2004-12-08
+DR-1237,Disaster,1998-08-05,1998.0,8.0,3.0,5.0,Wednesday,MI,Michigan,Midwest,Macomb County,Storm,Severe Storms and High Winds,,,2005-05-03
+DR-1238,Disaster,1998-08-12,1998.0,8.0,3.0,12.0,Wednesday,WI,Wisconsin,Midwest,Milwaukee County,Storm,Severe Storms and Flooding,1998-08-05,,
+DR-1242,Disaster,1998-09-04,1998.0,9.0,3.0,4.0,Friday,VA,Virginia,South,Chesapeake,Hurricane,Hurricane Bonnie,,1998-09-01,
+DR-1241,Disaster,1998-09-04,1998.0,9.0,3.0,4.0,Friday,FL,Florida,South,Bay County,Hurricane, Hurricane Earl,1998-09-03,1998-09-03,
+DR-1243,Disaster,1998-09-04,1998.0,9.0,3.0,4.0,Friday,SC,South Carolina,South,Horry County,Hurricane,Hurricane Bonnie,,1998-09-01,
+DR-1244,Disaster,1998-09-11,1998.0,9.0,3.0,11.0,Friday,NY,New York,Northeast,Cayuga County,Storm,"Ny - Severe Wx, Sept 7, 1998",1998-09-07,1998-09-07,2005-07-06
+DR-1251,Disaster,1998-10-01,1998.0,10.0,4.0,1.0,Thursday,MS,Mississippi,South,Covington County,Hurricane,Hurricane Georges,,1998-10-05,
+DR-1252,Disaster,1998-10-05,1998.0,10.0,4.0,5.0,Monday,WA,Washington,West,Ferry County,Storm,Wa Storms and Flooding 5/26/98,,,2003-01-08
+DR-1258,Disaster,1998-11-05,1998.0,11.0,4.0,5.0,Thursday,KS,Kansas,Midwest,Butler County,Storm,Ks-Flooding  10/31/98,,,
+DR-1259,Disaster,1998-11-06,1998.0,11.0,4.0,6.0,Friday,FL,Florida,South,Monroe County,Storm,Tropical Storm Mitch,1998-11-04,1998-11-05,
+EM-3134,Emergency,1999-01-08,1999.0,1.0,1.0,8.0,Friday,IL,Illinois,Midwest,Adams County,Snow,Il-Winter Storm  1/1/99,1999-01-01,,2014-03-12
+DR-1267,Disaster,1999-02-09,1999.0,2.0,1.0,9.0,Tuesday,CA,California,West,Fresno County,Winter,Ca-Citrus Crop Damage 2/2/99,,,
+FS-2249,Fire,1999-03-02,1999.0,3.0,1.0,2.0,Tuesday,TX,Texas,South,Comal County,Fire,Fischer Fire,1999-03-03,1999-03-03,2002-07-09
+EM-3138,Emergency,1999-03-10,1999.0,3.0,1.0,10.0,Wednesday,NY,New York,Northeast,Livingston County,Snow,Snow,1999-03-03,1999-03-06,2005-09-07
+DR-1269,Disaster,1999-04-09,1999.0,4.0,2.0,9.0,Friday,LA,Louisiana,South,Bossier Parish,Storm,"Severe Storms, Tornadoes, and Flooding",1999-04-03,1999-04-07,
+DR-1273,Disaster,1999-05-04,1999.0,5.0,2.0,4.0,Tuesday,KS,Kansas,Midwest,Reno County,Tornado,Severe Storms and Tornadoes,1999-05-03,1999-05-06,2007-01-11
+DR-1272,Disaster,1999-05-04,1999.0,5.0,2.0,4.0,Tuesday,OK,Oklahoma,South,Caddo County,Tornado,"Ok, Tornadoes 5/3/99",1999-05-03,1999-05-04,
+FS-2261,Fire,1999-05-06,1999.0,5.0,2.0,6.0,Thursday,MI,Michigan,Midwest,Marquette County,Fire,Mi - Tower Lake Mountain Fire - 05/06/1999,1999-05-05,1999-05-09,
+DR-1274,Disaster,1999-05-06,1999.0,5.0,2.0,6.0,Thursday,TX,Texas,South,Bowie County,Tornado,"Tx, Tornado 5/4/99",1999-05-04,1999-05-04,
+DR-1275,Disaster,1999-05-12,1999.0,5.0,2.0,12.0,Wednesday,TN,Tennessee,South,Cheatham County,Storm,"Severe Storms, Tornadoes, and Flooding",1999-05-05,,
+DR-1279,Disaster,1999-06-08,1999.0,6.0,2.0,8.0,Tuesday,ND,North Dakota,Midwest,Devils Lake Sioux Indian Reservation,Flood,"Severe Storms, Flooding, Snow, Ice, Ground Saturation, Lanslides, Mudslides, and Tor",1999-03-01,,
+DR-1280,Disaster,1999-06-09,1999.0,6.0,2.0,9.0,Wednesday,SD,South Dakota,Midwest,Oglala Sioux Tribe of the Pine Ridge Reservation,Tornado,"Severe Storms, Tornadoes, and Flooding",1999-06-04,,
+FS-2263,Fire,1999-06-12,1999.0,6.0,2.0,12.0,Saturday,AZ,Arizona,West,Gila County,Fire,Az - Rainbow Fire - 06/11/1999,1999-06-11,1999-06-12,
+FS-2265,Fire,1999-07-03,1999.0,7.0,3.0,3.0,Saturday,NV,Nevada,West,Washoe County,Fire,Mira Loma Fire,1999-07-02,1999-07-04,
+FS-2269,Fire,1999-08-09,1999.0,8.0,3.0,9.0,Monday,NY,New York,Northeast,Orange County,Fire,West Point Fire Complex,1999-08-06,1999-08-06,
+EM-3142,Emergency,1999-09-01,1999.0,9.0,3.0,1.0,Wednesday,TX,Texas,South,Anderson County,Fire,Extreme Fire Hazards,1999-08-01,1999-12-10,2002-07-09
+EM-3140,Emergency,1999-09-01,1999.0,9.0,3.0,1.0,Wednesday,CA,California,West,Butte County,Fire,Ca-Wildfires-08/25/1999,,,
+EM-3141,Emergency,1999-09-01,1999.0,9.0,3.0,1.0,Wednesday,NC,North Carolina,South,Beaufort County,Hurricane,Hurricane Dennis,,1999-09-11,
+DR-1289,Disaster,1999-09-01,1999.0,9.0,3.0,1.0,Wednesday,PA,Pennsylvania,Northeast,Juniata County,Storm,Pa - Flooding 8/20/99,,,
+DR-1290,Disaster,1999-09-06,1999.0,9.0,3.0,6.0,Monday,VA,Virginia,South,Hampton,Hurricane,Virginia Tropical Storm Dennis 08/27/99,,,
+DR-1291,Disaster,1999-09-09,1999.0,9.0,3.0,9.0,Thursday,NC,North Carolina,South,Beaufort County,Hurricane,Hurricane Dennis ,,1999-09-11,
+DR-1307,Disaster,1999-11-10,1999.0,11.0,4.0,10.0,Wednesday,VT,Vermont,Northeast,Bennington County,Storm,Tropical Storm Floyd,,,
+EM-3153,Emergency,1999-12-06,1999.0,12.0,4.0,6.0,Monday,MA,Massachusetts,Northeast,"Worcester County in PMSA 1120,2600,9240",Fire,Warehouse Fire,1999-12-03,,
+FS-2289,Fire,2000-01-03,2000.0,1.0,1.0,3.0,Monday,TX,Texas,South,Wise County,Fire,Saddleback Fire,2000-01-03,2000-01-03,
+FS-2290,Fire,2000-01-04,2000.0,1.0,1.0,4.0,Tuesday,TX,Texas,South,Comal County,Fire,Purgatory Fire,2000-01-04,2000-01-04,
+FS-2291,Fire,2000-01-05,2000.0,1.0,1.0,5.0,Wednesday,TX,Texas,South,Bastrop County,Fire,Bob's Trail Fire,2000-01-05,2000-01-05,
+DR-1310,Disaster,2000-01-10,2000.0,1.0,1.0,10.0,Monday,KY,Kentucky,South,Ballard County,Tornado,"Tornadoes, Severe Storms, Torrential Rains, and Flash Flooding",2000-01-03,2000-01-04,2012-05-10
+DR-1321,Disaster,2000-03-07,2000.0,3.0,1.0,7.0,Tuesday,OH,Ohio,Midwest,Adams County,Storm,Severe Storms and Flooding,,2000-03-02,
+FS-2292,Fire,2000-03-09,2000.0,3.0,1.0,9.0,Thursday,MO,Missouri,Midwest,Camden County,Fire,Camden Fire Complex,2000-03-07,2000-03-11,2003-12-04
+DR-1323,Disaster,2000-04-07,2000.0,4.0,2.0,7.0,Friday,TX,Texas,South,Tarrant County,Tornado,"Severe Storms, Tornadoes, and Flooding",,,2010-08-12
+DR-1324,Disaster,2000-04-10,2000.0,4.0,2.0,10.0,Monday,MD,Maryland,South,Baltimore,Storm,Severe Winter Storm,,,
+DR-1325,Disaster,2000-04-10,2000.0,4.0,2.0,10.0,Monday,DC,District of Columbia,South,District of Columbia County-equivalent,Storm,Severe Winter Storm,,,2010-06-07
+FS-2294,Fire,2000-04-11,2000.0,4.0,2.0,11.0,Tuesday,FL,Florida,South,Collier County,Fire,Fl - Merritt Fire,2000-04-11,,2006-06-06
+DR-1327,Disaster,2000-05-03,2000.0,5.0,2.0,3.0,Wednesday,KS,Kansas,Midwest,Crawford County,Storm,Severe Storms and Tornadoes,,,
+FS-2296,Fire,2000-05-08,2000.0,5.0,2.0,8.0,Monday,NM,New Mexico,West,Lincoln County,Fire,Cree Fire,2000-05-07,,
+EM-3154,Emergency,2000-05-10,2000.0,5.0,2.0,10.0,Wednesday,NM,New Mexico,West,Bernalillo County,Fire,Severe Fire Threats,2000-05-05,2000-07-07,
+DR-1328,Disaster,2000-05-12,2000.0,5.0,2.0,12.0,Friday,MO,Missouri,Midwest,Crawford County,Flood,Severe Thunderstorms and Flash Flooding,2000-05-06,2000-05-07,
+FS-2305,Fire,2000-06-02,2000.0,6.0,2.0,2.0,Friday,FL,Florida,South,Clay County,Fire,"Fl, Jacksonville Fire Complex",2000-06-02,,
+FS-2306,Fire,2000-06-05,2000.0,6.0,2.0,5.0,Monday,FL,Florida,South,Baker County,Fire,"Fl, Suwannee Fire Complex",2000-06-05,,
+FS-2307,Fire,2000-06-09,2000.0,6.0,2.0,9.0,Friday,FL,Florida,South,Dixie County,Fire,"Fl, Perry Fire Complex",2000-06-09,,
+FS-2309,Fire,2000-06-12,2000.0,6.0,2.0,12.0,Monday,CO,Colorado,West,Jefferson County,Fire,High Meadows Fire ,2000-06-12,,
+DR-1331,Disaster,2000-06-12,2000.0,6.0,2.0,12.0,Monday,TN,Tennessee,South,Anderson County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+FS-2308,Fire,2000-06-12,2000.0,6.0,2.0,12.0,Monday,CO,Colorado,West,Larimer County,Fire,Bobcat Gulch Fire ,2000-06-12,,
+FS-2316,Fire,2000-08-01,2000.0,8.0,3.0,1.0,Tuesday,NV,Nevada,West,Washoe County,Fire,Nv - Arrowcreek Fire,2000-08-01,2000-08-05,2005-04-01
+FS-2317,Fire,2000-08-05,2000.0,8.0,3.0,5.0,Saturday,MT,Montana,West,Deer Lodge County,Fire,Mt-Southwestern Zone Two Fire Complex,2000-08-05,,2003-04-08
+FS-2318,Fire,2000-08-08,2000.0,8.0,3.0,8.0,Tuesday,MT,Montana,West,Beaverhead County,Fire,Mt - Central Zone 3C Fire Complex,2000-08-08,,2003-04-09
+DR-1341,Disaster,2000-09-01,2000.0,9.0,3.0,1.0,Friday,ID,Idaho,West,Fort Hall Indian Reservation,Fire,Wildfires,,,2003-12-11
+FS-2328,Fire,2000-09-03,2000.0,9.0,3.0,3.0,Sunday,TX,Texas,South,Newton County,Fire,Tx - Moore Branch Fire - 09/03/00,2000-09-03,2000-10-04,
+FS-2329,Fire,2000-09-04,2000.0,9.0,3.0,4.0,Monday,TX,Texas,South,Liberty County,Fire,Tx - Stanley Mainline Fire - 09/04/00,2000-09-04,2000-09-08,
+FS-2332,Fire,2000-09-05,2000.0,9.0,3.0,5.0,Tuesday,TX,Texas,South,Tyler County,Fire,Tx - Warren Chapel Fire - 09/04/00,2000-09-04,2000-09-07,
+FS-2331,Fire,2000-09-05,2000.0,9.0,3.0,5.0,Tuesday,TX,Texas,South,Montgomery County,Fire,Tx - Peach Creek Fire - 09/04/00,2000-09-04,2000-09-09,
+FS-2330,Fire,2000-09-05,2000.0,9.0,3.0,5.0,Tuesday,TX,Texas,South,Kerr County,Fire,Tx - Sheppard Reese Fire - 09/04/00,2000-09-04,2000-09-05,
+FS-2333,Fire,2000-09-07,2000.0,9.0,3.0,7.0,Thursday,TX,Texas,South,Lampasas County,Fire,Tx - Mesquite Creek Fire - 09/08/00,2000-09-06,2000-09-08,
+FS-2334,Fire,2000-09-07,2000.0,9.0,3.0,7.0,Thursday,TX,Texas,South,Kendall County,Fire,Tx - Frost Fire - 09/08/00,2000-09-06,2000-09-07,
+FS-2335,Fire,2000-09-08,2000.0,9.0,3.0,8.0,Friday,TX,Texas,South,McCulloch County,Fire,Tx-Deep Creek Fire-9/8/00,2000-09-08,,
+FS-2336,Fire,2000-09-10,2000.0,9.0,3.0,10.0,Sunday,TX,Texas,South,Caldwell County,Fire,Tx-Milam Street Fire-9/9/00,2000-09-09,2000-09-10,
+FS-2337,Fire,2000-09-11,2000.0,9.0,3.0,11.0,Monday,LA,Louisiana,South,Allen Parish,Fire,La-Western Louisiana Fire Complex-9/8/00,2000-09-08,,
+DR-1344,Disaster,2000-10-03,2000.0,10.0,4.0,3.0,Tuesday,FL,Florida,South,Bay County,Storm,Tropical Storm Helene ,,2000-10-04,
+FS-2344,Fire,2000-10-03,2000.0,10.0,4.0,3.0,Tuesday,TX,Texas,South,Parker County,Fire,Tx - Quail Run Fire - 10/03/00,2000-10-02,2000-10-03,
+DR-1345,Disaster,2000-10-04,2000.0,10.0,4.0,4.0,Wednesday,FL,Florida,South,Broward County,Storm,Severe Storms and Flooding,2000-10-03,2000-10-11,
+EM-3155,Emergency,2000-10-11,2000.0,10.0,4.0,11.0,Wednesday,NY,New York,Northeast,Albany County,Other,West Nile Virus,,2000-11-01,
+EM-3156,Emergency,2000-11-01,2000.0,11.0,4.0,1.0,Wednesday,NJ,New Jersey,Northeast,Atlantic County,Other,West Nile Virus,,2000-11-01,2002-04-08
+FS-2346,Fire,2000-11-02,2000.0,11.0,4.0,2.0,Thursday,TN,Tennessee,South,Anderson County,Fire,Tn - Knoxville Fire Complex - 11/02/00,,,
+FS-2347,Fire,2000-11-03,2000.0,11.0,4.0,3.0,Friday,TN,Tennessee,South,Fentress County,Fire,Tn - Cookeville Fire Complex - 11/03/00,2000-11-01,,
+FS-2348,Fire,2000-11-03,2000.0,11.0,4.0,3.0,Friday,TN,Tennessee,South,Grainger County,Fire,Tn-Greeneville Fire Complex-11/03/00,,,
+FS-2349,Fire,2000-11-04,2000.0,11.0,4.0,4.0,Saturday,KY,Kentucky,South,Bell County,Fire,Ky - Southeastern District Fire Complex - 11/03/00,,,
+FS-2350,Fire,2000-11-04,2000.0,11.0,4.0,4.0,Saturday,KY,Kentucky,South,Floyd County,Fire,Ky - Eastern District Fire Complex - 11/03/00,,,
+DR-1348,Disaster,2000-11-09,2000.0,11.0,4.0,9.0,Thursday,HI,Hawaii,West,Hawaii County,Storm,Severe Storms and Flooding,,2000-11-02,
+EM-3157,Emergency,2000-12-04,2000.0,12.0,4.0,4.0,Monday,NY,New York,Northeast,Cattaraugus County,Snow,Snow,,,2004-12-07
+DR-1350,Disaster,2000-12-06,2000.0,12.0,4.0,6.0,Wednesday,MT,Montana,West,Carter County,Storm,Severe Winter Storms,,,
+DR-1355,Disaster,2001-01-05,2001.0,1.0,1.0,5.0,Friday,OK,Oklahoma,South,Adair County,Ice,Severe Winter Ice Storm,,2001-01-10,
+FS-2351,Fire,2001-01-05,2001.0,1.0,1.0,5.0,Friday,TX,Texas,South,Johnson County,Fire,Tx - Alsbury Fire - 08/29/00,,,2010-09-07
+FS-2352,Fire,2001-01-05,2001.0,1.0,1.0,5.0,Friday,TX,Texas,South,Hays County,Fire,Tx - Amhurst Street Fire - 09/04/00,2000-09-04,2000-09-05,2010-09-07
+DR-1356,Disaster,2001-01-08,2001.0,1.0,1.0,8.0,Monday,TX,Texas,South,Armstrong County,Ice,Severe Winter Ice Storm,2000-12-12,,2013-07-08
+EM-3160,Emergency,2001-01-10,2001.0,1.0,1.0,10.0,Wednesday,MI,Michigan,Midwest,Allegan County,Snow,Snow,2000-12-11,,
+DR-1357,Disaster,2001-01-12,2001.0,1.0,1.0,12.0,Friday,LA,Louisiana,South,Bienville Parish,Ice,Severe Winter Ice Storm,2000-12-11,2001-01-03,
+DR-1359,Disaster,2001-02-05,2001.0,2.0,1.0,5.0,Monday,FL,Florida,South,Alachua County,Winter,Severe Freeze ,2000-12-01,,
+DR-1361,Disaster,2001-03-01,2001.0,3.0,1.0,1.0,Thursday,WA,Washington,West,Benton County,Earthquake,Earthquake,,,
+DR-1362,Disaster,2001-03-05,2001.0,3.0,1.0,5.0,Monday,AL,Alabama,South,Blount County,Storm,Severe Storms and Flooding,,,
+DR-1364,Disaster,2001-04-10,2001.0,4.0,2.0,10.0,Tuesday,MA,Massachusetts,Northeast,"Bristol County(in PMSA 1120,1200,2480,5400,6060",Storm,Severe Storms and Flooding,2001-03-05,,2009-07-10
+EM-3167,Emergency,2001-04-10,2001.0,4.0,2.0,10.0,Tuesday,VT,Vermont,Northeast,Addison County,Snow,Snow,2001-03-05,2001-03-07,
+DR-1367,Disaster,2001-05-02,2001.0,5.0,2.0,2.0,Wednesday,IA,Iowa,Midwest,Allamakee County,Storm,"Severe Storms, Tornadoes, and Flooding",2001-04-08,,2007-01-11
+DR-1368,Disaster,2001-05-09,2001.0,5.0,2.0,9.0,Wednesday,IL,Illinois,Midwest,Adams County,Flood,Flooding,,,2010-03-08
+DR-1369,Disaster,2001-05-11,2001.0,5.0,2.0,11.0,Friday,WI,Wisconsin,Midwest,Adams County,Flood,"Flooding, Severe Storms and Tornadoes",2001-04-10,2001-07-06,2011-01-03
+FS-2364,Fire,2001-06-03,2001.0,6.0,2.0,3.0,Sunday,NM,New Mexico,West,Lincoln County,Fire,Nm -Trap and Skeet Fire - 06/02/2001,2001-06-02,2001-06-03,2002-06-07
+DR-1378,Disaster,2001-06-03,2001.0,6.0,2.0,3.0,Sunday,WV,West Virginia,South,Boone County,Storm,"Severe Storms, Flooding and Landslides",,2001-09-04,
+DR-1379,Disaster,2001-06-09,2001.0,6.0,2.0,9.0,Saturday,TX,Texas,South,Anderson County,Storm,Tx-Tropical Storm Allison-06-06-2001,2001-06-05,,
+DR-1380,Disaster,2001-06-11,2001.0,6.0,2.0,11.0,Monday,LA,Louisiana,South,Ascension Parish,Storm,Tropical Storm Allison,2001-06-05,,
+FS-2366,Fire,2001-07-05,2001.0,7.0,3.0,5.0,Thursday,NV,Nevada,West,Elko County,Fire,Nv - Ten Mile Fire - 07/05/2001,2001-07-05,2001-07-05,
+DR-1385,Disaster,2001-07-07,2001.0,7.0,3.0,7.0,Saturday,MT,Montana,West,Gallatin County,Storm,Severe Winter Storms,2001-06-03,,
+DR-1386,Disaster,2001-07-12,2001.0,7.0,3.0,12.0,Thursday,VA,Virginia,South,Bath County,Storm,Severe Storms and Flooding,2001-07-08,,
+FS-2370,Fire,2001-08-01,2001.0,8.0,3.0,1.0,Wednesday,WY,Wyoming,West,Weston County,Fire,Wy- Elk Mountain Fire Complex - 08/01/01,,2001-08-08,
+FS-2369,Fire,2001-08-01,2001.0,8.0,3.0,1.0,Wednesday,SD,South Dakota,Midwest,Custer County,Fire,Sd - Elk Mountain Fire Complex - 08/01/01,,,2003-11-04
+FS-2371,Fire,2001-08-09,2001.0,8.0,3.0,9.0,Thursday,NV,Nevada,West,Washoe County,Fire,Nv - Antelope Fire - 08/09/2001,2001-08-09,,
+FS-2382,Fire,2001-09-06,2001.0,9.0,3.0,6.0,Thursday,WY,Wyoming,West,Crook County,Fire,Wy - Mcfarland Divide Fire - 09/06/01,2001-09-05,2001-09-08,
+DR-1391,Disaster,2001-09-11,2001.0,9.0,3.0,11.0,Tuesday,NY,New York,Northeast,Albany County,Fire,Fires and Explosions,2001-09-11,2001-09-11,
+EM-3168,Emergency,2001-09-12,2001.0,9.0,3.0,12.0,Wednesday,VA,Virginia,South,Arlington County,Fire,Fires and Explosions,2001-09-11,2001-09-11,
+DR-1394,Disaster,2001-10-12,2001.0,10.0,4.0,12.0,Friday,NE,Nebraska,Midwest,Dakota County,Storm,Severe Storms and A Tornado,,,
+FS-2383,Fire,2001-11-01,2001.0,11.0,4.0,1.0,Thursday,CO,Colorado,West,Larimer County,Fire,Co - Armageddon Fire - 11/01/01,,2001-11-03,2003-06-06
+FS-2386,Fire,2001-11-02,2001.0,11.0,4.0,2.0,Friday,KY,Kentucky,South,Floyd County,Fire,Ky - Eastern Fire Complex - 11/02/2001,2001-11-02,,
+FS-2384,Fire,2001-11-02,2001.0,11.0,4.0,2.0,Friday,KY,Kentucky,South,Breathitt County,Fire,Ky - Kentucky River Complex - 11/02/01,2001-11-02,,
+FS-2385,Fire,2001-11-02,2001.0,11.0,4.0,2.0,Friday,KY,Kentucky,South,Bell County,Fire,Ky - Southeastern Fire Complex - 11/02/01,2001-11-02,,
+FS-2387,Fire,2001-11-03,2001.0,11.0,4.0,3.0,Saturday,TN,Tennessee,South,Bledsoe County,Fire,Tn - Chattanooga Fire Complex - 11/03/01,2001-11-03,,
+FS-2388,Fire,2001-11-09,2001.0,11.0,4.0,9.0,Friday,SC,South Carolina,South,Horry County,Fire,Sc - Long Bay Fire - 11/09/2001,2001-11-07,,
+DR-1397,Disaster,2001-12-05,2001.0,12.0,4.0,5.0,Wednesday,GU,Guam,Territory,Guam County-equivalent,Earthquake,Earthquake,,,
+DR-1398,Disaster,2001-12-07,2001.0,12.0,4.0,7.0,Friday,MS,Mississippi,South,Benton County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+DR-1399,Disaster,2001-12-07,2001.0,12.0,4.0,7.0,Friday,AL,Alabama,South,Autauga County,Storm,Severe Storms and Tornadoes,,,
+DR-1401,Disaster,2002-02-01,2002.0,2.0,1.0,1.0,Friday,OK,Oklahoma,South,Alfalfa County,Ice,Severe Winter Ice Storm,,2002-02-11,
+DR-1402,Disaster,2002-02-06,2002.0,2.0,1.0,6.0,Wednesday,KS,Kansas,Midwest,Allen County,Ice,Severe Winter Ice Storm,,,2011-01-05
+DR-1403,Disaster,2002-02-06,2002.0,2.0,1.0,6.0,Wednesday,MO,Missouri,Midwest,Adair County,Ice,Severe Winter Ice Storm,,,2011-02-11
+FS-2396,Fire,2002-02-11,2002.0,2.0,1.0,11.0,Monday,CA,California,West,San Diego County,Fire,Gavilan Fire,2002-02-10,,2007-04-05
+DR-1404,Disaster,2002-03-01,2002.0,3.0,1.0,1.0,Friday,NY,New York,Northeast,Erie County,Snow,Severe Winter Storm,,,
+DR-1405,Disaster,2002-03-12,2002.0,3.0,1.0,12.0,Tuesday,OR,Oregon,West,Coos County,Storm,Severe Winter Storm With High Winds,2002-02-07,2002-02-08,2010-06-08
+DR-1406,Disaster,2002-04-02,2002.0,4.0,2.0,2.0,Tuesday,VA,Virginia,South,Norton,Storm,Severe Storms and Flooding,,,
+DR-1407,Disaster,2002-04-04,2002.0,4.0,2.0,4.0,Thursday,KY,Kentucky,South,Bath County,Storm,Severe Storms and Flooding,,,
+DR-1408,Disaster,2002-04-05,2002.0,4.0,2.0,5.0,Friday,TN,Tennessee,South,Anderson County,Storm,Severe Storms and Flooding,,,
+DR-1409,Disaster,2002-05-01,2002.0,5.0,2.0,1.0,Wednesday,MD,Maryland,South,Calvert County,Tornado,Tornado,,,
+FS-2402,Fire,2002-05-01,2002.0,5.0,2.0,1.0,Wednesday,NM,New Mexico,West,Otero County,Fire,Nm - Penasco Fire - 05-01-02,,2002-06-03,2005-01-05
+FS-2401,Fire,2002-05-01,2002.0,5.0,2.0,1.0,Wednesday,CO,Colorado,West,Custer County,Fire,Cuerno Verde Fire,,2002-05-05,
+FS-2403,Fire,2002-05-05,2002.0,5.0,2.0,5.0,Sunday,CO,Colorado,West,Park County,Fire,Black Mountain Fire,2002-05-05,2002-05-12,
+DR-1410,Disaster,2002-05-05,2002.0,5.0,2.0,5.0,Sunday,WV,West Virginia,South,Kanawha County,Storm,"Severe Storms, Flooding and Landslides",2002-05-02,,
+DR-1411,Disaster,2002-05-05,2002.0,5.0,2.0,5.0,Sunday,VA,Virginia,South,Bedford,Storm,"Severe Storms, Tornadoes, and Flooding",,2002-05-03,
+DR-1413,Disaster,2002-05-06,2002.0,5.0,2.0,6.0,Monday,MI,Michigan,Midwest,Baraga County,Flood,Flooding,2002-04-10,2002-05-09,
+DR-1412,Disaster,2002-05-06,2002.0,5.0,2.0,6.0,Monday,MO,Missouri,Midwest,Adair County,Storm,"Severe Storms, Tornadoes, and Flooding",,2002-06-10,2011-01-11
+DR-1414,Disaster,2002-05-07,2002.0,5.0,2.0,7.0,Tuesday,KY,Kentucky,South,Boyle County,Storm,"Severe Storms, Tornadoes, and Flooding",,2002-05-10,
+FS-2404,Fire,2002-05-07,2002.0,5.0,2.0,7.0,Tuesday,NM,New Mexico,West,San Miguel County,Fire,Nm - Dalton Fire - 05/06/02,2002-05-06,,2005-01-11
+FS-2409,Fire,2002-06-01,2002.0,6.0,2.0,1.0,Saturday,MN,Minnesota,Midwest,Crow Wing County,Fire,Mn - by-Pass Fire - 05/31/2002,,2002-06-04,2005-03-09
+FS-2411,Fire,2002-06-02,2002.0,6.0,2.0,2.0,Sunday,NJ,New Jersey,Northeast,Ocean County,Fire,Nj - Double Trouble Wildfire - 6/02/02,2002-06-02,2002-06-02,
+FS-2410,Fire,2002-06-02,2002.0,6.0,2.0,2.0,Sunday,CO,Colorado,West,Fremont County,Fire,Iron Mountain Fire,2002-06-02,2002-06-10,2008-09-05
+FS-2412,Fire,2002-06-03,2002.0,6.0,2.0,3.0,Monday,CO,Colorado,West,Las Animas County,Fire,Co - Spring Fire - 06/03/02,2002-06-02,,
+FS-2413,Fire,2002-06-03,2002.0,6.0,2.0,3.0,Monday,CO,Colorado,West,Las Animas County,Fire,Co - James John / Fisher - 06/03/02,2002-06-02,,
+FS-2414,Fire,2002-06-04,2002.0,6.0,2.0,4.0,Tuesday,NM,New Mexico,West,Colfax County,Fire,Nm-Turkey Fire-6-2-02,2002-06-02,,2005-01-11
+FS-2415,Fire,2002-06-04,2002.0,6.0,2.0,4.0,Tuesday,NM,New Mexico,West,Mora County,Fire,Nm-Cerro Pelado-6-2-02,2002-06-02,2002-07-03,2005-01-11
+FS-2417,Fire,2002-06-06,2002.0,6.0,2.0,6.0,Thursday,CA,California,West,Los Angeles County,Fire,Ca - Copper Fire - 06-06-2002,2002-06-05,,
+FS-2416,Fire,2002-06-06,2002.0,6.0,2.0,6.0,Thursday,NM,New Mexico,West,Colfax County,Fire,Nm-Ponil Fire-06/02/02,2002-06-02,,2005-01-11
+FS-2418,Fire,2002-06-07,2002.0,6.0,2.0,7.0,Friday,CO,Colorado,West,La Plata County,Fire,Ute Pass Fire,2002-06-06,2002-06-10,
+FS-2419,Fire,2002-06-08,2002.0,6.0,2.0,8.0,Saturday,CO,Colorado,West,Garfield County,Fire,Coal Seam Fire,2002-06-08,,
+FS-2421,Fire,2002-06-09,2002.0,6.0,2.0,9.0,Sunday,CO,Colorado,West,,Fire,Co - Haymen Fire - 06/09/02,2002-06-08,,
+FS-2420,Fire,2002-06-09,2002.0,6.0,2.0,9.0,Sunday,NV,Nevada,West,Lincoln County,Fire,Nv Wildfire (Pioche) 06-08-2002,2002-06-08,2002-06-12,
+FS-2422,Fire,2002-06-10,2002.0,6.0,2.0,10.0,Monday,CO,Colorado,West,Mesa County,Fire,Co - Dierich Fire - 06/10/02,2002-06-09,,
+FS-2423,Fire,2002-06-11,2002.0,6.0,2.0,11.0,Tuesday,CO,Colorado,West,La Plata County,Fire,Missionary Ridge Fire,2002-06-09,2002-08-09,
+FS-2436,Fire,2002-07-01,2002.0,7.0,3.0,1.0,Monday,WY,Wyoming,West,Albany County,Fire,Wy - Reese Mountain Fire - 07/01/02,,2002-07-12,
+FS-2437,Fire,2002-07-01,2002.0,7.0,3.0,1.0,Monday,UT,Utah,West,Daggett County,Fire,Ut - Mustang Fire - 07/01/2002,,2002-07-05,
+FS-2438,Fire,2002-07-03,2002.0,7.0,3.0,3.0,Wednesday,NV,Nevada,West,Douglas County,Fire,Nv - Gondola Fire - 07/03/2002,2002-07-03,2002-07-09,2005-04-01
+DR-1424,Disaster,2002-07-03,2002.0,7.0,3.0,3.0,Wednesday,MT,Montana,West,Blackfeet Indian Reservation,Storm,Severe Storms and Flooding,2002-06-08,,
+DR-1425,Disaster,2002-07-04,2002.0,7.0,3.0,4.0,Thursday,TX,Texas,South,Atascosa County,Flood,Severe Storms and Flooding,,,2015-06-08
+DR-1426,Disaster,2002-07-06,2002.0,7.0,3.0,6.0,Saturday,GU,Guam,Territory,Guam County-equivalent,Typhoon,Typhoon Chata'An,2002-07-05,2002-07-06,
+DR-1427,Disaster,2002-07-11,2002.0,7.0,3.0,11.0,Thursday,FM,,,Chuuk County-equivalent,Typhoon,"Ts Chata'An, Inc Flooding, Mudslides and Landslides",2002-07-02,2002-07-04,
+DR-1428,Disaster,2002-07-12,2002.0,7.0,3.0,12.0,Friday,VT,Vermont,Northeast,Caledonia County,Storm,Severe Storms and Flooding,2002-06-05,,2010-06-01
+DR-1430,Disaster,2002-08-06,2002.0,8.0,3.0,6.0,Tuesday,MP,Northern Mariana Islands,Territory,Rota Municipality,Typhoon,Typhoon Chata'An,2002-07-04,2002-07-05,2010-06-08
+FS-2462,Fire,2002-09-04,2002.0,9.0,3.0,4.0,Wednesday,CA,California,West,Los Angeles County,Fire,Leona Fire,2002-09-03,2002-09-12,2007-04-03
+FS-2461,Fire,2002-09-04,2002.0,9.0,3.0,4.0,Wednesday,CA,California,West,Shasta County,Fire,Squirrel Fire,2002-09-03,2002-09-10,2007-04-03
+DR-1432,Disaster,2002-09-10,2002.0,9.0,3.0,10.0,Tuesday,WI,Wisconsin,Midwest,Barron County,Tornado,"Severe Storms, Tornadoes, and Flooding",2002-09-02,2002-09-06,2011-01-03
+DR-1431,Disaster,2002-09-10,2002.0,9.0,3.0,10.0,Tuesday,ND,North Dakota,Midwest,Fort Berthold Indian Reservation,Storm,"Severe Storms, Flooding and Tornadoes",2002-06-08,2002-08-11,2010-06-08
+DR-1436,Disaster,2002-10-01,2002.0,10.0,4.0,1.0,Tuesday,MS,Mississippi,South,Amite County,Hurricane,Tropical Storm Isidore,,2002-10-06,
+DR-1437,Disaster,2002-10-03,2002.0,10.0,4.0,3.0,Thursday,LA,Louisiana,South,Acadia Parish,Hurricane,Hurricane Lili,2002-10-01,,
+DR-1438,Disaster,2002-10-09,2002.0,10.0,4.0,9.0,Wednesday,AL,Alabama,South,Baldwin County,Hurricane,Tropical Storm Isidore,,2002-10-01,
+DR-1439,Disaster,2002-11-05,2002.0,11.0,4.0,5.0,Tuesday,TX,Texas,South,Aransas County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+DR-1440,Disaster,2002-11-08,2002.0,11.0,4.0,8.0,Friday,AK,Alaska,West,Denali Borough,Earthquake,Earthquake,2002-11-03,2002-11-10,
+DR-1445,Disaster,2002-12-04,2002.0,12.0,4.0,4.0,Wednesday,AK,Alaska,West,Chignik Lagoon ANV/ANVSA,Storm,"Severe Winter Storms, Flooding, Coastal Erosion and Tidal Surge",,,2012-09-05
+DR-1446,Disaster,2002-12-08,2002.0,12.0,4.0,8.0,Sunday,GU,Guam,Territory,Guam County-equivalent,Typhoon,Super Typhoon Pongsona,2002-12-08,,2013-03-11
+DR-1447,Disaster,2002-12-11,2002.0,12.0,4.0,11.0,Wednesday,MP,Northern Mariana Islands,Territory,Rota Municipality,Typhoon,Super Typhoon Pongsona,2002-12-08,,2016-02-10
+DR-1448,Disaster,2002-12-12,2002.0,12.0,4.0,12.0,Thursday,NC,North Carolina,South,Alamance County,Ice,Severe Ice Storm,2002-12-04,2002-12-06,
+DR-1449,Disaster,2003-01-06,2003.0,1.0,1.0,6.0,Monday,FM,,,Chuuk County-equivalent,Typhoon,Typhoon Pongsona,2002-12-05,2002-12-07,
+DR-1450,Disaster,2003-01-06,2003.0,1.0,1.0,6.0,Monday,AR,Arkansas,South,Baxter County,Ice,Severe Ice Storm,2002-12-03,2002-12-04,
+FM-2466,Fire,2003-01-07,2003.0,1.0,1.0,7.0,Tuesday,CA,California,West,Los Angeles County,Fire,Ca - Wildfire (Pacific Fire) - 01-06-2003,2003-01-06,2003-01-10,
+DR-1451,Disaster,2003-01-08,2003.0,1.0,1.0,8.0,Wednesday,SC,South Carolina,South,Cherokee County,Ice,Severe Ice Storm,2002-12-04,2002-12-06,
+EM-3172,Emergency,2003-02-01,2003.0,2.0,1.0,1.0,Saturday,LA,Louisiana,South,Acadia Parish,Other,Loss of Space Shuttle Columbia,2003-02-01,2003-02-01,
+EM-3171,Emergency,2003-02-01,2003.0,2.0,1.0,1.0,Saturday,TX,Texas,South,Anderson County,Other,Loss of the Space Shuttle Columbia,2003-02-01,2003-02-01,
+DR-1452,Disaster,2003-02-04,2003.0,2.0,1.0,4.0,Tuesday,OK,Oklahoma,South,Beckham County,Ice,Severe Ice Storm,2002-12-03,2002-12-04,
+EM-3174,Emergency,2003-03-11,2003.0,3.0,1.0,11.0,Tuesday,ME,Maine,Northeast,Aroostook County,Snow,Snow,2003-02-02,2003-02-04,
+EM-3175,Emergency,2003-03-11,2003.0,3.0,1.0,11.0,Tuesday,MA,Massachusetts,Northeast,Barnstable County,Snow,Snow,,,2010-06-09
+EM-3176,Emergency,2003-03-11,2003.0,3.0,1.0,11.0,Tuesday,CT,Connecticut,Northeast,"Fairfield County(in PMSA 1160,1930,5760,8040",Snow,Snow,,,2008-05-07
+EM-3177,Emergency,2003-03-11,2003.0,3.0,1.0,11.0,Tuesday,NH,New Hampshire,Northeast,Cheshire County,Snow,Snow,,,
+EM-3185,Emergency,2003-04-09,2003.0,4.0,2.0,9.0,Wednesday,CO,Colorado,West,Adams County,Snow,Snow,,,2010-06-02
+DR-1462,Disaster,2003-05-06,2003.0,5.0,2.0,6.0,Tuesday,KS,Kansas,Midwest,Allen County,Storm,"Severe Storms, Tornadoes, and Flooding",2003-05-04,,2011-01-05
+DR-1463,Disaster,2003-05-06,2003.0,5.0,2.0,6.0,Tuesday,MO,Missouri,Midwest,Audrain County,Storm,"Severe Storms, Tornadoes, and Flooding",2003-05-04,,2011-01-11
+DR-1464,Disaster,2003-05-08,2003.0,5.0,2.0,8.0,Thursday,TN,Tennessee,South,Anderson County,Storm,"Severe Storms, Tornadoes, and Flooding",2003-05-04,,
+FM-2467,Fire,2003-05-10,2003.0,5.0,2.0,10.0,Saturday,NM,New Mexico,West,,Fire,Nm-Walker Fire-05-09-03,2003-05-09,2003-05-10,
+DR-1465,Disaster,2003-05-10,2003.0,5.0,2.0,10.0,Saturday,OK,Oklahoma,South,Beaver County,Storm,Severe Storms and Tornadoes,2003-05-08,,
+DR-1466,Disaster,2003-05-12,2003.0,5.0,2.0,12.0,Monday,AL,Alabama,South,Baldwin County,Storm,"Severe Storms, Tornadoes, and Flooding",2003-05-05,,2011-04-07
+DR-1467,Disaster,2003-05-12,2003.0,5.0,2.0,12.0,Monday,NY,New York,Northeast,Cayuga County,Ice,Ice Storm,2003-04-03,2003-04-05,
+DR-1471,Disaster,2003-06-03,2003.0,6.0,2.0,3.0,Tuesday,KY,Kentucky,South,Anderson County,Storm,"Severe Storms, Flooding, Mud and Rock Slides, and Tornadoes",2003-05-04,,
+DR-1473,Disaster,2003-06-06,2003.0,6.0,2.0,6.0,Friday,AS,American Samoa,Territory,Eastern District,Storm,"Heavy Rainfall, Flooding, Landslides, and Mudslides",,,2015-09-10
+DR-1472,Disaster,2003-06-06,2003.0,6.0,2.0,6.0,Friday,AR,Arkansas,South,Benton County,Storm,"Severe Storms, Tornadoes, and Flooding",2003-05-02,2003-06-10,2012-09-12
+DR-1475,Disaster,2003-07-02,2003.0,7.0,3.0,2.0,Wednesday,KY,Kentucky,South,Boyd County,Storm,"Severe Storms, Flooding, Mud and Rock Slides, and Tornadoes",,,2013-07-02
+FM-2475,Fire,2003-07-03,2003.0,7.0,3.0,3.0,Thursday,CA,California,West,Riverside County,Fire,Ca-Railroad Fire-07-03-2003,2003-07-03,2003-07-04,
+DR-1476,Disaster,2003-07-11,2003.0,7.0,3.0,11.0,Friday,IN,Indiana,Midwest,Adams County,Storm,"Severe Storms, Tornadoes, and Flooding",2003-07-04,2003-08-06,2012-07-09
+FM-2476,Fire,2003-07-11,2003.0,7.0,3.0,11.0,Friday,NV,Nevada,West,Washoe County,Fire,Nv-Red Rock Fire 7-11-03,2003-07-10,2003-07-11,2005-09-11
+FM-2477,Fire,2003-07-12,2003.0,7.0,3.0,12.0,Saturday,WA,Washington,West,Yakima County,Fire,Wa-Middle Fork Fire-07-12-2003,2003-07-11,,2005-03-03
+DR-1484,Disaster,2003-08-01,2003.0,8.0,3.0,1.0,Friday,OH,Ohio,Midwest,Adams County,Tornado,"Tornadoes, Flooding, Severe Storms, and High Winds",,,
+DR-1483,Disaster,2003-08-01,2003.0,8.0,3.0,1.0,Friday,ND,North Dakota,Midwest,Barnes County,Storm,Severe Storms and High Winds,,,
+FM-2488,Fire,2003-08-11,2003.0,8.0,3.0,11.0,Monday,MT,Montana,West,Sweet Grass County,Fire,Mt-Hobble Fire-08/07/2003,2003-08-10,2003-09-09,
+FM-2490,Fire,2003-08-12,2003.0,8.0,3.0,12.0,Tuesday,MT,Montana,West,Mineral County,Fire,Mt-Missoula/Mineral Fire Zone-08/08/03,2003-08-12,,
+FM-2489,Fire,2003-08-12,2003.0,8.0,3.0,12.0,Tuesday,MT,Montana,West,Sanders County,Fire,Mt-Cherry Creek Fire -08/06/03,2003-08-10,,
+FM-2495,Fire,2003-09-02,2003.0,9.0,3.0,2.0,Tuesday,OR,Oregon,West,Hood River County,Fire,Or-Wyeth/Herman Creek Fire 09-02-2003,2003-09-02,2003-09-08,
+DR-1487,Disaster,2003-09-05,2003.0,9.0,3.0,5.0,Friday,IN,Indiana,Midwest,Blackford County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+FM-2498,Fire,2003-09-06,2003.0,9.0,3.0,6.0,Saturday,WA,Washington,West,Okanogan County,Fire,Wa-Needle Fire-09-06-2003,2003-09-05,,2005-03-03
+FM-2497,Fire,2003-09-06,2003.0,9.0,3.0,6.0,Saturday,CA,California,West,San Bernardino County,Fire,Ca-Bridge Fire-09-05-2003,2003-09-05,2003-09-10,
+FM-2496,Fire,2003-09-06,2003.0,9.0,3.0,6.0,Saturday,OR,Oregon,West,Jackson County,Fire,Or-Cove Road Fire-09-05-2003,2003-09-05,2003-09-08,
+DR-1489,Disaster,2003-09-12,2003.0,9.0,3.0,12.0,Friday,NH,New Hampshire,Northeast,Cheshire County,Storm,Severe Storms and Flooding,,,2008-04-07
+DR-1488,Disaster,2003-09-12,2003.0,9.0,3.0,12.0,Friday,VT,Vermont,Northeast,Bennington County,Storm,Severe Storms and Flooding,,,2011-01-04
+DR-1499,Disaster,2003-11-07,2003.0,11.0,4.0,7.0,Friday,WA,Washington,West,Chelan County,Storm,Severe Storms and Flooding,,,2012-12-11
+FM-2511,Fire,2003-11-12,2003.0,11.0,4.0,12.0,Wednesday,CO,Colorado,West,Larimer County,Fire,Co - Buckhorn Creek Fire - 11/11/2003,2003-11-11,,2010-10-06
+DR-1503,Disaster,2003-12-09,2003.0,12.0,4.0,9.0,Tuesday,VI,Virgin Islands,Territory,St. Croix Island County-equivalent,Storm,"Severe Storms, Flooding, Landslides, and Mudslides",2003-11-10,,
+DR-1502,Disaster,2003-12-09,2003.0,12.0,4.0,9.0,Tuesday,VA,Virginia,South,Galax,Storm,Severe Storms and Flooding,,,
+DR-1508,Disaster,2004-02-05,2004.0,2.0,1.0,5.0,Thursday,ME,Maine,Northeast,Franklin County,Storm,"Severe Storms, Flooding, Snow Melt and Ice Jams",2003-12-10,,2010-11-08
+EM-3195,Emergency,2004-03-03,2004.0,3.0,1.0,3.0,Wednesday,NY,New York,Northeast,Cayuga County,Snow,Snow,,,
+FM-2514,Fire,2004-04-01,2004.0,4.0,2.0,1.0,Thursday,CO,Colorado,West,Larimer County,Fire,Co - Picnic Rock Fire - 03/30/2004,2004-04-01,2004-04-07,2010-07-07
+EM-3196,Emergency,2004-04-02,2004.0,4.0,2.0,2.0,Friday,ND,North Dakota,Midwest,Fort Berthold Indian Reservation,Snow,Snow,,,
+DR-1511,Disaster,2004-04-10,2004.0,4.0,2.0,10.0,Saturday,FM,,,Yap County-equivalent,Typhoon,Typhoon Sudal,2004-04-08,,
+FM-2517,Fire,2004-05-04,2004.0,5.0,2.0,4.0,Tuesday,CA,California,West,Riverside County,Fire,Ca-Cerritos Fire-5-04-2004,2004-05-03,2004-05-10,
+FM-2516,Fire,2004-05-04,2004.0,5.0,2.0,4.0,Tuesday,CA,California,West,Riverside County,Fire,Ca-Eagle Fire-05-04-2004,2004-05-02,2004-05-08,
+DR-1515,Disaster,2004-05-05,2004.0,5.0,2.0,5.0,Wednesday,ND,North Dakota,Midwest,Spirit Lake Reservation,Storm,"Severe Storms, Flooding, and Ground Saturation",,,
+DR-1516,Disaster,2004-05-07,2004.0,5.0,2.0,7.0,Friday,AR,Arkansas,South,Baxter County,Storm,"Sever Storms, Flooding and Landslides",,,
+DR-1520,Disaster,2004-06-03,2004.0,6.0,2.0,3.0,Thursday,IN,Indiana,Midwest,Adams County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+DR-1519,Disaster,2004-06-03,2004.0,6.0,2.0,3.0,Thursday,OH,Ohio,Midwest,Athens County,Storm,Severe Storms and Flooding,,,2011-10-05
+FM-2519,Fire,2004-06-05,2004.0,6.0,2.0,5.0,Saturday,CA,California,West,Santa Barbara County,Fire,Ca-Gaviota Fire-06-05-2004,2004-06-05,,
+DR-1522,Disaster,2004-06-07,2004.0,6.0,2.0,7.0,Monday,WV,West Virginia,South,Boone County,Storm,"Severe Storms, Flooding, and Landslides",,,
+DR-1521,Disaster,2004-06-08,2004.0,6.0,2.0,8.0,Tuesday,LA,Louisiana,South,Acadia Parish,Storm,Severe Storms and Flooding,2004-05-12,,2012-01-10
+FM-2520,Fire,2004-06-09,2004.0,6.0,2.0,9.0,Wednesday,AZ,Arizona,West,Apache County,Fire,Three Forks Fire,2004-06-08,,
+DR-1523,Disaster,2004-06-10,2004.0,6.0,2.0,10.0,Thursday,KY,Kentucky,South,Bath County,Storm,"Severe Storms, Tornadoes, Flooding, and Mudslides",,,
+DR-1524,Disaster,2004-06-11,2004.0,6.0,2.0,11.0,Friday,MO,Missouri,Midwest,Adair County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+FM-2525,Fire,2004-07-01,2004.0,7.0,3.0,1.0,Thursday,AK,Alaska,West,Fairbanks North Star Borough,Fire,Boundary Fire,,2004-08-01,2008-01-08
+FM-2526,Fire,2004-07-03,2004.0,7.0,3.0,3.0,Saturday,CO,Colorado,West,Delta County,Fire,Co-Mcgruder Fire-07/03/2004,2004-07-03,2004-07-11,2009-02-05
+FM-2527,Fire,2004-07-06,2004.0,7.0,3.0,6.0,Tuesday,WA,Washington,West,Douglas County,Fire,Wa-Beebe Fire-07-04-2004,2004-07-05,2004-07-09,2006-09-05
+DR-1534,Disaster,2004-08-03,2004.0,8.0,3.0,3.0,Tuesday,NY,New York,Northeast,Albany County,Storm,Severe Storms and Flooding,,,
+DR-1535,Disaster,2004-08-03,2004.0,8.0,3.0,3.0,Tuesday,KS,Kansas,Midwest,Barton County,Storm,"Severe Storms, Flooding, and Tornadoes",2004-06-12,,2011-03-08
+FM-2539,Fire,2004-08-04,2004.0,8.0,3.0,4.0,Wednesday,OR,Oregon,West,Josephine County,Fire,Or-Redwood Highway Wildfire-08-04-2004,2004-08-04,2004-08-06,2006-09-05
+DR-1536,Disaster,2004-08-06,2004.0,8.0,3.0,6.0,Friday,WV,West Virginia,South,Fayette County,Storm,"Severe Storms, Flooding, and Landslides",,2004-09-01,2010-11-09
+DR-1538,Disaster,2004-08-06,2004.0,8.0,3.0,6.0,Friday,PA,Pennsylvania,Northeast,Berks County,Storm,Severe Storms and Flooding,,,2011-07-07
+DR-1537,Disaster,2004-08-06,2004.0,8.0,3.0,6.0,Friday,KY,Kentucky,South,Adair County,Storm,Severe Storms and Flooding,,,
+FM-2540,Fire,2004-08-07,2004.0,8.0,3.0,7.0,Saturday,CA,California,West,Calaveras County,Fire,Ca-Calaveras Complex-08-07-2004,2004-08-06,2004-08-12,
+FM-2541,Fire,2004-08-08,2004.0,8.0,3.0,8.0,Sunday,CA,California,West,Placer County,Fire,Ca-Stevens Fire-08--8-2004,2004-08-08,,2010-01-05
+FM-2542,Fire,2004-08-10,2004.0,8.0,3.0,10.0,Tuesday,AK,Alaska,West,Yukon Flats Regional Educational Attendance Area,Fire,Ak-Bolgen Creek Fire-08-10-2004,,2004-09-01,2008-01-03
+FM-2544,Fire,2004-08-11,2004.0,8.0,3.0,11.0,Wednesday,CA,California,West,Shasta County,Fire,Ca-Bear Fire-08-11-2004,2004-08-11,,
+FM-2545,Fire,2004-08-11,2004.0,8.0,3.0,11.0,Wednesday,CA,California,West,Butte County,Fire,Ca Oregon Fire 08-11-2004,2004-08-11,,
+FM-2543,Fire,2004-08-11,2004.0,8.0,3.0,11.0,Wednesday,WA,Washington,West,Chelan County,Fire,Wa-Fischer Wildfire-08-11-2004,2004-08-11,,2006-11-07
+FM-2546,Fire,2004-08-12,2004.0,8.0,3.0,12.0,Thursday,WA,Washington,West,Yakima County,Fire,Mud Lake Fire,2004-08-12,,2006-09-06
+FM-2551,Fire,2004-09-01,2004.0,9.0,3.0,1.0,Wednesday,AK,Alaska,West,Dot Lake ANV/ANVSA,Fire,Ak-Taylor Complex Fire-09-01-2004,2004-08-09,2004-09-12,2008-01-03
+DR-1542,Disaster,2004-09-01,2004.0,9.0,3.0,1.0,Wednesday,IN,Indiana,Midwest,Clark County,Storm,"Severe Storms, Tornadoes, and Flooding",2004-07-03,,2013-03-11
+DR-1543,Disaster,2004-09-01,2004.0,9.0,3.0,1.0,Wednesday,SC,South Carolina,South,Georgetown County,Hurricane,Hurricane Charley,,,
+FM-2552,Fire,2004-09-02,2004.0,9.0,3.0,2.0,Thursday,CA,California,West,Mariposa County,Fire,Ca-Bear Fire-09-02-2004,2004-09-02,2004-09-07,
+FM-2553,Fire,2004-09-03,2004.0,9.0,3.0,3.0,Friday,CA,California,West,Calaveras County,Fire,Ca-Pattison Fire-09-03-2004,2004-09-03,2004-09-08,
+DR-1544,Disaster,2004-09-03,2004.0,9.0,3.0,3.0,Friday,VA,Virginia,South,Colonial Heights,Storm,"Severe Storms, Flooding and Tornadoes Associated W Td Gaston",,2004-09-08,
+FM-2554,Fire,2004-09-04,2004.0,9.0,3.0,4.0,Saturday,CA,California,West,Lake County,Fire,Ca-Geysers Fire-09-04-2004,2004-09-03,,2010-01-05
+DR-1545,Disaster,2004-09-04,2004.0,9.0,3.0,4.0,Saturday,FL,Florida,South,Alachua County,Hurricane,Hurricane Frances,2004-09-03,2004-10-08,
+DR-1546,Disaster,2004-09-10,2004.0,9.0,3.0,10.0,Friday,NC,North Carolina,South,Alexander County,Hurricane,Tropical Storm Frances,2004-09-07,2004-09-12,
+DR-1563,Disaster,2004-10-01,2004.0,10.0,4.0,1.0,Friday,NJ,New Jersey,Northeast,Hunterdon County,Storm,Severe Storms and Flooding,,2004-10-01,
+DR-1564,Disaster,2004-10-01,2004.0,10.0,4.0,1.0,Friday,NY,New York,Northeast,Allegany County,Storm,Severe Storms and Flooding,,,
+DR-1565,Disaster,2004-10-01,2004.0,10.0,4.0,1.0,Friday,NY,New York,Northeast,Broome County,Storm,Tropical Depression Ivan,,,
+DR-1568,Disaster,2004-10-07,2004.0,10.0,4.0,7.0,Thursday,TN,Tennessee,South,Campbell County,Storm,Severe Storms and Flooding,,,2012-07-12
+DR-1569,Disaster,2004-10-07,2004.0,10.0,4.0,7.0,Thursday,MN,Minnesota,Midwest,Dodge County,Storm,Severe Storms and Flooding,,,
+DR-1566,Disaster,2004-10-07,2004.0,10.0,4.0,7.0,Thursday,SC,South Carolina,South,Berkeley County,Hurricane,Tropical Storm Frances,2004-09-06,2004-10-11,2011-11-02
+DR-1567,Disaster,2004-10-07,2004.0,10.0,4.0,7.0,Thursday,VI,Virgin Islands,Territory,St. Croix Island County-equivalent,Hurricane,Tropical Storm Jeanne,,,
+EM-3197,Emergency,2005-01-11,2005.0,1.0,1.0,11.0,Tuesday,IN,Indiana,Midwest,Bartholomew County,Snow,Snow,,,2010-06-09
+EM-3198,Emergency,2005-01-11,2005.0,1.0,1.0,11.0,Tuesday,OH,Ohio,Midwest,Butler County,Snow,Snow,,,
+DR-1574,Disaster,2005-02-01,2005.0,2.0,1.0,1.0,Tuesday,WV,West Virginia,South,Brooke County,Storm,"Severe Storms, Flooding, and Landslides",2005-01-04,,
+DR-1575,Disaster,2005-02-01,2005.0,2.0,1.0,1.0,Tuesday,HI,Hawaii,West,Honolulu County,Storm,Severe Storms and Flash Flooding,,,2016-03-10
+DR-1576,Disaster,2005-02-01,2005.0,2.0,1.0,1.0,Tuesday,UT,Utah,West,Kane County,Storm,Severe Storms and Flooding,2005-01-08,2005-01-12,
+EM-3199,Emergency,2005-02-01,2005.0,2.0,1.0,1.0,Tuesday,IL,Illinois,Midwest,Edwards County,Snow,Record/Near Record Snow,,,2010-06-09
+DR-1577,Disaster,2005-02-04,2005.0,2.0,1.0,4.0,Friday,CA,California,West,Kern County,Storm,"Severe Storms, Flooding, Debris Flows, and Mudslides",,2005-01-11,
+DR-1578,Disaster,2005-02-08,2005.0,2.0,1.0,8.0,Tuesday,KY,Kentucky,South,Ballard County,Snow,Severe Winter Storm and Record Snow,,,
+DR-1579,Disaster,2005-02-08,2005.0,2.0,1.0,8.0,Tuesday,KS,Kansas,Midwest,Kiowa Township of,Storm,"Severe Winter Storms, Heavy Rains, and Flooding",2005-01-04,2005-01-06,
+DR-1583,Disaster,2005-03-07,2005.0,3.0,1.0,7.0,Monday,NV,Nevada,West,Clark County,Storm,Heavy Rains and Flooding,2005-01-07,,2014-04-08
+EM-3209,Emergency,2005-04-01,2005.0,4.0,2.0,1.0,Friday,ME,Maine,Northeast,Androscoggin County,Snow,Snow,2005-03-09,2005-03-09,
+FM-2559,Fire,2005-06-08,2005.0,6.0,2.0,8.0,Wednesday,AZ,Arizona,West,Maricopa County,Fire,Az-Bobby Fire-06-08-2005,2005-06-08,,
+FM-2560,Fire,2005-06-12,2005.0,6.0,2.0,12.0,Sunday,AZ,Arizona,West,Mohave County,Fire,Az-Hulet Fire-06-11-2005,2005-06-11,,
+DR-1592,Disaster,2005-07-06,2005.0,7.0,3.0,6.0,Wednesday,ID,Idaho,West,Nez Perce Indian Reservation,Flood,Heavy Rains and Flooding,2005-05-06,,
+DR-1594,Disaster,2005-07-10,2005.0,7.0,3.0,10.0,Sunday,MS,Mississippi,South,Attala County,Hurricane,Hurricane Dennis,2005-07-10,,
+DR-1595,Disaster,2005-07-10,2005.0,7.0,3.0,10.0,Sunday,FL,Florida,South,Bay County,Hurricane,Hurricane Dennis,2005-07-07,,
+DR-1593,Disaster,2005-07-10,2005.0,7.0,3.0,10.0,Sunday,AL,Alabama,South,Autauga County,Hurricane,Hurricane Dennis,2005-07-10,,
+FM-2566,Fire,2005-07-10,2005.0,7.0,3.0,10.0,Sunday,CO,Colorado,West,Custer County,Fire,Mason Fire ,2005-07-08,,2010-07-07
+FM-2565,Fire,2005-07-10,2005.0,7.0,3.0,10.0,Sunday,SD,South Dakota,Midwest,Meade County,Fire,Sd Ricco Fire,2005-07-09,,
+FM-2572,Fire,2005-08-01,2005.0,8.0,3.0,1.0,Monday,WA,Washington,West,Chelan County,Fire,Dirty Face Fire,,2005-08-08,
+DR-1598,Disaster,2005-08-01,2005.0,8.0,3.0,1.0,Monday,UT,Utah,West,Uintah and Ouray Indian Reservation,Flood,Flooding and Landslides,,,
+FM-2573,Fire,2005-08-02,2005.0,8.0,3.0,2.0,Tuesday,HI,Hawaii,West,Hawaii County,Fire,Lalamilo Fire,2005-08-01,2005-08-06,
+FM-2574,Fire,2005-08-04,2005.0,8.0,3.0,4.0,Thursday,HI,Hawaii,West,Hawaii County,Fire,Akoni Pule Highway Fire,2005-08-02,2005-08-06,
+FM-2575,Fire,2005-08-07,2005.0,8.0,3.0,7.0,Sunday,WA,Washington,West,Columbia County,Fire,School Fire,2005-08-07,,
+EM-3216,Emergency,2005-09-02,2005.0,9.0,3.0,2.0,Friday,TX,Texas,South,Anderson County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,2014-07-01
+EM-3215,Emergency,2005-09-02,2005.0,9.0,3.0,2.0,Friday,AR,Arkansas,South,Arkansas County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,2013-02-07
+FM-2582,Fire,2005-09-05,2005.0,9.0,3.0,5.0,Monday,CA,California,West,San Diego County,Fire,Sundevil Fire,2005-09-05,2005-09-07,2009-12-03
+EM-3217,Emergency,2005-09-05,2005.0,9.0,3.0,5.0,Monday,TN,Tennessee,South,Anderson County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,2012-07-03
+EM-3219,Emergency,2005-09-05,2005.0,9.0,3.0,5.0,Monday,OK,Oklahoma,South,Adair County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,
+EM-3222,Emergency,2005-09-05,2005.0,9.0,3.0,5.0,Monday,NC,North Carolina,South,Alamance County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,
+EM-3218,Emergency,2005-09-05,2005.0,9.0,3.0,5.0,Monday,GA,Georgia,South,Appling County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,
+EM-3220,Emergency,2005-09-05,2005.0,9.0,3.0,5.0,Monday,FL,Florida,South,Alachua County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,2012-07-03
+EM-3224,Emergency,2005-09-05,2005.0,9.0,3.0,5.0,Monday,CO,Colorado,West,Adams County,Storm,Hurricane Katrina Evacuation,,2005-10-01,
+EM-3221,Emergency,2005-09-05,2005.0,9.0,3.0,5.0,Monday,WV,West Virginia,South,Barbour County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,2007-07-02
+EM-3223,Emergency,2005-09-05,2005.0,9.0,3.0,5.0,Monday,UT,Utah,West,Beaver County,Storm,Hurricane Katrina Evacuation,,2005-10-01,
+EM-3226,Emergency,2005-09-07,2005.0,9.0,3.0,7.0,Wednesday,DC,District of Columbia,South,District of Columbia County-equivalent,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,2010-03-09
+EM-3228,Emergency,2005-09-07,2005.0,9.0,3.0,7.0,Wednesday,OR,Oregon,West,Baker County,Storm,Hurricane Katrina Evacuation,,2005-10-01,2008-04-09
+EM-3230,Emergency,2005-09-07,2005.0,9.0,3.0,7.0,Wednesday,IL,Illinois,Midwest,Adams County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,2012-02-01
+EM-3225,Emergency,2005-09-07,2005.0,9.0,3.0,7.0,Wednesday,MI,Michigan,Midwest,Alcona County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,
+EM-3227,Emergency,2005-09-07,2005.0,9.0,3.0,7.0,Wednesday,WA,Washington,West,Adams County,Storm,Hurricane Katrina Evacuation,,2005-10-01,2010-03-08
+EM-3229,Emergency,2005-09-07,2005.0,9.0,3.0,7.0,Wednesday,NM,New Mexico,West,Bernalillo County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,
+EM-3232,Emergency,2005-09-10,2005.0,9.0,3.0,10.0,Saturday,MO,Missouri,Midwest,St. Louis,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,2008-07-02
+EM-3233,Emergency,2005-09-10,2005.0,9.0,3.0,10.0,Saturday,SC,South Carolina,South,Abbeville County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,
+EM-3234,Emergency,2005-09-10,2005.0,9.0,3.0,10.0,Saturday,SD,South Dakota,Midwest,Aurora County,Storm,Hurricane Katrina Evacuation,2005-09-06,2005-10-01,2007-12-10
+EM-3235,Emergency,2005-09-10,2005.0,9.0,3.0,10.0,Saturday,PA,Pennsylvania,Northeast,Adams County,Hurricane,Hurricane Katrina ,,2005-10-01,
+EM-3239,Emergency,2005-09-10,2005.0,9.0,3.0,10.0,Saturday,IA,Iowa,Midwest,Adair County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,
+EM-3231,Emergency,2005-09-10,2005.0,9.0,3.0,10.0,Saturday,KY,Kentucky,South,Adair County,Hurricane,Hurricane Katrina ,,2005-10-01,
+EM-3236,Emergency,2005-09-10,2005.0,9.0,3.0,10.0,Saturday,KS,Kansas,Midwest,Allen County,Hurricane,Hurricane Katrina Evacuation,2005-09-01,2005-10-01,
+EM-3237,Emergency,2005-09-10,2005.0,9.0,3.0,10.0,Saturday,AL,Alabama,South,Autauga County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,2009-03-06
+EM-3238,Emergency,2005-09-10,2005.0,9.0,3.0,10.0,Saturday,IN,Indiana,Midwest,Adams County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,
+EM-3240,Emergency,2005-09-12,2005.0,9.0,3.0,12.0,Monday,VA,Virginia,South,Alexandria,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,
+EM-3241,Emergency,2005-09-12,2005.0,9.0,3.0,12.0,Monday,AZ,Arizona,West,Apache County,Hurricane,Hurricane Katrina Evacuation,,2005-10-01,
+FM-2585,Fire,2005-10-06,2005.0,10.0,4.0,6.0,Thursday,CA,California,West,San Diego County,Fire,Border # 50 Fire,2005-10-05,2005-10-10,2009-12-03
+FM-2584,Fire,2005-10-06,2005.0,10.0,4.0,6.0,Thursday,CA,California,West,Riverside County,Fire,Woodhouse Fire,2005-10-05,2005-10-08,2009-12-03
+DR-1608,Disaster,2005-10-07,2005.0,10.0,4.0,7.0,Friday,NC,North Carolina,South,Brunswick County,Hurricane,Hurricane Ophelia,2005-09-11,,
+DR-1611,Disaster,2005-11-08,2005.0,11.0,4.0,8.0,Tuesday,MP,Northern Mariana Islands,Territory,Rota Municipality,Typhoon,Typhoon Nabi,,2005-09-01,
+DR-1612,Disaster,2005-11-08,2005.0,11.0,4.0,8.0,Tuesday,IN,Indiana,Midwest,Vanderburgh County,Tornado,Tornado and Severe Storms,2005-11-06,2005-11-06,2012-11-01
+DR-1614,Disaster,2005-11-10,2005.0,11.0,4.0,10.0,Thursday,MA,Massachusetts,Northeast,Berkshire County,Storm,Severe Storms and Flooding,2005-10-07,,
+DR-1613,Disaster,2005-11-10,2005.0,11.0,4.0,10.0,Thursday,PR,Puerto Rico,Territory,Adjuntas Municipio,Storm,"Severe Storms, Flooding, Landslides, and Mudslides",2005-10-09,,2015-08-10
+DR-1617,Disaster,2005-12-01,2005.0,12.0,4.0,1.0,Thursday,KY,Kentucky,South,Hopkins County,Storm,Severe Storms and Tornadoes ,,,
+FM-2590,Fire,2005-12-02,2005.0,12.0,4.0,2.0,Friday,OK,Oklahoma,South,McIntosh County,Fire,Texanna Road Fire,,,2010-04-09
+DR-1618,Disaster,2005-12-09,2005.0,12.0,4.0,9.0,Friday,AK,Alaska,West,Bering Strait Regional Educational Attendance Area,Storm,"Severe Fall Storm, Tidal Surges, and Flooding",,,
+FM-2599,Fire,2006-01-01,2006.0,1.0,1.0,1.0,Sunday,OK,Oklahoma,South,Muskogee County,Fire,Wainwright Fire Complex,2006-01-01,,
+FM-2598,Fire,2006-01-01,2006.0,1.0,1.0,1.0,Sunday,TX,Texas,South,Montague County,Fire,Ringgold Fire ,2006-01-01,,
+FM-2597,Fire,2006-01-01,2006.0,1.0,1.0,1.0,Sunday,OK,Oklahoma,South,Creek County,Fire,Depew Fire Complex,2006-01-01,,
+FM-2596,Fire,2006-01-01,2006.0,1.0,1.0,1.0,Sunday,TX,Texas,South,Eastland County,Fire,Carbon Fire,2006-01-01,,
+FM-2603,Fire,2006-01-02,2006.0,1.0,1.0,2.0,Monday,OK,Oklahoma,South,Kingfisher County,Fire,Cashion Fire Complex  ,2006-01-01,,
+FM-2604,Fire,2006-01-02,2006.0,1.0,1.0,2.0,Monday,OK,Oklahoma,South,Logan County,Fire,Guthrie Fire,2006-01-01,,
+FM-2605,Fire,2006-01-02,2006.0,1.0,1.0,2.0,Monday,OK,Oklahoma,South,Creek County,Fire,Sapulpa Fire Complex,2006-01-01,,
+FM-2606,Fire,2006-01-02,2006.0,1.0,1.0,2.0,Monday,OK,Oklahoma,South,Lincoln County,Fire,Prague Fire ,2006-01-01,,
+FM-2607,Fire,2006-01-02,2006.0,1.0,1.0,2.0,Monday,OK,Oklahoma,South,Oklahoma County,Fire,63Rd Street Fire,2006-01-01,,
+FM-2601,Fire,2006-01-02,2006.0,1.0,1.0,2.0,Monday,OK,Oklahoma,South,Creek County,Fire,Shamrock Fire Complex,2006-01-01,,
+FM-2602,Fire,2006-01-02,2006.0,1.0,1.0,2.0,Monday,OK,Oklahoma,South,Pottawatomie County,Fire,Bethel Acres Fire ,2006-01-01,,
+FM-2600,Fire,2006-01-02,2006.0,1.0,1.0,2.0,Monday,NM,New Mexico,West,Eddy County,Fire,Southeast New Mexico Fire Complex,2006-01-01,2006-01-04,2010-07-08
+FM-2608,Fire,2006-01-03,2006.0,1.0,1.0,3.0,Tuesday,OK,Oklahoma,South,McIntosh County,Fire,Eufaula Fire,2006-01-03,,
+DR-1621,Disaster,2006-01-04,2006.0,1.0,1.0,4.0,Wednesday,ND,North Dakota,Midwest,Cass County,Storm,Severe Winter Storm,,,2012-08-08
+DR-1622,Disaster,2006-01-04,2006.0,1.0,1.0,4.0,Wednesday,MN,Minnesota,Midwest,Big Stone County,Storm,Severe Winter Storm,,,
+FM-2611,Fire,2006-01-05,2006.0,1.0,1.0,5.0,Thursday,TX,Texas,South,Nacogdoches County,Fire,Mill Creek Fire ,2006-01-05,,
+FM-2610,Fire,2006-01-05,2006.0,1.0,1.0,5.0,Thursday,TX,Texas,South,Bell County,Fire,Rosewood Fire ,2006-01-05,,
+FM-2609,Fire,2006-01-05,2006.0,1.0,1.0,5.0,Thursday,TX,Texas,South,Bexar County,Fire,Bulverde Fire,2006-01-05,,
+FM-2612,Fire,2006-01-07,2006.0,1.0,1.0,7.0,Saturday,TX,Texas,South,Bastrop County,Fire,Cedar Creek Fire,2006-01-07,,
+FM-2615,Fire,2006-01-08,2006.0,1.0,1.0,8.0,Sunday,OK,Oklahoma,South,McIntosh County,Fire,Mcnally Flats Fire,2006-01-08,,
+FM-2614,Fire,2006-01-08,2006.0,1.0,1.0,8.0,Sunday,TX,Texas,South,Wood County,Fire,Hawkins Fire ,2006-01-08,,
+FM-2613,Fire,2006-01-08,2006.0,1.0,1.0,8.0,Sunday,CO,Colorado,West,Huerfano County,Fire,Mauricio Canyon Fire,2006-01-07,,2011-05-04
+FM-2616,Fire,2006-01-09,2006.0,1.0,1.0,9.0,Monday,OK,Oklahoma,South,McIntosh County,Fire,Henryetta Fire ,2006-01-09,,
+DR-1623,Disaster,2006-01-10,2006.0,1.0,1.0,10.0,Tuesday,OK,Oklahoma,South,Adair County,Fire,Extreme Wildfire Threat,,,
+DR-1624,Disaster,2006-01-11,2006.0,1.0,1.0,11.0,Wednesday,TX,Texas,South,Anderson County,Fire,Extreme Wildfire Threat,,,
+FM-2617,Fire,2006-01-11,2006.0,1.0,1.0,11.0,Wednesday,TX,Texas,South,Hays County,Fire,Niederwald Fire ,2006-01-11,,
+DR-1628,Disaster,2006-02-03,2006.0,2.0,1.0,3.0,Friday,CA,California,West,Alameda County,Storm,"Severe Storms, Flooding, Mudslides, and Landslides",,2006-01-03,
+DR-1629,Disaster,2006-02-03,2006.0,2.0,1.0,3.0,Friday,NV,Nevada,West,Carson City,Storm,Severe Storms and Flooding,,2006-01-04,
+FM-2629,Fire,2006-02-05,2006.0,2.0,1.0,5.0,Sunday,TX,Texas,South,Ellis County,Fire,Venus Fire Complex,2006-02-05,,
+FM-2630,Fire,2006-02-06,2006.0,2.0,1.0,6.0,Monday,CA,California,West,Orange County,Fire,Sierra Fire,2006-02-06,,2010-07-08
+FM-2631,Fire,2006-03-01,2006.0,3.0,1.0,1.0,Wednesday,NM,New Mexico,West,Colfax County,Fire,Casa Fire,2006-03-01,2006-03-07,2010-07-08
+DR-1634,Disaster,2006-04-05,2006.0,4.0,2.0,5.0,Wednesday,TN,Tennessee,South,Benton County,Storm,Severe Storms and Tornadoes,2006-04-02,2006-04-08,
+DR-1635,Disaster,2006-04-05,2006.0,4.0,2.0,5.0,Wednesday,MO,Missouri,Midwest,Andrew County,Storm,"Severe Storms, Tornadoes, and Flooding",,2006-04-03,
+FM-2635,Fire,2006-04-06,2006.0,4.0,2.0,6.0,Thursday,OK,Oklahoma,South,McClain County,Fire,New Castle Fire,2006-04-06,,2010-04-09
+FM-2634,Fire,2006-04-06,2006.0,4.0,2.0,6.0,Thursday,OK,Oklahoma,South,Caddo County,Fire,Cement Fire,2006-04-06,,2010-04-09
+FM-2633,Fire,2006-04-06,2006.0,4.0,2.0,6.0,Thursday,OK,Oklahoma,South,Kay County,Fire,Ponca City Fire ,2006-04-06,,2010-04-09
+FM-2636,Fire,2006-04-12,2006.0,4.0,2.0,12.0,Wednesday,NM,New Mexico,West,Mora County,Fire,Ojo Feliz Fire,2006-04-12,,2010-07-08
+DR-1636,Disaster,2006-04-12,2006.0,4.0,2.0,12.0,Wednesday,AR,Arkansas,South,Conway County,Storm,Severe Storms and Tornadoes,2006-04-01,2006-04-03,2013-12-12
+DR-1640,Disaster,2006-05-02,2006.0,5.0,2.0,2.0,Tuesday,HI,Hawaii,West,Honolulu County,Storm,"Severe Storms, Flooding, Landslides, and Mudslides",,2006-04-02,
+EM-3266,Emergency,2006-05-02,2006.0,5.0,2.0,2.0,Tuesday,CT,Connecticut,Northeast,"Fairfield County(in PMSA 1160,1930,5760,8040",Snow,Snow,2006-02-11,2006-02-12,
+FM-2640,Fire,2006-06-02,2006.0,6.0,2.0,2.0,Friday,AZ,Arizona,West,Yavapai County,Fire,La Barranca Fire,2006-06-01,2006-06-07,
+DR-1645,Disaster,2006-06-05,2006.0,6.0,2.0,5.0,Monday,ND,North Dakota,Midwest,Turtle Mountain Indian Reservation,Storm,"Severe Storms, Flooding, and Ground Saturation",,,
+DR-1646,Disaster,2006-06-05,2006.0,6.0,2.0,5.0,Monday,CA,California,West,Alameda County,Storm,"Severe Storms, Flooding, Landslides, and Mudslides",,,
+DR-1647,Disaster,2006-06-05,2006.0,6.0,2.0,5.0,Monday,SD,South Dakota,Midwest,Bennett County,Storm,Severe Winter Storm,,,
+DR-1648,Disaster,2006-06-05,2006.0,6.0,2.0,5.0,Monday,MN,Minnesota,Midwest,Becker County,Flood,Flooding,,2006-05-03,2014-03-06
+FM-2641,Fire,2006-06-08,2006.0,6.0,2.0,8.0,Thursday,AK,Alaska,West,Yukon Koyukuk Regional Educational Attendance Area,Fire,Parks Highway (Tamarack) Fire,2006-06-07,,
+DR-1650,Disaster,2006-07-01,2006.0,7.0,3.0,1.0,Saturday,NY,New York,Northeast,Broome County,Storm,Severe Storms and Flooding,,2006-07-10,
+DR-1651,Disaster,2006-07-02,2006.0,7.0,3.0,2.0,Sunday,OH,Ohio,Midwest,Cuyahoga County,Storm,"Severe Storms, Tornadoes, Straight Line Winds, and Flooding",,,2013-03-11
+DR-1652,Disaster,2006-07-02,2006.0,7.0,3.0,2.0,Sunday,MD,Maryland,South,Caroline County,Storm,"Severe Storms, Flooding, and Tornadoes",,2006-07-12,2012-06-11
+DR-1654,Disaster,2006-07-05,2006.0,7.0,3.0,5.0,Wednesday,DE,Delaware,South,Sussex County,Storm,Severe Storms and Flooding,,,2010-05-12
+DR-1653,Disaster,2006-07-07,2006.0,7.0,3.0,7.0,Friday,NJ,New Jersey,Northeast,Hunterdon County,Storm,Severe Storms and Flooding,,2006-07-10,2012-01-10
+FM-2652,Fire,2006-07-11,2006.0,7.0,3.0,11.0,Tuesday,MT,Montana,West,Stillwater County,Fire,Saunders Fire,2006-07-10,,2011-01-05
+FM-2653,Fire,2006-07-12,2006.0,7.0,3.0,12.0,Wednesday,CA,California,West,San Bernardino County,Fire,Sawtooth Fire Complex ,2006-07-11,,
+DR-1656,Disaster,2006-08-01,2006.0,8.0,3.0,1.0,Tuesday,OH,Ohio,Midwest,Ashtabula County,Storm,"Severe Storms, Straight Line Winds, and Flooding",,2006-08-04,2012-02-07
+DR-1657,Disaster,2006-08-04,2006.0,8.0,3.0,4.0,Friday,AK,Alaska,West,Lower Kuskokwim Regional Educational Attendance Area,Flood,Snow Melt and Ice Jam Flooding,,,
+FM-2663,Fire,2006-08-08,2006.0,8.0,3.0,8.0,Tuesday,WA,Washington,West,Stevens County,Fire,Valley Mill Fire,2006-08-08,2006-08-11,
+FM-2664,Fire,2006-08-12,2006.0,8.0,3.0,12.0,Saturday,NV,Nevada,West,Washoe County,Fire,Verdi Fire,2006-08-11,,
+FM-2672,Fire,2006-09-01,2006.0,9.0,3.0,1.0,Friday,CO,Colorado,West,Garfield County,Fire,Red Apple Fire ,,2006-09-03,
+FM-2673,Fire,2006-09-02,2006.0,9.0,3.0,2.0,Saturday,HI,Hawaii,West,Maui County,Fire,Ma'Alaea Fire,2006-09-01,2006-09-06,
+DR-1660,Disaster,2006-09-07,2006.0,9.0,3.0,7.0,Thursday,AZ,Arizona,West,Gila River Indian Reservation,Storm,Severe Storms and Flooding,,2006-08-04,
+FM-2674,Fire,2006-09-11,2006.0,9.0,3.0,11.0,Monday,WA,Washington,West,Chelan County,Fire,Flick Creek Fire,2006-09-09,,
+DR-1662,Disaster,2006-10-06,2006.0,10.0,4.0,6.0,Friday,IN,Indiana,Midwest,Lake County,Storm,Severe Storms and Flooding,2006-09-12,,2015-01-05
+DR-1667,Disaster,2006-11-02,2006.0,11.0,4.0,2.0,Thursday,MO,Missouri,Midwest,St. Louis,Storm,Severe Storms,,,2012-07-11
+DR-1668,Disaster,2006-11-02,2006.0,11.0,4.0,2.0,Thursday,LA,Louisiana,South,Acadia Parish,Storm,Severe Storms and Flooding,,2006-11-08,
+FM-2679,Fire,2006-11-11,2006.0,11.0,4.0,11.0,Saturday,NV,Nevada,West,Washoe County,Fire,Pinehaven Fire,2006-11-11,2006-11-12,2008-02-11
+FM-2681,Fire,2006-12-03,2006.0,12.0,4.0,3.0,Sunday,CA,California,West,Ventura County,Fire,Shekell Fire,2006-12-03,2006-12-06,2010-01-05
+DR-1669,Disaster,2006-12-08,2006.0,12.0,4.0,8.0,Friday,AK,Alaska,West,Chugach Regional Educational Attendance Area,Storm,"Severe Storms, Flooding, Landslides, and Mudslides",2006-10-08,,
+DR-1670,Disaster,2006-12-12,2006.0,12.0,4.0,12.0,Tuesday,NY,New York,Northeast,Broome County,Storm,Severe Storms and Flooding,,,
+DR-1671,Disaster,2006-12-12,2006.0,12.0,4.0,12.0,Tuesday,WA,Washington,West,Chelan County,Storm,"Severe Storms, Flooding, Landslides, and Mudslides",2006-11-02,2006-11-11,
+DR-1674,Disaster,2007-01-07,2007.0,1.0,1.0,7.0,Sunday,NE,Nebraska,Midwest,Adams County,Storm,Severe Winter Storms,,2007-01-01,2015-04-01
+DR-1675,Disaster,2007-01-07,2007.0,1.0,1.0,7.0,Sunday,KS,Kansas,Midwest,Cheyenne County,Storm,Severe Winter Storm,,,
+EM-3270,Emergency,2007-01-07,2007.0,1.0,1.0,7.0,Sunday,CO,Colorado,West,Adams County,Snow,Snow,,,2010-08-11
+EM-3271,Emergency,2007-01-07,2007.0,1.0,1.0,7.0,Sunday,CO,Colorado,West,Baca County,Snow,Snow,,,
+DR-1677,Disaster,2007-02-01,2007.0,2.0,1.0,1.0,Thursday,OK,Oklahoma,South,Beaver County,Storm,Severe Winter Storm,,,
+DR-1678,Disaster,2007-02-01,2007.0,2.0,1.0,1.0,Thursday,OK,Oklahoma,South,Adair County,Storm,Severe Winter Storms ,2007-01-12,,
+DR-1679,Disaster,2007-02-03,2007.0,2.0,1.0,3.0,Saturday,FL,Florida,South,Lake County,Storm,Severe Storms and Tornadoes,2007-02-01,2007-02-02,
+DR-1680,Disaster,2007-02-08,2007.0,2.0,1.0,8.0,Thursday,FL,Florida,South,Volusia County,Storm,"Severe Storms, Tornadoes, and Flooding",,,2014-05-07
+DR-1681,Disaster,2007-02-09,2007.0,2.0,1.0,9.0,Friday,IL,Illinois,Midwest,Bond County,Ice,Severe Winter Storm,,2006-12-01,
+DR-1687,Disaster,2007-03-03,2007.0,3.0,1.0,3.0,Saturday,AL,Alabama,South,Coffee County,Storm,Severe Storms and Tornadoes ,2007-03-01,2007-03-01,
+DR-1686,Disaster,2007-03-03,2007.0,3.0,1.0,3.0,Saturday,GA,Georgia,South,Baker County,Storm,Severe Storms and Tornadoes ,2007-03-01,2007-03-02,
+FM-2683,Fire,2007-03-11,2007.0,3.0,1.0,11.0,Sunday,CA,California,West,Orange County,Fire,241 Fire,2007-03-11,,2010-01-05
+EM-3274,Emergency,2007-03-12,2007.0,3.0,1.0,12.0,Monday,IN,Indiana,Midwest,Adams County,Snow,Snow,2007-02-12,,2010-12-07
+DR-1690,Disaster,2007-04-02,2007.0,4.0,2.0,2.0,Monday,NM,New Mexico,West,Curry County,Storm,Severe Storms and Tornadoes,,,
+DR-1696,Disaster,2007-05-01,2007.0,5.0,2.0,1.0,Tuesday,WV,West Virginia,South,Barbour County,Storm,"Severe Storms, Flooding, Landslides, and Mudslides",,,2013-07-08
+DR-1697,Disaster,2007-05-01,2007.0,5.0,2.0,1.0,Tuesday,TX,Texas,South,Atascosa County,Storm,Severe Storms and Tornadoes,,,
+FM-2687,Fire,2007-05-02,2007.0,5.0,2.0,2.0,Wednesday,FL,Florida,South,Flagler County,Fire,Deland Fire Complex ,2007-05-01,,2011-06-08
+DR-1698,Disaster,2007-05-04,2007.0,5.0,2.0,4.0,Friday,VT,Vermont,Northeast,Bennington County,Storm,Severe Storms and Flooding,,,
+FM-2688,Fire,2007-05-05,2007.0,5.0,2.0,5.0,Saturday,GA,Georgia,South,Atkinson County,Fire,Roundabout Fire,2007-05-04,,
+DR-1699,Disaster,2007-05-06,2007.0,5.0,2.0,6.0,Sunday,KS,Kansas,Midwest,Barton County,Storm,"Severe Storms, Tornadoes, and Flooding",2007-05-04,2007-06-01,
+FM-2689,Fire,2007-05-07,2007.0,5.0,2.0,7.0,Monday,FL,Florida,South,Alachua County,Fire,Suwannee Fire Complex,2007-05-07,,
+FM-2690,Fire,2007-05-08,2007.0,5.0,2.0,8.0,Tuesday,FL,Florida,South,Walton County,Fire,Black Creek Fire ,2007-05-07,,
+FM-2693,Fire,2007-05-09,2007.0,5.0,2.0,9.0,Wednesday,GA,Georgia,South,Charlton County,Fire,Bugaboo Scrub Fire,2007-05-09,,
+FM-2692,Fire,2007-05-09,2007.0,5.0,2.0,9.0,Wednesday,FL,Florida,South,Collier County,Fire,Calloosahatchee Fire Complex,2007-05-07,,
+FM-2691,Fire,2007-05-09,2007.0,5.0,2.0,9.0,Wednesday,CA,California,West,Los Angeles County,Fire,Griffith Park Fire,2007-05-08,2007-05-11,2010-01-05
+FM-2694,Fire,2007-05-10,2007.0,5.0,2.0,10.0,Thursday,CA,California,West,Los Angeles County,Fire,Island Fire,2007-05-10,,2010-01-05
+DR-1700,Disaster,2007-05-11,2007.0,5.0,2.0,11.0,Friday,CT,Connecticut,Northeast,"Fairfield County(in PMSA 1160,1930,5760,8040",Storm,Severe Storms and Flooding,,,
+DR-1706,Disaster,2007-06-06,2007.0,6.0,2.0,6.0,Wednesday,NE,Nebraska,Midwest,Blaine County,Storm,"Severe Storms, Flooding, and Tornadoes",2007-05-04,,
+DR-1707,Disaster,2007-06-07,2007.0,6.0,2.0,7.0,Thursday,OK,Oklahoma,South,Atoka County,Storm,"Severe Storms, Tornadoes, and Flooding",2007-05-04,2007-05-11,
+DR-1708,Disaster,2007-06-11,2007.0,6.0,2.0,11.0,Monday,MO,Missouri,Midwest,Andrew County,Storm,Severe Storms and Flooding,2007-05-05,,2015-03-09
+DR-1711,Disaster,2007-07-02,2007.0,7.0,3.0,2.0,Monday,KS,Kansas,Midwest,Allen County,Storm,Severe Storms and Flooding,,,
+DR-1710,Disaster,2007-07-02,2007.0,7.0,3.0,2.0,Monday,NY,New York,Northeast,Delaware County,Storm,Severe Storms and Flooding,,,
+FM-2704,Fire,2007-07-06,2007.0,7.0,3.0,6.0,Friday,NV,Nevada,West,Washoe County,Fire,Red Rock Fire,2007-07-06,2007-07-08,
+FM-2705,Fire,2007-07-06,2007.0,7.0,3.0,6.0,Friday,NV,Nevada,West,Douglas County,Fire,Sleeping Elephant Fire,2007-07-06,2007-07-08,
+FM-2707,Fire,2007-07-07,2007.0,7.0,3.0,7.0,Saturday,UT,Utah,West,Millard County,Fire,Milford Flat Fire,2007-07-06,,
+FM-2706,Fire,2007-07-07,2007.0,7.0,3.0,7.0,Saturday,CA,California,West,Inyo County,Fire,Inyo Fire Complex,2007-07-07,,2010-05-10
+DR-1712,Disaster,2007-07-07,2007.0,7.0,3.0,7.0,Saturday,OK,Oklahoma,South,Alfalfa County,Storm,"Severe Storms, Flooding, and Tornadoes",2007-06-10,,
+FM-2711,Fire,2007-07-08,2007.0,7.0,3.0,8.0,Sunday,WA,Washington,West,Chelan County,Fire,Easy Street Fire,2007-07-08,2007-07-10,
+FM-2710,Fire,2007-07-08,2007.0,7.0,3.0,8.0,Sunday,SD,South Dakota,Midwest,Fall River County,Fire,Alabaugh Canyon Fire,2007-07-07,,2010-03-10
+FM-2709,Fire,2007-07-08,2007.0,7.0,3.0,8.0,Sunday,NV,Nevada,West,Washoe County,Fire,Hungry Valley Fire,2007-07-07,2007-07-09,
+FM-2708,Fire,2007-07-08,2007.0,7.0,3.0,8.0,Sunday,CA,California,West,Los Angeles County,Fire,Canyon Fire,2007-07-07,2007-07-10,2010-05-10
+FM-2712,Fire,2007-07-12,2007.0,7.0,3.0,12.0,Thursday,OR,Oregon,West,Harney County,Fire,Egley Fire Complex,2007-07-08,,2012-04-10
+DR-1715,Disaster,2007-08-03,2007.0,8.0,3.0,3.0,Friday,VT,Vermont,Northeast,Caledonia County,Storm,Severe Storms and Flooding,2007-07-09,2007-07-11,
+FM-2718,Fire,2007-08-04,2007.0,8.0,3.0,4.0,Saturday,MT,Montana,West,Missoula County,Fire,Jocko Lakes Fire,2007-08-04,2007-09-04,
+DR-1716,Disaster,2007-08-08,2007.0,8.0,3.0,8.0,Wednesday,ME,Maine,Northeast,Oxford County,Storm,Severe Storms and Flooding,2007-07-11,2007-07-12,
+FM-2719,Fire,2007-08-12,2007.0,8.0,3.0,12.0,Sunday,WY,Wyoming,West,Sheridan County,Fire,Little Goose Fire,2007-08-12,,
+FM-2727,Fire,2007-09-03,2007.0,9.0,3.0,3.0,Monday,OR,Oregon,West,Deschutes County,Fire,Gw Fire,2007-09-02,2007-09-11,
+DR-1725,Disaster,2007-09-07,2007.0,9.0,3.0,7.0,Friday,ND,North Dakota,Midwest,Cass County,Storm,Severe Storms and Tornadoes,,,
+DR-1726,Disaster,2007-09-07,2007.0,9.0,3.0,7.0,Friday,ND,North Dakota,Midwest,Grand Forks County,Storm,Severe Storms and Tornadoes,,,
+DR-1730,Disaster,2007-10-02,2007.0,10.0,4.0,2.0,Tuesday,TX,Texas,South,Bexar County,Storm,Tropical Storm Erin,,,2015-06-11
+DR-1733,Disaster,2007-12-08,2007.0,12.0,4.0,8.0,Saturday,OR,Oregon,West,"Coos,Lower Unqua and Siuslaw Indian Reservation",Storm,"Severe Storms, Flooding, Landslides, and Mudslides",2007-12-01,,
+DR-1734,Disaster,2007-12-08,2007.0,12.0,4.0,8.0,Saturday,WA,Washington,West,Clallam County,Storm,"Severe Storms, Flooding, Landslides, and Mudslides",2007-12-01,,
+EM-3280,Emergency,2007-12-10,2007.0,12.0,4.0,10.0,Monday,OK,Oklahoma,South,Adair County,Ice,Severe Winter Storms,2007-12-08,2008-01-03,
+EM-3282,Emergency,2007-12-12,2007.0,12.0,4.0,12.0,Wednesday,KS,Kansas,Midwest,Allen County,Storm,Severe Winter Storms,2007-12-06,,
+EM-3281,Emergency,2007-12-12,2007.0,12.0,4.0,12.0,Wednesday,MO,Missouri,Midwest,Statewide,Ice,Severe Winter Storms,2007-12-08,,
+DR-1737,Disaster,2008-01-04,2008.0,1.0,1.0,4.0,Friday,IA,Iowa,Midwest,Adair County,Ice,Severe Winter Storm,2007-12-10,2007-12-11,2014-05-01
+DR-1738,Disaster,2008-01-08,2008.0,1.0,1.0,8.0,Tuesday,NV,Nevada,West,Lyon County,Storm,Severe Winter Storms and Flooding,2008-01-05,2008-01-10,
+DR-1739,Disaster,2008-01-11,2008.0,1.0,1.0,11.0,Friday,NE,Nebraska,Midwest,Gage County,Ice,Severe Winter Storm,2007-12-10,2007-12-12,2012-10-11
+DR-1741,Disaster,2008-02-01,2008.0,2.0,1.0,1.0,Friday,KS,Kansas,Midwest,Atchison County,Storm,Severe Winter Storms,2007-12-06,,
+DR-1742,Disaster,2008-02-05,2008.0,2.0,1.0,5.0,Tuesday,MO,Missouri,Midwest,Barry County,Storm,"Severe Storms, Tornadoes, and Flooding",2008-01-07,2008-01-10,
+DR-1743,Disaster,2008-02-06,2008.0,2.0,1.0,6.0,Wednesday,HI,Hawaii,West,Hawaii County,Storm,"Severe Storms, High Surf, Flooding, and Mudslides",2007-12-04,2007-12-07,
+DR-1745,Disaster,2008-02-07,2008.0,2.0,1.0,7.0,Thursday,TN,Tennessee,South,Benton County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding ",2008-02-05,2008-02-06,
+DR-1744,Disaster,2008-02-07,2008.0,2.0,1.0,7.0,Thursday,AR,Arkansas,South,Baxter County,Storm,"Severe Storms, Tornadoes, and Flooding",2008-02-05,2008-02-12,
+FM-2742,Fire,2008-02-08,2008.0,2.0,1.0,8.0,Friday,TX,Texas,South,Andrews County,Fire,Chevron Fire,2008-02-08,,
+FM-2749,Fire,2008-03-04,2008.0,3.0,1.0,4.0,Tuesday,TX,Texas,South,Zapata County,Fire,La Perla Fire,2008-03-03,2008-03-05,
+DR-1747,Disaster,2008-03-07,2008.0,3.0,1.0,7.0,Friday,IL,Illinois,Midwest,Iroquois County,Storm,Severe Storms and Flooding,2008-01-07,,2016-08-08
+FM-2750,Fire,2008-03-12,2008.0,3.0,1.0,12.0,Wednesday,TX,Texas,South,Jeff Davis County,Fire,Arabella Fire,2008-03-11,,
+DR-1748,Disaster,2008-03-12,2008.0,3.0,1.0,12.0,Wednesday,MO,Missouri,Midwest,Bollinger County,Ice,Severe Winter Storms and Flooding,2008-02-10,,
+FM-2759,Fire,2008-04-10,2008.0,4.0,2.0,10.0,Thursday,TX,Texas,South,Andrews County,Fire,Parker Fire,2008-04-10,,
+FM-2764,Fire,2008-05-01,2008.0,5.0,2.0,1.0,Thursday,TX,Texas,South,Martin County,Fire,Price Fire,2008-05-01,2008-05-04,
+DR-1752,Disaster,2008-05-05,2008.0,5.0,2.0,5.0,Monday,OK,Oklahoma,South,Adair County,Storm,"Severe Storms, Tornadoes, and Flooding",,,2012-09-11
+DR-1753,Disaster,2008-05-08,2008.0,5.0,2.0,8.0,Thursday,MS,Mississippi,South,Bolivar County,Storm,Severe Storms and Flooding,,,2016-12-06
+DR-1755,Disaster,2008-05-09,2008.0,5.0,2.0,9.0,Friday,ME,Maine,Northeast,Aroostook County,Flood,Severe Storms and Flooding,,,
+DR-1754,Disaster,2008-05-09,2008.0,5.0,2.0,9.0,Friday,OK,Oklahoma,South,Adair County,Flood,"Severe Storms, Tornadoes, and Flooding",2008-04-09,,
+FM-2765,Fire,2008-05-12,2008.0,5.0,2.0,12.0,Monday,FL,Florida,South,Brevard County,Fire,Brevard Fire Complex,2008-05-11,,2011-06-08
+FM-2767,Fire,2008-06-03,2008.0,6.0,2.0,3.0,Tuesday,TX,Texas,South,Bell County,Fire,Rein Street Fire,2008-06-03,2008-06-03,
+FM-2768,Fire,2008-06-04,2008.0,6.0,2.0,4.0,Wednesday,TX,Texas,South,Jeff Davis County,Fire,Hughes Ranch Fire,2008-06-04,2008-06-04,
+FM-2769,Fire,2008-06-05,2008.0,6.0,2.0,5.0,Thursday,OK,Oklahoma,South,Kiowa County,Fire,Gotebo Fire,2008-06-05,2008-06-05,2012-07-10
+DR-1766,Disaster,2008-06-08,2008.0,6.0,2.0,8.0,Sunday,IN,Indiana,Midwest,Adams County,Storm,"Severe Storms, Flooding, and Tornadoes",,,
+FM-2770,Fire,2008-06-10,2008.0,6.0,2.0,10.0,Tuesday,CA,California,West,Butte County,Fire,Ophir Fire,2008-06-10,,
+FM-2772,Fire,2008-06-11,2008.0,6.0,2.0,11.0,Wednesday,CA,California,West,Santa Cruz County,Fire,Martin Fire,2008-06-11,,2010-10-05
+FM-2771,Fire,2008-06-11,2008.0,6.0,2.0,11.0,Wednesday,CA,California,West,Butte County,Fire,Humboldt Fire,2008-06-11,,2010-10-05
+FM-2781,Fire,2008-07-04,2008.0,7.0,3.0,4.0,Friday,CA,California,West,Monterey County,Fire,Basin Fire Complex,2008-07-04,,
+FM-2780,Fire,2008-07-04,2008.0,7.0,3.0,4.0,Friday,CA,California,West,Santa Barbara County,Fire,Gap Fire,2008-07-03,,
+FM-2782,Fire,2008-07-08,2008.0,7.0,3.0,8.0,Tuesday,CA,California,West,Butte County,Fire,Camp Fire,,,
+DR-1776,Disaster,2008-07-09,2008.0,7.0,3.0,9.0,Wednesday,KS,Kansas,Midwest,Barber County,Storm,"Severe Storms, Flooding and Tornadoes",,,2014-12-11
+DR-1774,Disaster,2008-07-09,2008.0,7.0,3.0,9.0,Wednesday,SD,South Dakota,Midwest,Cheyenne River Indian Reservation,Storm,Severe Storms and Flooding,2008-06-02,2008-06-12,
+DR-1775,Disaster,2008-07-09,2008.0,7.0,3.0,9.0,Wednesday,OK,Oklahoma,South,Alfalfa County,Storm,Severe Storms and Flooding,2008-06-03,,
+FM-2784,Fire,2008-07-11,2008.0,7.0,3.0,11.0,Friday,WA,Washington,West,Douglas County,Fire,Badger Mountain Fire Complex,2008-07-10,,2011-01-10
+FM-2783,Fire,2008-07-11,2008.0,7.0,3.0,11.0,Friday,WA,Washington,West,Spokane County,Fire,Spokane Valley Fire,2008-07-10,,2011-01-10
+FM-2785,Fire,2008-08-07,2008.0,8.0,3.0,7.0,Thursday,TX,Texas,South,Williamson County,Fire,Florence Fire,2008-08-07,,
+DR-1782,Disaster,2008-08-11,2008.0,8.0,3.0,11.0,Monday,NH,New Hampshire,Northeast,Belknap County,Storm,"Severe Storms, Tornado, and Flooding",,,
+DR-1786,Disaster,2008-09-02,2008.0,9.0,3.0,2.0,Tuesday,LA,Louisiana,South,Acadia Parish,Hurricane,Hurricane Gustav ,2008-09-01,2008-09-11,
+FM-2786,Fire,2008-09-02,2008.0,9.0,3.0,2.0,Tuesday,CA,California,West,Placer County,Fire,Gladding Fire,2008-09-01,2008-09-03,
+DR-1787,Disaster,2008-09-05,2008.0,9.0,3.0,5.0,Friday,NH,New Hampshire,Northeast,Belknap County,Storm,Severe Storms and Flooding,,,2016-05-11
+EM-3293,Emergency,2008-09-07,2008.0,9.0,3.0,7.0,Sunday,FL,Florida,South,Monroe County,Hurricane,Hurricane Ike,2008-09-05,2008-09-12,
+DR-1788,Disaster,2008-09-09,2008.0,9.0,3.0,9.0,Tuesday,ME,Maine,Northeast,Androscoggin County,Storm,"Severe Storms, Flooding, and Tornadoes",,,
+DR-1789,Disaster,2008-09-10,2008.0,9.0,3.0,10.0,Wednesday,AL,Alabama,South,Baldwin County,Hurricane,Hurricane Gustav,,2008-09-03,
+EM-3294,Emergency,2008-09-10,2008.0,9.0,3.0,10.0,Wednesday,TX,Texas,South,Anderson County,Hurricane,Hurricane Ike,2008-09-07,,
+EM-3295,Emergency,2008-09-11,2008.0,9.0,3.0,11.0,Thursday,LA,Louisiana,South,Calcasieu Parish,Hurricane,Hurricane Ike,2008-09-07,2008-11-07,
+DR-1790,Disaster,2008-09-12,2008.0,9.0,3.0,12.0,Friday,VT,Vermont,Northeast,Addison County,Storm,Severe Storms and Flooding,,2008-08-12,
+DR-1798,Disaster,2008-10-01,2008.0,10.0,4.0,1.0,Wednesday,PR,Puerto Rico,Territory,Adjuntas Municipio,Storm,Severe Storms and Flooding,,2008-10-03,
+DR-1800,Disaster,2008-10-03,2008.0,10.0,4.0,3.0,Friday,IL,Illinois,Midwest,Bureau County,Storm,Severe Storms and Flooding,,2008-10-05,
+DR-1799,Disaster,2008-10-03,2008.0,10.0,4.0,3.0,Friday,NH,New Hampshire,Northeast,"Hillsborough County(in PMSA 4560,4760,5350",Storm,Severe Storms and Flooding,2008-09-06,2008-09-07,
+DR-1801,Disaster,2008-10-08,2008.0,10.0,4.0,8.0,Wednesday,NC,North Carolina,South,Beaufort County,Storm,Tropical Storm Hanna,2008-09-04,,
+DR-1803,Disaster,2008-10-09,2008.0,10.0,4.0,9.0,Thursday,OK,Oklahoma,South,Alfalfa County,Storm,"Severe Storms, Tornadoes, and Flooding",2008-09-12,,
+DR-1802,Disaster,2008-10-09,2008.0,10.0,4.0,9.0,Thursday,KY,Kentucky,South,Ballard County,Storm,Severe Wind Storm Associated With Tropical Depression Ike,2008-09-12,,
+FM-2788,Fire,2008-10-12,2008.0,10.0,4.0,12.0,Sunday,CA,California,West,Los Angeles County,Fire,Marek Fire,2008-10-12,,2011-10-06
+DR-1811,Disaster,2008-12-12,2008.0,12.0,4.0,12.0,Friday,SD,South Dakota,Midwest,Cheyenne River Indian Reservation,Snow,Severe Winter Storm and Record and Near Record Snow,2008-11-05,2008-11-07,
+DR-1812,Disaster,2009-01-02,2009.0,1.0,1.0,2.0,Friday,NH,New Hampshire,Northeast,Belknap County,Ice,Severe Winter Storm,2008-12-11,,2017-01-10
+DR-1814,Disaster,2009-01-05,2009.0,1.0,1.0,5.0,Monday,HI,Hawaii,West,Honolulu County,Flood,Severe Storms and Flooding,2008-12-10,,
+DR-1813,Disaster,2009-01-05,2009.0,1.0,1.0,5.0,Monday,MA,Massachusetts,Northeast,Berkshire County,Ice,Severe Winter Storm and Flooding,2008-12-11,,
+FM-2793,Fire,2009-01-07,2009.0,1.0,1.0,7.0,Wednesday,CO,Colorado,West,Boulder County,Fire,Olde Stage Fire,2009-01-07,,2010-10-06
+DR-1815,Disaster,2009-01-09,2009.0,1.0,1.0,9.0,Friday,ME,Maine,Northeast,Androscoggin County,Storm,Severe Winter Storm and Flooding,2008-12-11,,
+DR-1818,Disaster,2009-02-05,2009.0,2.0,1.0,5.0,Thursday,KY,Kentucky,South,Allen County,Ice,Severe Winter Storm and Flooding,,,
+DR-1819,Disaster,2009-02-06,2009.0,2.0,1.0,6.0,Friday,AR,Arkansas,South,Baxter County,Storm,Severe Winter Storm,,,
+DR-1826,Disaster,2009-03-02,2009.0,3.0,1.0,2.0,Monday,IL,Illinois,Midwest,Alexander County,Storm,Severe Winter Storm,,,2016-08-08
+DR-1824,Disaster,2009-03-02,2009.0,3.0,1.0,2.0,Monday,OR,Oregon,West,Clackamas County,Storm,"Severe Winter Storm, Record and Near Record Snow",,,
+DR-1825,Disaster,2009-03-02,2009.0,3.0,1.0,2.0,Monday,WA,Washington,West,Adams County,Storm,Severe Winter Storm and Record and Near Record Snow,2008-12-12,2009-01-05,
+FM-2797,Fire,2009-03-03,2009.0,3.0,1.0,3.0,Tuesday,TX,Texas,South,,Fire,Loma Del Norte Fire,2009-03-03,,2013-06-11
+DR-1827,Disaster,2009-03-04,2009.0,3.0,1.0,4.0,Wednesday,NY,New York,Northeast,Albany County,Storm,Severe Winter Storm,2008-12-11,,
+FM-2799,Fire,2009-03-05,2009.0,3.0,1.0,5.0,Thursday,OK,Oklahoma,South,,Fire,Taloga Fire,2009-03-05,,2012-07-10
+FM-2798,Fire,2009-03-05,2009.0,3.0,1.0,5.0,Thursday,TX,Texas,South,Taylor County,Fire,Tuscola Fire,2009-03-05,2009-03-10,2013-06-11
+DR-1828,Disaster,2009-03-05,2009.0,3.0,1.0,5.0,Thursday,IN,Indiana,Midwest,Clark County,Storm,Severe Winter Storm,,,
+FM-2801,Fire,2009-04-03,2009.0,4.0,2.0,3.0,Friday,TX,Texas,South,Live Oak County,Fire,Lagarto Fire,2009-04-02,2009-04-05,2013-06-11
+FM-2802,Fire,2009-04-04,2009.0,4.0,2.0,4.0,Saturday,TX,Texas,South,Wheeler County,Fire,Magic City Fire,2009-04-04,2009-04-12,2013-06-11
+FM-2803,Fire,2009-04-05,2009.0,4.0,2.0,5.0,Sunday,TX,Texas,South,Aransas County,Fire,Holiday Beach Fire,2009-04-05,2009-04-07,2013-06-11
+FM-2804,Fire,2009-04-07,2009.0,4.0,2.0,7.0,Tuesday,TX,Texas,South,Callahan County,Fire,Steel Fire,2009-04-07,2009-04-12,2013-06-11
+DR-1830,Disaster,2009-04-09,2009.0,4.0,2.0,9.0,Thursday,MN,Minnesota,Midwest,Red Lake Indian Reservation,Storm,Severe Storms and Flooding,,,2016-08-03
+FM-2815,Fire,2009-04-10,2009.0,4.0,2.0,10.0,Friday,TX,Texas,South,Hamilton County,Fire,617 Fire,2009-04-09,2009-04-11,
+FM-2814,Fire,2009-04-10,2009.0,4.0,2.0,10.0,Friday,TX,Texas,South,Palo Pinto County,Fire,1148 Fire,2009-04-09,,2013-06-11
+FM-2813,Fire,2009-04-10,2009.0,4.0,2.0,10.0,Friday,OK,Oklahoma,South,Payne County,Fire,Mulhall Fire,,,2013-04-01
+FM-2812,Fire,2009-04-10,2009.0,4.0,2.0,10.0,Friday,OK,Oklahoma,South,Stephens County,Fire,Velma Fire,2009-04-09,,2013-04-01
+FM-2811,Fire,2009-04-10,2009.0,4.0,2.0,10.0,Friday,OK,Oklahoma,South,Carter County,Fire,Healdton Carter Fire,2009-04-09,,
+FM-2810,Fire,2009-04-10,2009.0,4.0,2.0,10.0,Friday,TX,Texas,South,Stephens County,Fire,Breckenridge Fire,2009-04-09,,2013-06-11
+FM-2809,Fire,2009-04-10,2009.0,4.0,2.0,10.0,Friday,OK,Oklahoma,South,McClain County,Fire,Mcclain County Fire,2009-04-09,,
+FM-2808,Fire,2009-04-10,2009.0,4.0,2.0,10.0,Friday,OK,Oklahoma,South,Oklahoma County,Fire,Midwest Choctaw Fire,2009-04-09,,
+FM-2807,Fire,2009-04-10,2009.0,4.0,2.0,10.0,Friday,TX,Texas,South,,Fire,Cement Mountain Fire,2009-04-09,,
+FM-2806,Fire,2009-04-10,2009.0,4.0,2.0,10.0,Friday,TX,Texas,South,Bastrop County,Fire,Montague Fire Complex,2009-04-09,,
+FM-2805,Fire,2009-04-10,2009.0,4.0,2.0,10.0,Friday,TX,Texas,South,Wichita County,Fire,Electra West Fire,2009-04-09,,2013-06-11
+FM-2817,Fire,2009-05-06,2009.0,5.0,2.0,6.0,Wednesday,CA,California,West,Santa Barbara County,Fire,Jesusita Fire,2009-05-05,,
+FM-2818,Fire,2009-05-07,2009.0,5.0,2.0,7.0,Thursday,NM,New Mexico,West,Otero County,Fire,Buckwood Fire,2009-05-06,,2012-02-06
+DR-1836,Disaster,2009-05-08,2009.0,5.0,2.0,8.0,Friday,AL,Alabama,South,Cullman County,Storm,"Severe Storms, Flooding, Tornadoes, and Straight-Line Winds",2009-04-10,,
+DR-1837,Disaster,2009-05-12,2009.0,5.0,2.0,12.0,Tuesday,MS,Mississippi,South,Amite County,Storm,"Severe Storms, Flooding, and Tornadoes",,,
+FM-2819,Fire,2009-05-12,2009.0,5.0,2.0,12.0,Tuesday,FL,Florida,South,Martin County,Fire,Martin County Fire Complex,2009-05-11,,
+DR-1842,Disaster,2009-06-03,2009.0,6.0,2.0,3.0,Wednesday,AL,Alabama,South,Autauga County,Storm,"Severe Storms, Tornadoes, Flooding, and Straight-Line Winds",2009-05-06,2009-05-08,
+DR-1843,Disaster,2009-06-11,2009.0,6.0,2.0,11.0,Thursday,AK,Alaska,West,Alaska Gateway Regional Educational Attendance Area,Flood,Flooding and Ice Jams,,,
+DR-1850,Disaster,2009-07-02,2009.0,7.0,3.0,2.0,Thursday,IL,Illinois,Midwest,Franklin County,Storm,"Severe Storms, Flooding, and Tornadoes",2009-05-08,2009-05-09,
+DR-1857,Disaster,2009-09-01,2009.0,9.0,3.0,1.0,Tuesday,NY,New York,Northeast,Allegany County,Storm,Severe Storms and Flooding,2009-08-08,2009-08-10,
+FM-2836,Fire,2009-09-01,2009.0,9.0,3.0,1.0,Tuesday,CA,California,West,San Bernardino County,Fire,Pendleton Fire,,2009-09-05,
+FM-2837,Fire,2009-09-04,2009.0,9.0,3.0,4.0,Friday,MT,Montana,West,Stillwater County,Fire,Eagle Mount Fire,2009-09-03,2009-09-05,
+FM-2840,Fire,2009-10-03,2009.0,10.0,4.0,3.0,Saturday,AZ,Arizona,West,Coconino County,Fire,Twin Fire,2009-10-02,2009-10-08,
+FM-2841,Fire,2009-10-04,2009.0,10.0,4.0,4.0,Sunday,CA,California,West,San Bernardino County,Fire,Sheep Fire,2009-10-03,2009-10-09,2011-10-07
+DR-1861,Disaster,2009-12-03,2009.0,12.0,4.0,3.0,Thursday,AR,Arkansas,South,Boone County,Storm,"Severe Storms, Tornadoes, and Flooding",,2009-11-08,
+DR-1862,Disaster,2009-12-09,2009.0,12.0,4.0,9.0,Wednesday,VA,Virginia,South,Chesapeake,Storm,Severe Storms and Flooding Associated With Tropical Depression Ida and A Nor'East,2009-11-11,,
+DR-1863,Disaster,2009-12-10,2009.0,12.0,4.0,10.0,Thursday,LA,Louisiana,South,Beauregard Parish,Storm,"Severe Storms, Tornadoes, and Flooding",,2009-11-03,
+DR-1871,Disaster,2010-02-02,2010.0,2.0,1.0,2.0,Tuesday,NC,North Carolina,South,Eastern Band of Cherokee Indians of North Carolina,Storm,Severe Winter Storms and Flooding,,,
+DR-1872,Disaster,2010-02-04,2010.0,2.0,1.0,4.0,Thursday,AR,Arkansas,South,Bradley County,Storm,Severe Storms and Flooding,,2010-01-02,
+DR-1873,Disaster,2010-02-05,2010.0,2.0,1.0,5.0,Friday,NJ,New Jersey,Northeast,Atlantic County,Snow,Snowstorm,,,
+DR-1880,Disaster,2010-03-02,2010.0,3.0,1.0,2.0,Tuesday,IA,Iowa,Midwest,Adair County,Storm,Severe Winter Storm,,,
+DR-1881,Disaster,2010-03-02,2010.0,3.0,1.0,2.0,Tuesday,WV,West Virginia,South,Boone County,Snow,Severe Winter Storm and Snowstorm,,,2015-08-12
+DR-1882,Disaster,2010-03-03,2010.0,3.0,1.0,3.0,Wednesday,DC,District of Columbia,South,District of Columbia County-equivalent,Snow,Severe Winter Storm and Snowstorm,,,
+DR-1883,Disaster,2010-03-05,2010.0,3.0,1.0,5.0,Friday,OK,Oklahoma,South,Alfalfa County,Ice,Severe Winter Storm,,,
+DR-1884,Disaster,2010-03-08,2010.0,3.0,1.0,8.0,Monday,CA,California,West,Calaveras County,Storm,"Severe Winter Storms, Flooding, and Debris and Mud Flows",,2010-02-06,
+DR-1886,Disaster,2010-03-09,2010.0,3.0,1.0,9.0,Tuesday,SD,South Dakota,Midwest,Oglala Sioux Tribe of the Pine Ridge Reservation,Storm,Severe Winter Storm and Snowstorm,,,
+DR-1885,Disaster,2010-03-09,2010.0,3.0,1.0,9.0,Tuesday,KS,Kansas,Midwest,Allen County,Storm,Severe Winter Storms and Snowstorm,,2010-01-08,
+DR-1887,Disaster,2010-03-10,2010.0,3.0,1.0,10.0,Wednesday,SD,South Dakota,Midwest,Cheyenne River Indian Reservation,Storm,Severe Winter Storm,,,
+DR-1897,Disaster,2010-04-02,2010.0,4.0,2.0,2.0,Friday,NJ,New Jersey,Northeast,Atlantic County,Storm,Severe Storms and Flooding,2010-03-12,,
+DR-1908,Disaster,2010-05-03,2010.0,5.0,2.0,3.0,Monday,AL,Alabama,South,DeKalb County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",,,
+EM-3312,Emergency,2010-05-03,2010.0,5.0,2.0,3.0,Monday,MA,Massachusetts,Northeast,"Essex County(in PMSA 1120,4160,7090",Other,Water Main Break,2010-05-01,2010-05-05,2012-11-06
+DR-1909,Disaster,2010-05-04,2010.0,5.0,2.0,4.0,Tuesday,TN,Tennessee,South,Benton County,Storm,"Severe Storms, Flooding, Straight-Line Winds, and Tornadoes ",,,
+DR-1910,Disaster,2010-05-06,2010.0,5.0,2.0,6.0,Thursday,MD,Maryland,South,Baltimore,Snow,Severe Winter Storms and Snowstorms,2010-02-05,2010-02-11,
+DR-1911,Disaster,2010-05-07,2010.0,5.0,2.0,7.0,Friday,CA,California,West,Imperial County,Earthquake,Earthquake,2010-04-04,2010-07-04,
+DR-1912,Disaster,2010-05-11,2010.0,5.0,2.0,11.0,Tuesday,KY,Kentucky,South,Adair County,Storm,"Severe Storms, Flooding, Mudslides, and Tornadoes",2010-05-01,2010-06-01,
+DR-1913,Disaster,2010-05-12,2010.0,5.0,2.0,12.0,Wednesday,NH,New Hampshire,Northeast,"Hillsborough County(in PMSA 4560,4760,5350",Storm,Severe Storms and Flooding,,,
+FM-2843,Fire,2010-06-02,2010.0,6.0,2.0,2.0,Wednesday,NM,New Mexico,West,Sandoval County,Fire,Rio Fire,2010-06-01,,
+FM-2844,Fire,2010-06-09,2010.0,6.0,2.0,9.0,Wednesday,HI,Hawaii,West,Maui County,Fire,Maalaea Fire,2010-06-08,,2013-01-08
+FM-2847,Fire,2010-07-01,2010.0,7.0,3.0,1.0,Thursday,NV,Nevada,West,Clark County,Fire,Cathedral Fire,2010-07-01,2010-07-06,2011-05-03
+DR-1920,Disaster,2010-07-01,2010.0,7.0,3.0,1.0,Thursday,ME,Maine,Northeast,Hancock County,Storm,Severe Storms and Flooding,2010-03-12,2010-04-01,2016-03-02
+DR-1921,Disaster,2010-07-02,2010.0,7.0,3.0,2.0,Friday,MN,Minnesota,Midwest,Blue Earth County,Tornado,"Severe Storms, Tornadoes, and Flooding",,,
+DR-1922,Disaster,2010-07-10,2010.0,7.0,3.0,10.0,Saturday,MT,Montana,West,Rocky Boy's Indian Reservation,Storm,Severe Storms and Flooding,,,2017-02-08
+DR-1931,Disaster,2010-08-03,2010.0,8.0,3.0,3.0,Tuesday,TX,Texas,South,Calhoun County,Hurricane,Hurricane Alex,,,
+DR-1932,Disaster,2010-08-10,2010.0,8.0,3.0,10.0,Tuesday,KS,Kansas,Midwest,Atchison County,Storm,"Severe Storms, Flooding, and Tornadoes",2010-06-07,,
+DR-1933,Disaster,2010-08-11,2010.0,8.0,3.0,11.0,Wednesday,WI,Wisconsin,Midwest,Calumet County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+EM-3314,Emergency,2010-09-01,2010.0,9.0,3.0,1.0,Wednesday,NC,North Carolina,South,Beaufort County,Hurricane,Hurricane Earl,2010-09-01,2010-09-04,
+EM-3315,Emergency,2010-09-02,2010.0,9.0,3.0,2.0,Thursday,MA,Massachusetts,Northeast,Barnstable County,Hurricane,Hurricane Earl,2010-09-01,2010-09-04,
+FM-2855,Fire,2010-09-06,2010.0,9.0,3.0,6.0,Monday,CO,Colorado,West,Boulder County,Fire,Four Mile Canyon Fire,2010-09-06,,2012-08-07
+FM-2856,Fire,2010-09-10,2010.0,9.0,3.0,10.0,Friday,CA,California,West,San Mateo County,Fire,Glenview Fire,2010-09-09,2010-09-11,
+FM-2857,Fire,2010-09-12,2010.0,9.0,3.0,12.0,Sunday,CO,Colorado,West,Larimer County,Fire,Reservoir Road Fire,2010-09-12,,
+DR-1940,Disaster,2010-10-04,2010.0,10.0,4.0,4.0,Monday,AZ,Arizona,West,Hopi Indian Reservation,Storm,Severe Storms and Flooding,,2010-08-07,
+DR-1947,Disaster,2010-11-02,2010.0,11.0,4.0,2.0,Tuesday,SD,South Dakota,Midwest,Flandreau Indian Reservation,Storm,Severe Storms and Flooding,,,
+DR-1948,Disaster,2010-11-05,2010.0,11.0,4.0,5.0,Friday,VI,Virgin Islands,Territory,St. Croix Island County-equivalent,Storm,"Severe Storms, Flooding, Mudslides, and Landslides",2010-10-01,2010-10-08,
+DR-1953,Disaster,2011-02-01,2011.0,2.0,1.0,1.0,Tuesday,ME,Maine,Northeast,Aroostook County,Storm,Severe Storms and Flooding,2010-12-12,,2016-11-03
+EM-3316,Emergency,2011-02-02,2011.0,2.0,1.0,2.0,Wednesday,OK,Oklahoma,South,Adair County,Storm,Severe Winter Storm,,2011-02-05,
+EM-3317,Emergency,2011-02-03,2011.0,2.0,1.0,3.0,Thursday,MO,Missouri,Midwest,St. Louis,Storm,Severe Winter Storm,,2011-02-05,2012-01-06
+DR-1954,Disaster,2011-02-04,2011.0,2.0,1.0,4.0,Friday,NJ,New Jersey,Northeast,Atlantic County,Snow,Severe Winter Storm and Snowstorm,,,
+DR-1955,Disaster,2011-02-11,2011.0,2.0,1.0,11.0,Friday,UT,Utah,West,Garfield County,Flood,Severe Winter Storm and Flooding,,,
+DR-1958,Disaster,2011-03-03,2011.0,3.0,1.0,3.0,Thursday,CT,Connecticut,Northeast,Mashantucket Pequot Indian Reservation,Snow,Snowstorm,2011-01-11,2011-01-12,
+DR-1959,Disaster,2011-03-07,2011.0,3.0,1.0,7.0,Monday,MA,Massachusetts,Northeast,Berkshire County,Snow,Severe Winter Storm and Snowstorm,2011-01-11,2011-01-12,
+FM-2866,Fire,2011-03-08,2011.0,3.0,1.0,8.0,Tuesday,NM,New Mexico,West,Grant County,Fire,Quail Ridge Fire,2011-03-07,2011-03-11,
+FM-2869,Fire,2011-03-11,2011.0,3.0,1.0,11.0,Friday,OK,Oklahoma,South,Oklahoma County,Fire,Midwest City Fire Complex,2011-03-11,,
+FM-2868,Fire,2011-03-11,2011.0,3.0,1.0,11.0,Friday,OK,Oklahoma,South,Oklahoma County,Fire,Harrah Fire,2011-03-11,,
+FM-2867,Fire,2011-03-11,2011.0,3.0,1.0,11.0,Friday,TX,Texas,South,Jack County,Fire,Enmin Fire,2011-03-11,,2015-04-06
+FM-2872,Fire,2011-03-12,2011.0,3.0,1.0,12.0,Saturday,OK,Oklahoma,South,Pottawatomie County,Fire,Shawnee Fire,2011-03-12,,
+FM-2871,Fire,2011-03-12,2011.0,3.0,1.0,12.0,Saturday,OK,Oklahoma,South,McClain County,Fire,Goldsby Fire,2011-03-12,,
+FM-2870,Fire,2011-03-12,2011.0,3.0,1.0,12.0,Saturday,TX,Texas,South,Bosque County,Fire,Big Trickle Ranch Fire,2011-03-11,,
+FM-2881,Fire,2011-04-03,2011.0,4.0,2.0,3.0,Sunday,TX,Texas,South,Ector County,Fire,Bates Field Fire,2011-04-03,2011-04-06,
+FM-2880,Fire,2011-04-03,2011.0,4.0,2.0,3.0,Sunday,NM,New Mexico,West,Bernalillo County,Fire,White Fire ,2011-04-03,,2013-07-08
+FM-2879,Fire,2011-04-03,2011.0,4.0,2.0,3.0,Sunday,OK,Oklahoma,South,Texas County,Fire,Guymon Fire ,2011-04-03,2011-04-05,
+FM-2878,Fire,2011-04-03,2011.0,4.0,2.0,3.0,Sunday,KS,Kansas,Midwest,Haskell County,Fire,Haskell County Fire,2011-04-03,2011-04-04,
+FM-2877,Fire,2011-04-03,2011.0,4.0,2.0,3.0,Sunday,CO,Colorado,West,Larimer County,Fire,Crystal Fire,2011-04-03,2011-04-11,2014-11-07
+DR-1966,Disaster,2011-04-05,2011.0,4.0,2.0,5.0,Tuesday,WI,Wisconsin,Midwest,Dane County,Snow,Severe Winter Storm and Snowstorm,,2011-02-03,
+FM-2882,Fire,2011-04-05,2011.0,4.0,2.0,5.0,Tuesday,TX,Texas,South,Webb County,Fire,El Cenizo Fire,2011-04-04,2011-04-08,
+FM-2883,Fire,2011-04-06,2011.0,4.0,2.0,6.0,Wednesday,OK,Oklahoma,South,Oklahoma County,Fire,Jones Spencer Fire ,2011-04-06,2011-04-09,
+EM-3318,Emergency,2011-04-07,2011.0,4.0,2.0,7.0,Thursday,ND,North Dakota,Midwest,Standing Rock Sioux Tribe of North & South Dakota,Flood,Flooding,2011-04-05,2011-07-01,2013-08-02
+DR-1967,Disaster,2011-04-08,2011.0,4.0,2.0,8.0,Friday,HI,Hawaii,West,Hawaii County,Tsunami,Tsunami Waves,2011-03-11,2011-03-11,
+FM-2886,Fire,2011-04-09,2011.0,4.0,2.0,9.0,Saturday,TX,Texas,South,Midland County,Fire,Hickman Fire ,2011-04-09,,
+FM-2885,Fire,2011-04-09,2011.0,4.0,2.0,9.0,Saturday,TX,Texas,South,Jeff Davis County,Fire,Rockhouse Fire ,2011-04-09,,
+FM-2884,Fire,2011-04-09,2011.0,4.0,2.0,9.0,Saturday,TX,Texas,South,King County,Fire,Swenson Fire,2011-04-06,,
+FM-2887,Fire,2011-04-10,2011.0,4.0,2.0,10.0,Sunday,OK,Oklahoma,South,Pawnee County,Fire,Cleveland Fire ,2011-04-09,2011-04-12,
+DR-1974,Disaster,2011-05-01,2011.0,5.0,2.0,1.0,Sunday,TN,Tennessee,South,Benton County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, and Associated Flooding",,,
+DR-1975,Disaster,2011-05-02,2011.0,5.0,2.0,2.0,Monday,AR,Arkansas,South,Arkansas County,Storm,"Severe Storms, Tornadoes, and Associated Flooding",,2011-06-03,
+EM-3320,Emergency,2011-05-04,2011.0,5.0,2.0,4.0,Wednesday,MS,Mississippi,South,Adams County,Flood,Flooding,,,
+DR-1976,Disaster,2011-05-04,2011.0,5.0,2.0,4.0,Wednesday,KY,Kentucky,South,Anderson County,Storm,"Severe Storms, Tornadoes, and Flooding",2011-04-12,,
+EM-3321,Emergency,2011-05-04,2011.0,5.0,2.0,4.0,Wednesday,TN,Tennessee,South,Dyer County,Flood,Flooding,,2011-06-07,
+DR-1977,Disaster,2011-05-05,2011.0,5.0,2.0,5.0,Thursday,IA,Iowa,Midwest,Buena Vista County,Storm,"Severe Storms, Tornadoes, and Straight-Line Winds",2011-04-09,2011-04-10,
+EM-3322,Emergency,2011-05-06,2011.0,5.0,2.0,6.0,Friday,LA,Louisiana,South,Ascension Parish,Flood,Flooding,,2011-07-07,
+FM-2906,Fire,2011-05-08,2011.0,5.0,2.0,8.0,Sunday,TX,Texas,South,Brewster County,Fire,Gage Holland Fire,2011-05-08,,
+DR-1979,Disaster,2011-05-09,2011.0,5.0,2.0,9.0,Monday,TN,Tennessee,South,Benton County,Storm,"Severe Storms, Straight-Line Winds, Tornadoes, and Flooding",,2011-06-07,
+DR-1980,Disaster,2011-05-09,2011.0,5.0,2.0,9.0,Monday,MO,Missouri,Midwest,Barry County,Storm,"Severe Storms, Tornadoes, and Flooding",,2011-06-06,
+FM-2908,Fire,2011-05-09,2011.0,5.0,2.0,9.0,Monday,TX,Texas,South,Howard County,Fire,Matt Loop Fire,2011-05-09,,
+DR-1978,Disaster,2011-05-09,2011.0,5.0,2.0,9.0,Monday,TN,Tennessee,South,Chester County,Storm,"Severe Storms, Flooding, Tornadoes, and Straight-Line Winds",2011-04-04,2011-04-04,
+FM-2907,Fire,2011-05-09,2011.0,5.0,2.0,9.0,Monday,AZ,Arizona,West,Cochise County,Fire,Horseshoe Two Fire,2011-05-08,,2012-06-06
+DR-1982,Disaster,2011-05-10,2011.0,5.0,2.0,10.0,Tuesday,MN,Minnesota,Midwest,Red Lake Indian Reservation,Flood,Severe Storms and Flooding,,,
+DR-1981,Disaster,2011-05-10,2011.0,5.0,2.0,10.0,Tuesday,ND,North Dakota,Midwest,Fort Berthold Indian Reservation,Flood,Flooding,,,
+DR-1983,Disaster,2011-05-11,2011.0,5.0,2.0,11.0,Wednesday,MS,Mississippi,South,Adams County,Flood,Flooding,2011-05-03,,
+FM-2915,Fire,2011-06-02,2011.0,6.0,2.0,2.0,Thursday,AZ,Arizona,West,Apache County,Fire,Wallow Fire,2011-06-01,,2014-06-03
+FM-2914,Fire,2011-06-02,2011.0,6.0,2.0,2.0,Thursday,TX,Texas,South,Jeff Davis County,Fire,Tejano Canyon Fire ,2011-06-02,2011-06-12,2015-01-08
+FM-2916,Fire,2011-06-03,2011.0,6.0,2.0,3.0,Friday,TX,Texas,South,Shackelford County,Fire,Snyder Fire ,2011-06-03,2011-06-11,
+DR-1989,Disaster,2011-06-06,2011.0,6.0,2.0,6.0,Monday,OK,Oklahoma,South,Blaine County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",,,
+DR-1990,Disaster,2011-06-07,2011.0,6.0,2.0,7.0,Tuesday,MN,Minnesota,Midwest,Anoka County,Storm,Severe Storms and Tornadoes,,,
+DR-1991,Disaster,2011-06-07,2011.0,6.0,2.0,7.0,Tuesday,IL,Illinois,Midwest,Alexander County,Storm,Severe Storms and Flooding,,,
+DR-1993,Disaster,2011-06-10,2011.0,6.0,2.0,10.0,Friday,NY,New York,Northeast,Allegany County,Flood,"Severe Storms, Flooding, Tornadoes, and Straight-Line Winds",,2011-05-08,
+DR-1992,Disaster,2011-06-10,2011.0,6.0,2.0,10.0,Friday,AK,Alaska,West,Crooked Creek ANV/ANVSA,Flood,Ice Jam and Flooding,2011-05-08,,
+FM-2917,Fire,2011-06-10,2011.0,6.0,2.0,10.0,Friday,NM,New Mexico,West,Catron County,Fire,Wallow Fire,2011-06-10,2011-07-12,2015-09-01
+FM-2919,Fire,2011-06-12,2011.0,6.0,2.0,12.0,Sunday,AZ,Arizona,West,Cochise County,Fire,Monument Fire,2011-06-12,,2014-06-03
+FM-2918,Fire,2011-06-12,2011.0,6.0,2.0,12.0,Sunday,NM,New Mexico,West,Colfax County,Fire,Track Fire ,2011-06-12,,2016-07-06
+DR-1999,Disaster,2011-07-01,2011.0,7.0,3.0,1.0,Friday,TX,Texas,South,Anderson County,Fire,Wildfires,2011-04-06,,
+FM-2936,Fire,2011-07-04,2011.0,7.0,3.0,4.0,Monday,NC,North Carolina,South,Bladen County,Fire,Simmons Road Fire,2011-07-04,,
+DR-4001,Disaster,2011-07-08,2011.0,7.0,3.0,8.0,Friday,VT,Vermont,Northeast,Caledonia County,Storm,Severe Storms and Flooding,,,
+DR-4000,Disaster,2011-07-08,2011.0,7.0,3.0,8.0,Friday,AR,Arkansas,South,Crawford County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+FM-2937,Fire,2011-07-11,2011.0,7.0,3.0,11.0,Monday,TX,Texas,South,Nolan County,Fire,Nolan County Fire Complex,2011-07-11,,2015-01-08
+FM-2941,Fire,2011-08-01,2011.0,8.0,3.0,1.0,Monday,OK,Oklahoma,South,Canadian County,Fire,Mustang Road Fire,2011-08-01,2011-08-03,
+FM-2944,Fire,2011-08-02,2011.0,8.0,3.0,2.0,Tuesday,OK,Oklahoma,South,Tulsa County,Fire,Turley Fire ,2011-08-02,2011-08-08,
+FM-2942,Fire,2011-08-02,2011.0,8.0,3.0,2.0,Tuesday,OK,Oklahoma,South,Cleveland County,Fire,anderson Road Fire ,2011-08-02,2011-08-08,
+FM-2943,Fire,2011-08-02,2011.0,8.0,3.0,2.0,Tuesday,OK,Oklahoma,South,Creek County,Fire,Regency Fire,2011-08-02,2011-08-08,
+FM-2945,Fire,2011-08-04,2011.0,8.0,3.0,4.0,Thursday,OK,Oklahoma,South,Oklahoma County,Fire,Coffee Creek Fire ,2011-08-04,2011-08-10,
+FM-2946,Fire,2011-08-05,2011.0,8.0,3.0,5.0,Friday,OK,Oklahoma,South,Tulsa County,Fire,265Th West Fire ,2011-08-05,2011-08-10,
+FM-2947,Fire,2011-08-07,2011.0,8.0,3.0,7.0,Sunday,OK,Oklahoma,South,Creek County,Fire,Cleveland-Mannford Fire Complex,2011-08-07,,
+FM-2948,Fire,2011-08-08,2011.0,8.0,3.0,8.0,Monday,OK,Oklahoma,South,Cleveland County,Fire,Cedar Lane Fire,2011-08-08,,
+DR-4011,Disaster,2011-08-08,2011.0,8.0,3.0,8.0,Monday,UT,Utah,West,Uintah and Ouray Indian Reservation,Flood,Flooding,,,
+DR-4012,Disaster,2011-08-12,2011.0,8.0,3.0,12.0,Friday,MO,Missouri,Midwest,Andrew County,Flood,Flooding,2011-06-01,2011-08-01,2017-01-11
+DR-4013,Disaster,2011-08-12,2011.0,8.0,3.0,12.0,Friday,NE,Nebraska,Midwest,Omaha Indian Reservation,Flood,Flooding,,2011-08-01,
+DR-4014,Disaster,2011-08-12,2011.0,8.0,3.0,12.0,Friday,NE,Nebraska,Midwest,Buffalo County,Storm,"Severe Storms, Tornadoes, Straight Line Winds, and Flooding",,,
+DR-4022,Disaster,2011-09-01,2011.0,9.0,3.0,1.0,Thursday,VT,Vermont,Northeast,Addison County,Hurricane,Tropical Storm Irene,,2011-09-02,
+FM-2955,Fire,2011-09-02,2011.0,9.0,3.0,2.0,Friday,CA,California,West,San Bernardino County,Fire,Hill Fire,2011-09-02,2011-09-05,
+DR-4023,Disaster,2011-09-02,2011.0,9.0,3.0,2.0,Friday,CT,Connecticut,Northeast,"Fairfield County(in PMSA 1160,1930,5760,8040",Hurricane,Tropical Storm Irene,,2011-09-01,
+DR-4028,Disaster,2011-09-03,2011.0,9.0,3.0,3.0,Saturday,MA,Massachusetts,Northeast,Barnstable County,Hurricane,Tropical Storm Irene,,,
+DR-4027,Disaster,2011-09-03,2011.0,9.0,3.0,3.0,Saturday,RI,Rhode Island,Northeast,Statewide,Hurricane,Tropical Storm Irene,,,
+DR-4025,Disaster,2011-09-03,2011.0,9.0,3.0,3.0,Saturday,PA,Pennsylvania,Northeast,Bucks County,Hurricane,Hurricane Irene,,,
+DR-4024,Disaster,2011-09-03,2011.0,9.0,3.0,3.0,Saturday,VA,Virginia,South,Alexandria,Hurricane,Hurricane Irene,,,
+FM-2956,Fire,2011-09-03,2011.0,9.0,3.0,3.0,Saturday,OK,Oklahoma,South,Comanche County,Fire,Ferguson Fire,2011-09-03,2011-09-09,
+DR-4026,Disaster,2011-09-03,2011.0,9.0,3.0,3.0,Saturday,NH,New Hampshire,Northeast,Belknap County,Hurricane,Tropical Storm Irene,,2011-09-06,
+FM-2958,Fire,2011-09-04,2011.0,9.0,3.0,4.0,Sunday,TX,Texas,South,Bastrop County,Fire,Bastrop County Fire Complex ,2011-09-04,2011-10-11,
+FM-2957,Fire,2011-09-04,2011.0,9.0,3.0,4.0,Sunday,TX,Texas,South,Travis County,Fire,Hodde Fire,2011-09-04,,2015-01-08
+FM-2961,Fire,2011-09-05,2011.0,9.0,3.0,5.0,Monday,CA,California,West,Kern County,Fire,Canyon Fire,2011-09-04,2011-09-11,
+FM-2960,Fire,2011-09-05,2011.0,9.0,3.0,5.0,Monday,TX,Texas,South,Travis County,Fire,Steiner Ranch Fire,2011-09-04,2011-09-09,
+FM-2959,Fire,2011-09-05,2011.0,9.0,3.0,5.0,Monday,TX,Texas,South,Travis County,Fire,Pedernales Bend Fire,2011-09-04,2011-09-12,
+FM-2965,Fire,2011-09-06,2011.0,9.0,3.0,6.0,Tuesday,TX,Texas,South,Cass County,Fire,Bear Creek Fire,2011-09-04,,
+FM-2964,Fire,2011-09-06,2011.0,9.0,3.0,6.0,Tuesday,TX,Texas,South,Grimes County,Fire,Riley Road Fire,2011-09-05,2011-10-02,
+FM-2963,Fire,2011-09-06,2011.0,9.0,3.0,6.0,Tuesday,TX,Texas,South,Williamson County,Fire,Moonglow Fire,2011-09-05,,
+FM-2962,Fire,2011-09-06,2011.0,9.0,3.0,6.0,Tuesday,TX,Texas,South,Montgomery County,Fire,Tamina Fire,2011-09-05,2011-09-08,
+EM-3340,Emergency,2011-09-08,2011.0,9.0,3.0,8.0,Thursday,PA,Pennsylvania,Northeast,Adams County,Flood,Remnants of Tropical Storm Lee,2011-09-03,,
+EM-3341,Emergency,2011-09-08,2011.0,9.0,3.0,8.0,Thursday,NY,New York,Northeast,Albany County,Storm,Remnants of Tropical Storm Lee,2011-09-07,2011-09-11,2015-02-03
+FM-2967,Fire,2011-09-08,2011.0,9.0,3.0,8.0,Thursday,TX,Texas,South,Bexar County,Fire,Big Oak Fire ,2011-09-08,,
+FM-2966,Fire,2011-09-08,2011.0,9.0,3.0,8.0,Thursday,WA,Washington,West,Klickitat County,Fire,Monastery Fire Complex,2011-09-08,,
+DR-4029,Disaster,2011-09-09,2011.0,9.0,3.0,9.0,Friday,TX,Texas,South,Anderson County,Fire,Wildfires,,,
+FM-2968,Fire,2011-09-09,2011.0,9.0,3.0,9.0,Friday,TX,Texas,South,Bexar County,Fire,Pat Gross Fire ,2011-09-09,,
+FM-2969,Fire,2011-09-10,2011.0,9.0,3.0,10.0,Saturday,NV,Nevada,West,Douglas County,Fire,Holbrook Fire,2011-09-10,2011-09-11,2013-01-09
+FM-2971,Fire,2011-09-11,2011.0,9.0,3.0,11.0,Sunday,CA,California,West,Kern County,Fire,Comanche Fire Complex,2011-09-10,,
+FM-2970,Fire,2011-09-11,2011.0,9.0,3.0,11.0,Sunday,CA,California,West,Kern County,Fire,Keene Fire Complex,2011-09-10,,
+DR-4030,Disaster,2011-09-12,2011.0,9.0,3.0,12.0,Monday,PA,Pennsylvania,Northeast,Adams County,Flood,Tropical Storm Lee,2011-09-03,,
+FM-2972,Fire,2011-10-03,2011.0,10.0,4.0,3.0,Monday,NV,Nevada,West,Elko County,Fire,Indian Creek Fire,2011-10-03,2011-10-06,2013-07-02
+DR-4038,Disaster,2011-10-05,2011.0,10.0,4.0,5.0,Wednesday,MD,Maryland,South,Anne Arundel County,Flood,Remnants of Tropical Storm Lee,2011-09-06,2011-09-09,
+EM-3344,Emergency,2011-11-01,2011.0,11.0,4.0,1.0,Tuesday,NH,New Hampshire,Northeast,Belknap County,Storm,Severe Storm,,,2012-12-11
+EM-3343,Emergency,2011-11-01,2011.0,11.0,4.0,1.0,Tuesday,MA,Massachusetts,Northeast,Berkshire County,Storm,Severe Storm,,,2012-11-06
+DR-4042,Disaster,2011-11-04,2011.0,11.0,4.0,4.0,Friday,VA,Virginia,South,Fredericksburg,Earthquake,Earthquake,,,
+DR-4044,Disaster,2011-11-08,2011.0,11.0,4.0,8.0,Tuesday,DC,District of Columbia,South,District of Columbia County-equivalent,Earthquake,Earthquake,,,
+DR-4043,Disaster,2011-11-08,2011.0,11.0,4.0,8.0,Tuesday,VT,Vermont,Northeast,Franklin County,Storm,Severe Storms and Flooding,,,
+DR-4049,Disaster,2011-12-05,2011.0,12.0,4.0,5.0,Monday,NH,New Hampshire,Northeast,"Hillsborough County(in PMSA 4560,4760,5350",Storm,Severe Storm and Snowstorm,,,
+DR-4051,Disaster,2012-01-06,2012.0,1.0,1.0,6.0,Friday,MA,Massachusetts,Northeast,Berkshire County,Storm,Severe Storm and Snowstorm,,,
+DR-4053,Disaster,2012-02-01,2012.0,2.0,1.0,1.0,Wednesday,UT,Utah,West,Davis County,Storm,Severe Storm,,2011-12-01,
+DR-4052,Disaster,2012-02-01,2012.0,2.0,1.0,1.0,Wednesday,AL,Alabama,South,Chilton County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",,,
+DR-4054,Disaster,2012-02-02,2012.0,2.0,1.0,2.0,Thursday,AK,Alaska,West,Kenai Peninsula Borough,Storm,Severe Storm,,,
+DR-4055,Disaster,2012-03-02,2012.0,3.0,1.0,2.0,Friday,OR,Oregon,West,Benton County,Flood,"Severe Winter Storm, Flooding, Landslides, and Mudslides",,,
+DR-4056,Disaster,2012-03-05,2012.0,3.0,1.0,5.0,Monday,WA,Washington,West,Clallam County,Storm,"Severe Winter Storm, Flooding, Landslides, and Mudslides",,,
+DR-4057,Disaster,2012-03-06,2012.0,3.0,1.0,6.0,Tuesday,KY,Kentucky,South,Adair County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds and Flooding",,2012-03-03,
+DR-4058,Disaster,2012-03-09,2012.0,3.0,1.0,9.0,Friday,IN,Indiana,Midwest,Clark County,Storm,"Severe Storms, Straight-Line Winds, and Tornadoes",,2012-03-03,
+FM-2980,Fire,2012-06-09,2012.0,6.0,2.0,9.0,Saturday,CO,Colorado,West,Larimer County,Fire,High Park Fire,2012-06-09,2012-07-01,
+FM-2979,Fire,2012-06-09,2012.0,6.0,2.0,9.0,Saturday,NM,New Mexico,West,Lincoln County,Fire,Little Bear Fire,2012-06-04,,
+FM-2994,Fire,2012-07-02,2012.0,7.0,3.0,2.0,Monday,UT,Utah,West,Kane County,Fire,Shingle Fire,2012-07-02,2012-07-09,
+FM-2993,Fire,2012-07-02,2012.0,7.0,3.0,2.0,Monday,WY,Wyoming,West,Albany County,Fire,Squirrel Creek Fire ,2012-07-01,2012-07-07,
+DR-4068,Disaster,2012-07-03,2012.0,7.0,3.0,3.0,Tuesday,FL,Florida,South,Baker County,Storm,Tropical Storm Debby,,,
+FM-2995,Fire,2012-07-03,2012.0,7.0,3.0,3.0,Tuesday,WY,Wyoming,West,Weston County,Fire,Oil Creek Fire ,2012-07-01,2012-07-07,
+DR-4069,Disaster,2012-07-06,2012.0,7.0,3.0,6.0,Friday,MN,Minnesota,Midwest,Fond du Lac Indian Reservation,Storm,Severe Storms and Flooding,,,
+DR-4076,Disaster,2012-08-02,2012.0,8.0,3.0,2.0,Thursday,WI,Wisconsin,Midwest,Red Cliff Indian Reservation,Storm,Severe Storms and Flooding,,,
+DR-4075,Disaster,2012-08-02,2012.0,8.0,3.0,2.0,Thursday,MD,Maryland,South,Baltimore,Storm,Severe Storms and Straight-Line Winds,,2012-07-08,
+DR-4074,Disaster,2012-08-02,2012.0,8.0,3.0,2.0,Thursday,MT,Montana,West,Crow/Northern Cheyenne Area,Fire,Wildfire,,2012-07-10,
+FM-2999,Fire,2012-08-03,2012.0,8.0,3.0,3.0,Friday,OK,Oklahoma,South,Cleveland County,Fire,Noble Fire,2012-08-03,2012-08-12,
+FM-2998,Fire,2012-08-03,2012.0,8.0,3.0,3.0,Friday,OK,Oklahoma,South,Blaine County,Fire,Geary Fire ,2012-08-03,2012-08-07,
+DR-4089,Disaster,2012-11-03,2012.0,11.0,4.0,3.0,Saturday,RI,Rhode Island,Northeast,Bristol County,Hurricane,Hurricane Sandy,,,
+DR-4088,Disaster,2012-11-03,2012.0,11.0,4.0,3.0,Saturday,UT,Utah,West,Washington County,Flood,Severe Storm and Flooding,2012-09-11,2012-09-11,
+DR-4096,Disaster,2012-12-05,2012.0,12.0,4.0,5.0,Wednesday,DC,District of Columbia,South,District of Columbia County-equivalent,Hurricane,Hurricane Sandy,,,
+DR-4098,Disaster,2013-01-03,2013.0,1.0,1.0,3.0,Thursday,OH,Ohio,Midwest,Ashtabula County,Hurricane,Severe Storms and Flooding Due to the Remnants of Hurricane Sandy,,,
+DR-4099,Disaster,2013-01-10,2013.0,1.0,1.0,10.0,Thursday,PA,Pennsylvania,Northeast,Bedford County,Hurricane,Hurricane Sandy,,2012-11-08,
+EM-3361,Emergency,2013-02-10,2013.0,2.0,1.0,10.0,Sunday,CT,Connecticut,Northeast,Mashantucket Pequot Indian Reservation,Storm,Severe Winter Storm,2013-02-08,2013-02-11,
+DR-4103,Disaster,2013-03-01,2013.0,3.0,1.0,1.0,Friday,NC,North Carolina,South,Eastern Band of Cherokee Indians of North Carolina,Mud/Landslide,"Severe Storms, Flooding, Landslides, and Mudslides",,,
+DR-4104,Disaster,2013-03-05,2013.0,3.0,1.0,5.0,Tuesday,AZ,Arizona,West,Navajo Nation Reservation Also NM and UT,Winter,Severe Freeze,,,
+DR-4109,Disaster,2013-04-08,2013.0,4.0,2.0,8.0,Monday,OK,Oklahoma,South,Alfalfa County,Storm,Severe Winter Storm and Snowstorm,,,
+DR-4113,Disaster,2013-05-03,2013.0,5.0,2.0,3.0,Friday,MN,Minnesota,Midwest,Cottonwood County,Storm,Severe Winter Storm,2013-04-09,2013-04-11,
+DR-4114,Disaster,2013-05-06,2013.0,5.0,2.0,6.0,Monday,IA,Iowa,Midwest,Dickinson County,Storm,Severe Winter Storm,2013-04-09,2013-04-11,
+DR-4116,Disaster,2013-05-10,2013.0,5.0,2.0,10.0,Friday,IL,Illinois,Midwest,Adams County,Flood,"Severe Storms, Straight-Line Winds, and Flooding",,2013-05-05,
+DR-4115,Disaster,2013-05-10,2013.0,5.0,2.0,10.0,Friday,SD,South Dakota,Midwest,Oglala Sioux Tribe of the Pine Ridge Reservation,Storm,Severe Winter Storm and Snowstorm,2013-04-08,2013-04-10,
+DR-4126,Disaster,2013-07-02,2013.0,7.0,3.0,2.0,Tuesday,IA,Iowa,Midwest,Appanoose County,Storm,"Severe Storms, Tornadoes, and Flooding",,,
+DR-4127,Disaster,2013-07-10,2013.0,7.0,3.0,10.0,Wednesday,MT,Montana,West,Fort Belknap Indian Reservation,Flood,Flooding ,,2013-06-03,
+DR-4129,Disaster,2013-07-12,2013.0,7.0,3.0,12.0,Friday,NY,New York,Northeast,Allegany County,Flood,Severe Storms and Flooding,,2013-07-10,
+DR-4128,Disaster,2013-07-12,2013.0,7.0,3.0,12.0,Friday,ND,North Dakota,Midwest,Spirit Lake Reservation,Storm,Severe Storms and Flooding,,,
+DR-4139,Disaster,2013-08-02,2013.0,8.0,3.0,2.0,Friday,NH,New Hampshire,Northeast,Cheshire County,Storm,"Severe Storms, Tornadoes, and Flooding",,2013-07-03,
+DR-4138,Disaster,2013-08-02,2013.0,8.0,3.0,2.0,Friday,FL,Florida,South,Bay County,Storm,Severe Storms and Flooding,2013-07-02,2013-07-07,
+DR-4140,Disaster,2013-08-02,2013.0,8.0,3.0,2.0,Friday,VT,Vermont,Northeast,Caledonia County,Flood,Severe Storms and Flooding,,2013-07-11,
+DR-4137,Disaster,2013-08-02,2013.0,8.0,3.0,2.0,Friday,SD,South Dakota,Midwest,Beadle County,Storm,"Severe Storms, Tornadoes, and Flooding ",,,
+DR-4136,Disaster,2013-08-02,2013.0,8.0,3.0,2.0,Friday,TX,Texas,South,McLennan County,Other,Explosion,,,
+DR-4141,Disaster,2013-08-08,2013.0,8.0,3.0,8.0,Thursday,WI,Wisconsin,Midwest,Ashland County,Storm,"Severe Storms, Flooding, and Mudslides",,,
+DR-4143,Disaster,2013-09-04,2013.0,9.0,3.0,4.0,Wednesday,AR,Arkansas,South,Benton County,Storm,Severe Storms and Flooding,2013-08-08,,
+DR-4144,Disaster,2013-09-06,2013.0,9.0,3.0,6.0,Friday,MO,Missouri,Midwest,Barry County,Storm,"Severe Storms, Straight-Line Winds and Flooding",2013-08-02,,
+EM-3365,Emergency,2013-09-12,2013.0,9.0,3.0,12.0,Thursday,CO,Colorado,West,Adams County,Flood,"Severe Storms, Flooding, Landslides, and Mudslides",2013-09-11,,2017-01-06
+DR-4149,Disaster,2013-10-01,2013.0,10.0,4.0,1.0,Tuesday,PA,Pennsylvania,Northeast,Allegheny County,Storm,"Severe Storms, Tornadoes, and Flooding",,2013-07-11,
+DR-4155,Disaster,2013-11-08,2013.0,11.0,4.0,8.0,Friday,SD,South Dakota,Midwest,Cheyenne River Indian Reservation,Storm,"Severe Winter Storm, Snowstorm, and Flooding",2013-10-03,,
+DR-4160,Disaster,2014-01-06,2014.0,1.0,1.0,6.0,Monday,AR,Arkansas,South,Crawford County,Ice,Severe Winter Storm,2013-12-05,2013-12-06,
+EM-3366,Emergency,2014-01-10,2014.0,1.0,1.0,10.0,Friday,WV,West Virginia,South,Boone County,Chemical,Chemical Spill,2014-01-09,,
+EM-3367,Emergency,2014-02-06,2014.0,2.0,1.0,6.0,Thursday,PA,Pennsylvania,Northeast,Bucks County,Ice,Severe Winter Storm,2014-02-04,,
+EM-3368,Emergency,2014-02-11,2014.0,2.0,1.0,11.0,Tuesday,GA,Georgia,South,Baldwin County,Ice,Severe Winter Storm,2014-02-10,,2015-09-02
+EM-3369,Emergency,2014-02-12,2014.0,2.0,1.0,12.0,Wednesday,SC,South Carolina,South,Abbeville County,Ice,Severe Winter Storm,2014-02-10,,2015-05-07
+DR-4165,Disaster,2014-03-06,2014.0,3.0,1.0,6.0,Thursday,GA,Georgia,South,Baldwin County,Ice,Severe Winter Storm,2014-02-10,,
+DR-4166,Disaster,2014-03-12,2014.0,3.0,1.0,12.0,Wednesday,SC,South Carolina,South,Aiken County,Ice,Severe Winter Storm,2014-02-10,,
+DR-4168,Disaster,2014-04-02,2014.0,4.0,2.0,2.0,Wednesday,WA,Washington,West,Sauk-Suiattle Indian Reservation,Mud/Landslide,Flooding and Mudslides,,,
+DR-4169,Disaster,2014-04-04,2014.0,4.0,2.0,4.0,Friday,OR,Oregon,West,Benton County,Storm,Severe Winter Storm,2014-02-06,2014-02-10,
+DR-4170,Disaster,2014-04-10,2014.0,4.0,2.0,10.0,Thursday,MD,Maryland,South,Baltimore,Storm,Snowstorm,2014-02-12,,
+DR-4171,Disaster,2014-04-11,2014.0,4.0,2.0,11.0,Friday,TN,Tennessee,South,Carroll County,Ice,Severe Winter Storm,2014-03-02,2014-03-04,
+DR-4176,Disaster,2014-05-02,2014.0,5.0,2.0,2.0,Friday,AL,Alabama,South,Baldwin County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",,2014-05-05,
+DR-4177,Disaster,2014-05-06,2014.0,5.0,2.0,6.0,Tuesday,FL,Florida,South,Bay County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",,2014-05-06,
+DR-4178,Disaster,2014-06-11,2014.0,6.0,2.0,11.0,Wednesday,VT,Vermont,Northeast,Caledonia County,Flood,Severe Storms and Flooding,,,
+DR-4180,Disaster,2014-07-08,2014.0,7.0,3.0,8.0,Tuesday,NY,New York,Northeast,Allegany County,Storm,Severe Storms and Flooding,,,
+DR-4187,Disaster,2014-08-05,2014.0,8.0,3.0,5.0,Tuesday,IA,Iowa,Midwest,Audubon County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",,2014-07-07,
+DR-4188,Disaster,2014-08-11,2014.0,8.0,3.0,11.0,Monday,WA,Washington,West,Colville Indian Reservation,Fire,Wildfires,2014-07-09,2014-08-05,
+DR-4191,Disaster,2014-09-10,2014.0,9.0,3.0,10.0,Wednesday,GU,Guam,Territory,Guam County-equivalent,Storm,Tropical Storm Halong,,,
+DR-4192,Disaster,2014-09-10,2014.0,9.0,3.0,10.0,Wednesday,AS,American Samoa,Territory,Eastern District,Storm,"Severe Storms, Flooding, and Landslides",,2014-08-03,
+DR-4193,Disaster,2014-09-11,2014.0,9.0,3.0,11.0,Thursday,CA,California,West,Napa County,Earthquake,Earthquake,,2014-09-07,
+DR-4194,Disaster,2014-09-12,2014.0,9.0,3.0,12.0,Friday,HI,Hawaii,West,Hawaii County,Storm,Tropical Storm Iselle,2014-08-07,2014-08-09,
+DR-4197,Disaster,2014-10-06,2014.0,10.0,4.0,6.0,Monday,NM,New Mexico,West,Pueblo of Acoma,Storm,Severe Storms and Flooding,,2014-08-05,
+DR-4198,Disaster,2014-10-09,2014.0,10.0,4.0,9.0,Thursday,MT,Montana,West,Fort Belknap Indian Reservation,Storm,"Severe Storms, Straight-Line Winds, and Flooding",,,
+DR-4201,Disaster,2014-11-03,2014.0,11.0,4.0,3.0,Monday,HI,Hawaii,West,Hawaii County,Volcano,Pu'U O'O Volcanic Eruption and Lava Flow,2014-09-04,,
+DR-4203,Disaster,2014-11-05,2014.0,11.0,4.0,5.0,Wednesday,AZ,Arizona,West,La Paz County,Flood,Severe Storms and Flooding,2014-09-07,2014-09-09,
+DR-4202,Disaster,2014-11-05,2014.0,11.0,4.0,5.0,Wednesday,NV,Nevada,West,Moapa River Indian Reservation,Flood,Severe Storms and Flooding,2014-09-07,2014-09-09,
+DR-4205,Disaster,2015-01-07,2015.0,1.0,1.0,7.0,Wednesday,MS,Mississippi,South,Marion County,Tornado,Severe Storms and Tornadoes,,,
+DR-4207,Disaster,2015-02-03,2015.0,2.0,1.0,3.0,Tuesday,VT,Vermont,Northeast,Addison County,Storm,Severe Winter Storm,2014-12-09,2014-12-12,
+DR-4208,Disaster,2015-03-12,2015.0,3.0,1.0,12.0,Thursday,ME,Maine,Northeast,Androscoggin County,Snow,"Severe Winter Storm, Snowstorm, and Flooding",,,
+DR-4211,Disaster,2015-04-02,2015.0,4.0,2.0,2.0,Thursday,TN,Tennessee,South,Anderson County,Ice,Severe Winter Storm and Flooding,,,
+DR-4212,Disaster,2015-04-03,2015.0,4.0,2.0,3.0,Friday,RI,Rhode Island,Northeast,Bristol County,Storm,Severe Winter Storm and Snowstorm,,,
+DR-4213,Disaster,2015-04-08,2015.0,4.0,2.0,8.0,Wednesday,CT,Connecticut,Northeast,"New Haven County(in PMSA 1160,5480,8880",Storm,Severe Winter Storm and Snowstorm,,,
+DR-4217,Disaster,2015-05-01,2015.0,5.0,2.0,1.0,Friday,KY,Kentucky,South,Bath County,Flood,"Severe Storms, Tornadoes, Flooding, Landslides, and Mudslides",2015-04-02,,
+DR-4218,Disaster,2015-05-12,2015.0,5.0,2.0,12.0,Tuesday,KY,Kentucky,South,Anderson County,Flood,"Severe Winter Storm, Snowstorm, Flooding, Landslides, and Mudslides",2015-03-03,2015-03-09,
+DR-4224,Disaster,2015-06-05,2015.0,6.0,2.0,5.0,Friday,GU,Guam,Territory,Guam County-equivalent,Typhoon,Typhoon Dolphin,,,
+DR-4227,Disaster,2015-07-07,2015.0,7.0,3.0,7.0,Tuesday,WY,Wyoming,West,Albany County,Flood,Severe Storms and Flooding,,2015-06-06,
+DR-4235,Disaster,2015-08-05,2015.0,8.0,3.0,5.0,Wednesday,MP,Northern Mariana Islands,Territory,Rota Municipality,Typhoon,Typhoon Soudelor,2015-08-01,2015-08-03,
+DR-4238,Disaster,2015-08-07,2015.0,8.0,3.0,7.0,Friday,MO,Missouri,Midwest,Adair County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",,,
+DR-4237,Disaster,2015-08-07,2015.0,8.0,3.0,7.0,Friday,SD,South Dakota,Midwest,Oglala Sioux Tribe of the Pine Ridge Reservation,Storm,"Severe Storms, Straight-Line Winds, and Flooding",2015-05-08,,
+DR-4236,Disaster,2015-08-07,2015.0,8.0,3.0,7.0,Friday,WV,West Virginia,South,Braxton County,Storm,"Severe Storms, Straight-Line Winds, Flooding, Landslides, and Mudslides",2015-07-10,,
+DR-4239,Disaster,2015-08-12,2015.0,8.0,3.0,12.0,Wednesday,KY,Kentucky,South,Bracken County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, Flooding, Landslides, and Mudslide",2015-07-11,,
+EM-3373,Emergency,2015-10-03,2015.0,10.0,4.0,3.0,Saturday,SC,South Carolina,South,Catawba Indian Reservation,Storm,Severe Storms and Flooding,2015-10-01,,
+DR-4241,Disaster,2015-10-05,2015.0,10.0,4.0,5.0,Monday,SC,South Carolina,South,Abbeville County,Flood,Severe Storms and Flooding,2015-10-01,,
+EM-3374,Emergency,2016-01-02,2016.0,1.0,1.0,2.0,Saturday,MO,Missouri,Midwest,St. Louis,Flood,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",,2016-01-09,
+DR-4248,Disaster,2016-01-04,2016.0,1.0,1.0,4.0,Monday,MS,Mississippi,South,Benton County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",,,
+DR-4252,Disaster,2016-02-01,2016.0,2.0,1.0,1.0,Monday,ID,Idaho,West,Benewah County,Storm,Severe Winter Storms,,,
+DR-4253,Disaster,2016-02-02,2016.0,2.0,1.0,2.0,Tuesday,WA,Washington,West,Clallam County,Flood,"Severe Winter Storm, Straight-Line Winds, Flooding, Landslides, Mudslides, and A T",2015-12-01,,
+DR-4254,Disaster,2016-02-05,2016.0,2.0,1.0,5.0,Friday,AR,Arkansas,South,Benton County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",,,
+EM-3376,Emergency,2016-02-05,2016.0,2.0,1.0,5.0,Friday,LA,Louisiana,South,Concordia Parish,Flood,Flooding,,2016-02-01,
+DR-4255,Disaster,2016-02-09,2016.0,2.0,1.0,9.0,Tuesday,TX,Texas,South,Bailey County,Storm,"Severe Winter Storms, Tornadoes, Straight-Line Winds, and Flooding",,,
+DR-4256,Disaster,2016-02-10,2016.0,2.0,1.0,10.0,Wednesday,OK,Oklahoma,South,Adair County,Storm,Severe Winter Storms and Flooding,,2016-01-05,
+DR-4261,Disaster,2016-03-04,2016.0,3.0,1.0,4.0,Friday,MD,Maryland,South,Baltimore,Snow,Severe Winter Storm and Snowstorm,,,
+DR-4260,Disaster,2016-03-04,2016.0,3.0,1.0,4.0,Friday,DC,District of Columbia,South,District of Columbia County-equivalent,Snow,Snowstorm,,,
+DR-4262,Disaster,2016-03-07,2016.0,3.0,1.0,7.0,Monday,VA,Virginia,South,Alexandria,Snow,Severe Winter Storm and Snowstorm,,,
+DR-4270,Disaster,2016-05-06,2016.0,5.0,2.0,6.0,Friday,AR,Arkansas,South,Arkansas County,Storm,"Severe Storms, Tornadoes, Straight-Line Winds, and Flooding",2016-03-08,,
+DR-4272,Disaster,2016-06-11,2016.0,6.0,2.0,11.0,Saturday,TX,Texas,South,Austin County,Flood,Severe Storms and Flooding,,,
+DR-4275,Disaster,2016-08-03,2016.0,8.0,3.0,3.0,Wednesday,MT,Montana,West,Fallon County,Tornado,Tornado,2016-06-11,2016-06-11,
+DR-4276,Disaster,2016-08-09,2016.0,8.0,3.0,9.0,Tuesday,WI,Wisconsin,Midwest,Bad River Indian Reservation,Storm,Severe Storms and Flooding,2016-07-11,2016-07-12,
+EM-3379,Emergency,2016-10-06,2016.0,10.0,4.0,6.0,Thursday,GA,Georgia,South,Appling County,Hurricane,Hurricane Matthew,2016-10-04,,
+EM-3378,Emergency,2016-10-06,2016.0,10.0,4.0,6.0,Thursday,SC,South Carolina,South,Catawba Indian Reservation,Hurricane,Hurricane Matthew,2016-10-04,,
+DR-4282,Disaster,2016-10-06,2016.0,10.0,4.0,6.0,Thursday,HI,Hawaii,West,Maui County,Mud/Landslide,"Severe Storms, Flooding, Landslides, and Mudslides",2016-09-11,,
+EM-3377,Emergency,2016-10-06,2016.0,10.0,4.0,6.0,Thursday,FL,Florida,South,Baker County,Hurricane,Hurricane Matthew,2016-10-03,,
+EM-3380,Emergency,2016-10-07,2016.0,10.0,4.0,7.0,Friday,NC,North Carolina,South,Alamance County,Hurricane,Hurricane Matthew,2016-10-04,,
+DR-4284,Disaster,2016-10-08,2016.0,10.0,4.0,8.0,Saturday,GA,Georgia,South,Brantley County,Hurricane,Hurricane Matthew,2016-10-04,,
+DR-4283,Disaster,2016-10-08,2016.0,10.0,4.0,8.0,Saturday,FL,Florida,South,Bradford County,Hurricane,Hurricane Matthew,2016-10-03,,
+DR-4285,Disaster,2016-10-10,2016.0,10.0,4.0,10.0,Monday,NC,North Carolina,South,Anson County,Hurricane,Hurricane Matthew,2016-10-04,,
+DR-4286,Disaster,2016-10-11,2016.0,10.0,4.0,11.0,Tuesday,SC,South Carolina,South,Allendale County,Hurricane,Hurricane Matthew,2016-10-04,,
+DR-4291,Disaster,2016-11-02,2016.0,11.0,4.0,2.0,Wednesday,VA,Virginia,South,Chesapeake,Hurricane,Hurricane Matthew,2016-10-07,,
+DR-4290,Disaster,2016-11-02,2016.0,11.0,4.0,2.0,Wednesday,MN,Minnesota,Midwest,Blue Earth County,Flood,Severe Storms and Flooding,,,
+DR-4292,Disaster,2016-12-02,2016.0,12.0,4.0,2.0,Friday,PA,Pennsylvania,Northeast,Bradford County,Flood,Severe Storms and Flooding,,,
+DR-4298,Disaster,2017-02-01,2017.0,2.0,1.0,1.0,Wednesday,SD,South Dakota,Midwest,Cheyenne River Indian Reservation,Storm,Severe Winter Storm,,,
+DR-4299,Disaster,2017-02-10,2017.0,2.0,1.0,10.0,Friday,OK,Oklahoma,South,Beaver County,Storm,Severe Winter Storm,,,
+DR-4300,Disaster,2017-02-11,2017.0,2.0,1.0,11.0,Saturday,LA,Louisiana,South,Livingston Parish,Tornado,"Severe Storms, Tornadoes, and Straight-Line Winds",2017-02-07,2017-02-07,
