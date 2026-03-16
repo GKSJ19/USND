@@ -1,0 +1,59 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Data files (optional - if large datasets)
+data/
+*.csv
+*.xlsx
+*.json
+
+# # Plotly / HTML exports
+# *.html
+
+# Temporary files
+*.tmp
+*.temp
+
+# Matplotlib cache
+.matplotlib/
+
+# Jupyter runtime
+.jupyter/
+
+# Pip cache
+pip-log.txt
+pip-delete-this-directory.txt
