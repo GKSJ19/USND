@@ -1,0 +1,5 @@
+{
+  "name": "U.S. Natural Disaster Dashboard",
+  "description": "A modern, storytelling-driven dashboard visualizing FEMA natural disaster declarations across the United States.",
+  "requestFramePermissions": []
+}
