@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Disaster Analytics Dashboard</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #0b1220;
+    color: white;
+}
+
+.container {
+    display: flex;
+}
+
+.sidebar {
+    width: 220px;
+    background: linear-gradient(#0b5ed7, #0a3d91);
+    padding: 20px;
+    height: 100vh;
+}
+
+.sidebar h2 {
+    margin-bottom: 20px;
+}
+
+.sidebar a {
+    display: block;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.sidebar a:hover {
+    background: rgba(255,255,255,0.1);
+}
+
+.main {
+    flex: 1;
+    padding: 20px;
+}
+
+.section {
+    display: none;
+}
+
+.active {
+    display: block;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 15px;
+}
+
+.card {
+    background: #111827;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+    margin-top: 20px;
+}
+
+canvas {
+    background: #111827;
+    padding: 10px;
+    border-radius: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- Sidebar -->
+<div class="sidebar">
+    <h2>Disaster Analytics</h2>
+    <a onclick="showSection('overview')">Overview</a>
+    <a onclick="showSection('approach')">Approach</a>
+    <a onclick="showSection('temporal')">Temporal</a>
+    <a onclick="showSection('geographic')">Geographic</a>
+    <a onclick="showSection('incident')">Incident Type</a>
+</div>
+
+<!-- Main -->
+<div class="main">
+
+<!-- OVERVIEW -->
+<div id="overview" class="section active">
+    <h1>Overview</h1>
+
+    <div class="cards">
+        <div class="card"><h3>64,218</h3><p>Total</p></div>
+        <div class="card"><h3>50</h3><p>States</p></div>
+        <div class="card"><h3>2,410</h3><p>Events</p></div>
+        <div class="card"><h3>904</h3><p>Avg/Year</p></div>
+    </div>
+
+    <div class="grid">
+        <canvas id="overviewDonut"></canvas>
+        <canvas id="overviewBar"></canvas>
+    </div>
+</div>
+
+<!-- APPROACH -->
+<div id="approach" class="section">
+    <h1>Approach</h1>
+    <p>Data sourced from FEMA, cleaned, validated and aggregated.</p>
+</div>
+
+<!-- TEMPORAL -->
+<div id="temporal" class="section">
+    <h1>Temporal Analysis</h1>
+    <div class="grid">
+        <canvas id="trend"></canvas>
+        <canvas id="monthly"></canvas>
+    </div>
+</div>
+
+<!-- GEOGRAPHIC -->
+<div id="geographic" class="section">
+    <h1>Geographic Analysis</h1>
+    <canvas id="geoChart"></canvas>
+</div>
+
+<!-- INCIDENT -->
+<div id="incident" class="section">
+    <h1>Incident Type</h1>
+    <div class="grid">
+        <canvas id="incidentDonut"></canvas>
+        <canvas id="assist"></canvas>
+    </div>
+</div>
+
+</div>
+</div>
+
+<script>
+
+// SECTION SWITCHING
+function showSection(id){
+    document.querySelectorAll('.section').forEach(sec=>{
+        sec.classList.remove('active');
+    });
+    document.getElementById(id).classList.add('active');
+}
+
+// OVERVIEW DONUT
+new Chart(document.getElementById('overviewDonut'), {
+    type: 'doughnut',
+    data: {
+        labels: ['Storm','Flood','Fire','Hurricane'],
+        datasets: [{
+            data: [40,25,12,10],
+            backgroundColor: ['#00c3ff','#00ffcc','#ff9f43','#ff6384']
+        }]
+    }
+});
+
+// OVERVIEW BAR
+new Chart(document.getElementById('overviewBar'), {
+    type: 'bar',
+    data: {
+        labels: ['Public','Individual','Mitigation'],
+        datasets: [{
+            data: [12,8,4],
+            backgroundColor: '#22c55e'
+        }]
+    }
+});
+
+// TEMPORAL TREND
+new Chart(document.getElementById('trend'), {
+    type: 'line',
+    data: {
+        labels: ['2000','2005','2010','2015','2020','2024'],
+        datasets: [{
+            label: 'Disasters',
+            data: [2000,5000,2500,3000,10000,3500],
+            borderColor: '#00c3ff'
+        }]
+    }
+});
+
+// MONTHLY
+new Chart(document.getElementById('monthly'), {
+    type: 'line',
+    data: {
+        labels: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+        datasets: [{
+            data: [15000,3000,3500,5000,4500,4700,6000,7000,5000,6000,4000,3000],
+            borderColor: '#ff9f43'
+        }]
+    }
+});
+
+// GEOGRAPHIC
+new Chart(document.getElementById('geoChart'), {
+    type: 'bar',
+    data: {
+        labels: ['South','Midwest','West','Northeast'],
+        datasets: [{
+            data: [35000,18000,7000,5000],
+            backgroundColor: '#00c3ff'
+        }]
+    }
+});
+
+// INCIDENT DONUT
+new Chart(document.getElementById('incidentDonut'), {
+    type: 'doughnut',
+    data: {
+        labels: ['Storm','Flood','Fire','Hurricane'],
+        datasets: [{
+            data: [40,25,12,10],
+            backgroundColor: ['#00c3ff','#00ffcc','#ff9f43','#ff6384']
+        }]
+    }
+});
+
+// ASSISTANCE
+new Chart(document.getElementById('assist'), {
+    type: 'bar',
+    data: {
+        labels: ['Public','Individual','Mitigation'],
+        datasets: [{
+            data: [12,8,4],
+            backgroundColor: '#22c55e'
+        }]
+    }
+});
+
+</script>
+
+</body>
+</html>
