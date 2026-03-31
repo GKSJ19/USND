@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>US Natural Disasters — Visualization</title>
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+
+<!-- ══════════════ GLOBAL NAV ══════════════ -->
+<nav class="global-nav">
+  <div class="nav-brand">
+    <span class="nav-brand-icon">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/>
+      </svg>
+    </span>
+    <span class="nav-brand-text">DisasterViz</span>
+  </div>
+  <div class="nav-links">
+    <a href="#" class="nav-link active" onclick="showPage('home', this)">Home</a>
+    <a href="#" class="nav-link" onclick="showPage('dashboard', this)">Dashboard</a>
+    <a href="#" class="nav-link" onclick="showPage('about', this)">About</a>
+  </div>
+  <div class="nav-export-group">
+    <button class="nav-cta" onclick="showPage('dashboard', document.querySelectorAll('.nav-link')[1])">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+      Explore Data
+    </button>
+    <button class="nav-export-btn" onclick="exportCSV()">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      CSV
+    </button>
+    <button class="nav-export-btn nav-export-pdf" onclick="exportPDF()">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
+      PDF
+    </button>
+  </div>
+</nav>
+
+<!-- ══════════════ HOME PAGE ══════════════ -->
+<div id="page-home" class="page active">
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-bg">
+      <div class="hero-blob blob-1"></div>
+      <div class="hero-blob blob-2"></div>
+      <div class="hero-blob blob-3"></div>
+      <div class="hero-grid"></div>
+    </div>
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="badge-dot"></span>
+        FEMA Declarations · 1953 – 2017
+      </div>
+      <h1 class="hero-title">
+        US Natural<br>
+        <span class="hero-title-accent">Disaster</span><br>
+        Visualization
+      </h1>
+      <p class="hero-desc">
+        A comprehensive analysis of 46,185 federal disaster declarations
+        across 65 years — exploring temporal trends, geographic hotspots,
+        and incident type patterns across all 50 U.S. states.
+      </p>
+      <div class="hero-actions">
+        <button class="btn-primary" onclick="showPage('dashboard', document.querySelectorAll('.nav-link')[1])">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+          Open Dashboard
+        </button>
+        <button class="btn-secondary" onclick="showPage('about', document.querySelectorAll('.nav-link')[2])">
+          Learn More
+        </button>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="hero-stats-card">
+        <div class="hsc-row">
+          <div class="hsc-stat">
+            <div class="hsc-num">46,185</div>
+            <div class="hsc-lbl">Total Declarations</div>
+          </div>
+          <div class="hsc-stat">
+            <div class="hsc-num">65</div>
+            <div class="hsc-lbl">Years of Data</div>
+          </div>
+        </div>
+        <div class="hsc-row">
+          <div class="hsc-stat">
+            <div class="hsc-num">57</div>
+            <div class="hsc-lbl">States & Territories</div>
+          </div>
+          <div class="hsc-stat">
+            <div class="hsc-num">20</div>
+            <div class="hsc-lbl">Disaster Types</div>
+          </div>
+        </div>
+        <div class="hsc-bar-section">
+          <div class="hsc-bar-label">Declaration types</div>
+          <div class="hsc-bar-wrap">
+            <div class="hsc-bar-seg" style="width:72.8%;background:#6c63ff" title="Disaster 72.8%"></div>
+            <div class="hsc-bar-seg" style="width:24.9%;background:#06b6d4" title="Emergency 24.9%"></div>
+            <div class="hsc-bar-seg" style="width:2.3%;background:#f59e0b" title="Fire 2.3%"></div>
+          </div>
+          <div class="hsc-bar-legend">
+            <span><i style="background:#6c63ff"></i>Disaster 72.8%</span>
+            <span><i style="background:#06b6d4"></i>Emergency 24.9%</span>
+            <span><i style="background:#f59e0b"></i>Fire 2.3%</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Milestones strip -->
+  <section class="milestones">
+    <div class="ms-header">
+      <div class="ms-tag">Project Milestones</div>
+      <h2 class="ms-title">Four phases of analysis</h2>
+    </div>
+    <div class="ms-grid">
+      <div class="ms-card" onclick="showPage('dashboard', document.querySelectorAll('.nav-link')[1])">
+        <div class="ms-num">01</div>
+        <div class="ms-icon" style="background:rgba(108,99,255,0.1);color:#6c63ff">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+        </div>
+        <h3>Data Quality</h3>
+        <p>Validate and clean 46,185 FEMA records. Confirm date formats, identify missing values, and extract time features.</p>
+        <div class="ms-tag-small" style="color:#6c63ff;background:rgba(108,99,255,0.08)">M1 · Validation</div>
+      </div>
+      <div class="ms-card" onclick="showPage('dashboard', document.querySelectorAll('.nav-link')[1])">
+        <div class="ms-num">02</div>
+        <div class="ms-icon" style="background:rgba(6,182,212,0.1);color:#06b6d4">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+        </div>
+        <h3>Temporal Trends</h3>
+        <p>Yearly declarations, 5-year rolling averages, incident type trajectories, and monthly seasonality analysis.</p>
+        <div class="ms-tag-small" style="color:#06b6d4;background:rgba(6,182,212,0.08)">M2 · Temporal</div>
+      </div>
+      <div class="ms-card" onclick="showPage('dashboard', document.querySelectorAll('.nav-link')[1])">
+        <div class="ms-num">03</div>
+        <div class="ms-icon" style="background:rgba(239,68,68,0.1);color:#ef4444">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+        </div>
+        <h3>Geographic Patterns</h3>
+        <p>Choropleth maps, state-level hotspots, stacked type composition, and regional disaster clustering.</p>
+        <div class="ms-tag-small" style="color:#ef4444;background:rgba(239,68,68,0.08)">M3 · Geographic</div>
+      </div>
+      <div class="ms-card" onclick="showPage('dashboard', document.querySelectorAll('.nav-link')[1])">
+        <div class="ms-num">04</div>
+        <div class="ms-icon" style="background:rgba(245,158,11,0.1);color:#f59e0b">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>
+        </div>
+        <h3>Incident Analysis</h3>
+        <p>Disaster type frequency, IH vs PA assistance program rates, and cross-milestone insight synthesis.</p>
+        <div class="ms-tag-small" style="color:#f59e0b;background:rgba(245,158,11,0.08)">M4 · Incident</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Key findings -->
+  <section class="findings">
+    <div class="findings-header">
+      <div class="ms-tag">Key Findings</div>
+      <h2 class="ms-title">What the data reveals</h2>
+    </div>
+    <div class="findings-grid">
+      <div class="finding-card fc-large">
+        <div class="fc-icon">⚡</div>
+        <div class="fc-num">4,736</div>
+        <div class="fc-title">Peak year: 2005</div>
+        <div class="fc-desc">The year of Hurricanes Katrina, Rita, and Wilma — the most disaster declarations in a single year in U.S. history.</div>
+      </div>
+      <div class="finding-card">
+        <div class="fc-icon">🌀</div>
+        <div class="fc-num">35%</div>
+        <div class="fc-title">Storms dominate</div>
+        <div class="fc-desc">Storm declarations account for over a third of all federal disaster declarations since 1953.</div>
+      </div>
+      <div class="finding-card">
+        <div class="fc-icon">📍</div>
+        <div class="fc-num">Texas</div>
+        <div class="fc-title">Most affected state</div>
+        <div class="fc-desc">3,842 declarations — exposed to hurricanes, plains storms, and western wildfires simultaneously.</div>
+      </div>
+      <div class="finding-card">
+        <div class="fc-icon">📅</div>
+        <div class="fc-num">September</div>
+        <div class="fc-title">Busiest month</div>
+        <div class="fc-desc">8,281 declarations — 2.5× the monthly average, driven by Atlantic hurricane season peak.</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="nav-brand-icon">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/>
+          </svg>
+        </span>
+        DisasterViz
+      </div>
+      <div class="footer-links">
+        <a href="#" onclick="showPage('home', document.querySelectorAll('.nav-link')[0])">Home</a>
+        <a href="#" onclick="showPage('dashboard', document.querySelectorAll('.nav-link')[1])">Dashboard</a>
+        <a href="#" onclick="showPage('about', document.querySelectorAll('.nav-link')[2])">About</a>
+      </div>
+      <div class="footer-copy">Data source: FEMA · Built with Python, D3.js, Chart.js</div>
+    </div>
+  </footer>
+
+</div>
+
+<!-- ══════════════ DASHBOARD PAGE ══════════════ -->
+<div id="page-dashboard" class="page">
+  <div class="dash-wrapper">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-logo">
+        <span class="nav-brand-icon small">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/>
+          </svg>
+        </span>
+        <span>DisasterViz</span>
+      </div>
+      <nav class="sidebar-nav">
+        <div class="sidebar-section-label">Analysis</div>
+        <button class="sb-btn active" onclick="showTab('overview', this)">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+          Overview
+        </button>
+        <button class="sb-btn" onclick="showTab('m2', this)">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/></svg>
+          M2 · Temporal
+        </button>
+        <button class="sb-btn" onclick="showTab('m3', this)">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+          M3 · Geographic
+        </button>
+        <button class="sb-btn" onclick="showTab('m4', this)">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>
+          M4 · Incident
+        </button>
+        <div class="sidebar-section-label" style="margin-top:1.5rem">Report</div>
+        <button class="sb-btn" onclick="showTab('insights', this)">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+          Synthesis
+        </button>
+      </nav>
+      <button class="sb-back" onclick="showPage('home', document.querySelectorAll('.nav-link')[0])">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+        Back to Home
+      </button>
+    </aside>
+
+    <!-- Main content -->
+    <main class="dash-main">
+      <div class="dash-topbar">
+        <div class="dash-topbar-title" id="tab-title">Overview</div>
+        <div class="dash-topbar-meta">46,185 records · 1953–2017</div>
+      </div>
+
+      <!-- OVERVIEW -->
+      <div id="tab-overview" class="tab active">
+        <div class="metrics">
+          <div class="metric"><div class="metric-lbl">Total declarations</div><div class="metric-val">46,185</div><div class="metric-sub">1953 – 2017</div></div>
+          <div class="metric"><div class="metric-lbl">Most common type</div><div class="metric-val">Storm</div><div class="metric-sub">16,250 events · 35.2%</div></div>
+          <div class="metric"><div class="metric-lbl">Most affected state</div><div class="metric-val">Texas</div><div class="metric-sub">3,842 declarations</div></div>
+          <div class="metric"><div class="metric-lbl">Peak year</div><div class="metric-val">2005</div><div class="metric-sub">4,736 — Katrina era</div></div>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header"><div class="card-title">Disaster type distribution</div><span class="card-tag tag-m4">M4</span></div>
+            <div class="legend">
+              <span class="legend-item"><span class="legend-dot" style="background:#6c63ff"></span>Storm 35%</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#06b6d4"></span>Flood 20%</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#ef4444"></span>Hurricane 19%</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#3b82f6"></span>Snow 8%</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#f59e0b"></span>Fire 6%</span>
+            </div>
+            <div class="chart-wrap" style="height:220px"><canvas id="c-donut"></canvas></div>
+          </div>
+          <div class="card">
+            <div class="card-header"><div class="card-title">Declarations by decade</div><span class="card-tag tag-m2">M2</span></div>
+            <div class="chart-wrap" style="height:250px"><canvas id="c-decade"></canvas></div>
+            <div class="insight">Declarations rose <strong>8× from the 1980s to 2000s</strong>, driven by more extreme weather and expanded federal authority.</div>
+          </div>
+        </div>
+        <div class="card grid-full">
+          <div class="card-header"><div class="card-title">Declaration type breakdown — Disaster vs Emergency vs Fire</div><span class="card-tag tag-m1">M1</span></div>
+          <div class="chart-wrap" style="height:110px"><canvas id="c-decltype"></canvas></div>
+          <div class="insight">73% are full major disaster declarations. Emergency declarations (25%) are faster-moving responses. Fire management assistance (2%) covers wildfire suppression.</div>
+        </div>
+      </div>
+
+      <!-- M2 TEMPORAL -->
+      <div id="tab-m2" class="tab">
+        <div class="metrics">
+          <div class="metric"><div class="metric-lbl">Peak year</div><div class="metric-val">2005</div><div class="metric-sub">4,736 · Katrina era</div></div>
+          <div class="metric"><div class="metric-lbl">Busiest month</div><div class="metric-val">September</div><div class="metric-sub">8,281 declarations</div></div>
+          <div class="metric"><div class="metric-lbl">Quietest month</div><div class="metric-val">November</div><div class="metric-sub">1,341 declarations</div></div>
+          <div class="metric"><div class="metric-lbl">Yearly average</div><div class="metric-val">713</div><div class="metric-sub">across 65 years</div></div>
+        </div>
+        <div class="card grid-full">
+          <div class="card-header"><div class="card-title">Yearly declarations with 5-year rolling average (1953–2017)</div><span class="card-tag tag-m2">Step 2+5</span></div>
+          <div class="chart-wrap" style="height:270px"><canvas id="c-yearly"></canvas></div>
+          <div class="insight">Three spikes: <strong>1977</strong> (winter storms), <strong>1993</strong> (Great Midwest Flood), <strong>2005</strong> (Katrina/Rita/Wilma). Rolling average shows structural upward shift from the early 1990s.</div>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header"><div class="card-title">Incident type trends over time</div><span class="card-tag tag-m2">Step 3</span></div>
+            <div class="legend">
+              <span class="legend-item"><span class="legend-dot" style="background:#6c63ff"></span>Storm</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#06b6d4"></span>Flood</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#ef4444"></span>Hurricane</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#f59e0b"></span>Fire</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#a855f7"></span>Tornado</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#3b82f6"></span>Snow</span>
+            </div>
+            <div class="chart-wrap" style="height:250px"><canvas id="c-typetrend"></canvas></div>
+            <div class="insight">Storms surged fastest post-2000. <strong>Wildfires emerged only after 1999.</strong> Floods dominated 1960s–80s.</div>
+          </div>
+          <div class="card">
+            <div class="card-header"><div class="card-title">Seasonality — declarations by month</div><span class="card-tag tag-m2">Step 4</span></div>
+            <div class="chart-wrap" style="height:290px"><canvas id="c-monthly"></canvas></div>
+            <div class="insight"><strong>September dominates</strong> with 8,281 — 2.5× average — driven by Atlantic hurricane season peak.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- M3 GEOGRAPHIC -->
+      <div id="tab-m3" class="tab">
+        <div class="metrics">
+          <div class="metric"><div class="metric-lbl">Top state</div><div class="metric-val">Texas</div><div class="metric-sub">3,842 declarations</div></div>
+          <div class="metric"><div class="metric-lbl">Hurricane hotspot</div><div class="metric-val">N. Carolina</div><div class="metric-sub">772 hurricane events</div></div>
+          <div class="metric"><div class="metric-lbl">Flood hotspot</div><div class="metric-val">Iowa</div><div class="metric-sub">641 flood events</div></div>
+          <div class="metric"><div class="metric-lbl">Fire hotspot</div><div class="metric-val">Texas</div><div class="metric-sub">1,118 fire events</div></div>
+        </div>
+        <div class="card grid-full">
+          <div class="card-header"><div class="card-title">Choropleth — total declarations by state (hover for details)</div><span class="card-tag tag-m3">Step 4.1</span></div>
+          <div id="map-container"><div class="map-tooltip" id="map-tip"></div></div>
+          <div class="map-legend"><span>0</span><div class="map-legend-bar"></div><span>3,842</span></div>
+          <div class="insight"><strong>Texas, Missouri, Kentucky, Virginia, and Oklahoma</strong> form the top five. Gulf Coast states elevated by hurricane exposure; Plains states by storms and floods.</div>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header"><div class="card-title">Top 12 states by total declarations</div><span class="card-tag tag-m3">Step 4.2</span></div>
+            <div class="chart-wrap" style="height:460px"><canvas id="c-states"></canvas></div>
+          </div>
+          <div class="card">
+            <div class="card-header"><div class="card-title">Incident type composition — top 12 states</div><span class="card-tag tag-m3">Step 4.3</span></div>
+            <div class="legend">
+              <span class="legend-item"><span class="legend-dot" style="background:#6c63ff"></span>Storm</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#06b6d4"></span>Flood</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#ef4444"></span>Hurricane</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#3b82f6"></span>Snow</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#f59e0b"></span>Fire</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#a855f7"></span>Tornado</span>
+            </div>
+            <div class="chart-wrap" style="height:460px"><canvas id="c-stacked"></canvas></div>
+          </div>
+        </div>
+        <div class="card grid-full">
+          <div class="card-header"><div class="card-title">State × incident type heatmap</div><span class="card-tag tag-m3">Step 4.4</span></div>
+          <div class="hm-wrap" id="heatmap-container"></div>
+          <div class="insight">Texas is the only state with extreme counts across three categories: storms, hurricanes, and fire. Louisiana and N. Carolina cluster on hurricanes; Iowa on floods.</div>
+        </div>
+      </div>
+
+      <!-- M4 INCIDENT -->
+      <div id="tab-m4" class="tab">
+        <div class="metrics">
+          <div class="metric"><div class="metric-lbl">Dominant type</div><div class="metric-val">Storm</div><div class="metric-sub">35.2% of all declarations</div></div>
+          <div class="metric"><div class="metric-lbl">Highest IH rate</div><div class="metric-val">Hurricane</div><div class="metric-sub">23.9% trigger housing aid</div></div>
+          <div class="metric"><div class="metric-lbl">Highest PA rate</div><div class="metric-val">Snow</div><div class="metric-sub">99.4% trigger public aid</div></div>
+          <div class="metric"><div class="metric-lbl">Zero IH rate</div><div class="metric-val">Drought</div><div class="metric-sub">0% housing assistance</div></div>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <div class="card-header"><div class="card-title">Incident type frequency</div><span class="card-tag tag-m4">Step 2</span></div>
+            <div class="chart-wrap" style="height:300px"><canvas id="c-types"></canvas></div>
+            <div class="insight">Storms are <strong>3.5× more frequent</strong> than floods. Top 3 types account for 74% of all declarations.</div>
+          </div>
+          <div class="card">
+            <div class="card-header"><div class="card-title">IH vs PA assistance programs</div><span class="card-tag tag-m4">Step 4</span></div>
+            <div class="legend">
+              <span class="legend-item"><span class="legend-dot" style="background:#6c63ff"></span>Individuals & Households (IH)</span>
+              <span class="legend-item"><span class="legend-dot" style="background:#06b6d4"></span>Public Assistance (PA)</span>
+            </div>
+            <div class="chart-wrap" style="height:300px"><canvas id="c-assist"></canvas></div>
+            <div class="insight"><strong>PA is activated in almost every declaration.</strong> IH concentrates in hurricanes and storms where residents are displaced.</div>
+          </div>
+        </div>
+        <div class="card grid-full">
+          <div class="card-header"><div class="card-title">IH and PA activation rate by incident type (%)</div><span class="card-tag tag-m4">Step 4</span></div>
+          <div class="chart-wrap" style="height:250px"><canvas id="c-rate"></canvas></div>
+          <div class="insight">Hurricanes lead IH at <strong>~24%</strong>. PA rates are near-universal, confirming infrastructure damage triggers assistance regardless of disaster type.</div>
+        </div>
+      </div>
+
+      <!-- SYNTHESIS -->
+      <div id="tab-insights" class="tab">
+        <div class="insight-grid">
+          <div class="insight-card m1">
+            <div class="insight-num">01</div>
+            <span class="insight-badge badge-m1">Milestone 1 · Data Quality</span>
+            <h3>Dataset structure & validation</h3>
+            <p>The dataset contains <strong>46,185 federal disaster declarations</strong> spanning 1953–2017 across 57 U.S. states and territories. Date fields follow consistent MM/DD/YYYY formatting with zero missing values. Twenty disaster type categories exist; year and month were extracted for downstream analysis.</p>
+          </div>
+          <div class="insight-card m2">
+            <div class="insight-num">02</div>
+            <span class="insight-badge badge-m2">Milestone 2 · Temporal Trends</span>
+            <h3>Time patterns and seasonality</h3>
+            <p>Declarations grew from under 20/year in the 1950s to a peak of <strong>4,736 in 2005</strong>. Three spikes: 1977 (winter storms), 1993 (Great Midwest Flood), 2005 (Katrina). <strong>September dominates seasonally</strong> with 8,281 declarations driven by Atlantic hurricane season.</p>
+          </div>
+          <div class="insight-card m3">
+            <div class="insight-num">03</div>
+            <span class="insight-badge badge-m3">Milestone 3 · Geographic Patterns</span>
+            <h3>Spatial distribution and hotspots</h3>
+            <p><strong>Texas leads with 3,842 declarations</strong> — exposed to Gulf hurricanes, Plains storms, and western wildfires. Hurricane hotspots cluster along Gulf and Atlantic coasts. Flood hotspots span the Mississippi basin. Puerto Rico ranks 19th despite its small area.</p>
+          </div>
+          <div class="insight-card m4">
+            <div class="insight-num">04</div>
+            <span class="insight-badge badge-m4">Milestone 4 · Incident Analysis</span>
+            <h3>Incident types and assistance programs</h3>
+            <p>Storms account for <strong>35% of all declarations</strong>. PA is activated in nearly every event. IH assistance concentrates in <strong>hurricanes (24%) and storms (31%)</strong>. Drought and snow never trigger IH — they damage infrastructure, not homes.</p>
+          </div>
+          <div class="insight-card conclusion">
+            <div class="insight-num">∑</div>
+            <span class="insight-badge badge-fin">Unified Conclusion</span>
+            <h3>Cross-milestone synthesis</h3>
+            <p>U.S. disaster frequency has grown significantly since the 1990s, driven by <strong>storms and hurricanes</strong>. The South and Midwest bear the highest burden, with Texas and Louisiana as multi-hazard states. The Atlantic hurricane season (peak: September) creates the most concentrated annual period of declarations. <strong>Disaster risk is geographically concentrated and seasonally predictable</strong> — a strong empirical basis for targeted federal preparedness investment in the Gulf South and Central Plains during June–October.</p>
+          </div>
+        </div>
+      </div>
+
+    </main>
+  </div>
+</div>
+
+<!-- ══════════════ ABOUT PAGE ══════════════ -->
+<div id="page-about" class="page">
+  <div class="about-wrapper">
+    <div class="about-hero">
+      <div class="ms-tag">About This Project</div>
+      <h1 class="about-title">US Natural Disaster<br>Visualization Project</h1>
+      <p class="about-lead">A milestone-based academic data visualization project analyzing FEMA federal disaster declarations from 1953 to 2017 using Python and modern web technologies.</p>
+    </div>
+
+    <div class="about-grid">
+      <div class="about-card">
+        <h3>The Dataset</h3>
+        <p>The data comes from FEMA's OpenFEMA database — 46,185 federal disaster declarations spanning 65 years, covering all 50 U.S. states and several territories. Each record includes the declaration date, state, disaster type, and assistance program flags.</p>
+      </div>
+      <div class="about-card">
+        <h3>Project Structure</h3>
+        <p>The project is structured across four milestones: data quality validation (M1), temporal trend analysis (M2), geographic distribution (M3), and incident type analysis (M4). Each milestone builds on the previous.</p>
+      </div>
+      <div class="about-card">
+        <h3>Tech Stack</h3>
+        <div class="tech-list">
+          <div class="tech-item"><span class="tech-badge" style="background:rgba(108,99,255,0.1);color:#6c63ff">Python</span> Data processing — csv, json, collections, pathlib</div>
+          <div class="tech-item"><span class="tech-badge" style="background:rgba(6,182,212,0.1);color:#06b6d4">Chart.js</span> Bar, line, donut, stacked bar charts</div>
+          <div class="tech-item"><span class="tech-badge" style="background:rgba(239,68,68,0.1);color:#ef4444">D3.js</span> Choropleth map with TopoJSON topology</div>
+          <div class="tech-item"><span class="tech-badge" style="background:rgba(245,158,11,0.1);color:#f59e0b">HTML/CSS/JS</span> Vanilla frontend, no frameworks needed</div>
+        </div>
+      </div>
+      <div class="about-card">
+        <h3>Key Findings</h3>
+        <ul class="about-list">
+          <li>Storm declarations grew 8× from the 1980s to the 2000s</li>
+          <li>2005 saw 4,736 declarations — an all-time peak</li>
+          <li>Texas leads all states with 3,842 declarations</li>
+          <li>September has 2.5× more declarations than the average month</li>
+          <li>Public Assistance is activated in nearly every disaster type</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="about-milestones">
+      <h2>Milestone deliverables</h2>
+      <div class="am-table">
+        <div class="am-row am-head">
+          <div>Milestone</div><div>Focus</div><div>Visualizations</div><div>Deliverable</div>
+        </div>
+        <div class="am-row"><div><span class="ms-tag-small" style="color:#6c63ff;background:rgba(108,99,255,0.08)">M1</span></div><div>Data Quality</div><div>Validation summary</div><div>Cleaned CSV + report</div></div>
+        <div class="am-row"><div><span class="ms-tag-small" style="color:#06b6d4;background:rgba(6,182,212,0.08)">M2</span></div><div>Temporal Trends</div><div>Line charts, seasonality bar</div><div>Jupyter notebook + PDF</div></div>
+        <div class="am-row"><div><span class="ms-tag-small" style="color:#ef4444;background:rgba(239,68,68,0.08)">M3</span></div><div>Geographic</div><div>Choropleth, heatmap, stacked bar</div><div>Notebook + theory PDF</div></div>
+        <div class="am-row"><div><span class="ms-tag-small" style="color:#f59e0b;background:rgba(245,158,11,0.08)">M4</span></div><div>Incident Analysis</div><div>Frequency, IH/PA rate charts</div><div>Insights doc + theory PDF</div></div>
+      </div>
+    </div>
+
+    <div class="about-footer">
+      <button class="btn-primary" onclick="showPage('dashboard', document.querySelectorAll('.nav-link')[1])">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+        Open Dashboard
+      </button>
+      <button class="btn-secondary" onclick="showPage('home', document.querySelectorAll('.nav-link')[0])">Back to Home</button>
+    </div>
+  </div>
+</div>
+
+<!-- JS Libraries -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
+<script src="static/js/app.js"></script>
+
+<script>
+/* ── Page routing ── */
+function showPage(page, navEl) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav-link').forEach(l => l.classList.remove('active'));
+  document.getElementById('page-' + page).classList.add('active');
+  if (navEl) navEl.classList.add('active');
+  window.scrollTo(0, 0);
+  if (page === 'dashboard') showTab('overview', document.querySelector('.sb-btn'));
+}
+
+/* ── Tab routing (inside dashboard) ── */
+const TAB_TITLES = {
+  overview: 'Overview', m2: 'M2 · Temporal Trends',
+  m3: 'M3 · Geographic Distribution', m4: 'M4 · Incident Analysis',
+  insights: 'Insights Synthesis'
+};
+function showTab(id, btn) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.sb-btn').forEach(b => b.classList.remove('active'));
+  document.getElementById('tab-' + id).classList.add('active');
+  if (btn) btn.classList.add('active');
+  document.getElementById('tab-title').textContent = TAB_TITLES[id] || id;
+  if (id === 'm3') initMap(window._DATA);
+}
+</script>
+
+</body>
+</html>
