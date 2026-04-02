@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Natural Disaster Declarations — Visual Analytics Dashboard</title>
+    <meta name="description" content="Premium interactive visual analytics dashboard exploring 64 years of FEMA disaster declarations across the United States (1953–2017).">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- ══════════ PARTICLES CANVAS ══════════ -->
+<canvas id="particles"></canvas>
+
+<!-- ══════════ NAVBAR ══════════ -->
+<nav class="navbar">
+    <div class="nav-content">
+        <div class="nav-logo">🌪️ US Disaster Analytics</div>
+        <ul class="nav-links">
+            <li><a href="#overview">Overview</a></li>
+            <li><a href="#temporal">Temporal</a></li>
+            <li><a href="#geographic">Geographic</a></li>
+            <li><a href="#incidents">Incidents</a></li>
+            <li><a href="#insights">Insights</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- ══════════ HERO ══════════ -->
+<section class="hero">
+    <div class="hero-content">
+        <div class="hero-badge">📊 FEMA Dataset • 1953 – 2017 • Visual Analytics</div>
+        <h1>US Natural Disaster<br><span>Declarations</span></h1>
+        <p>A comprehensive data analytics project exploring 64 years of FEMA disaster data — revealing temporal trends, geographic hotspots, incident-type patterns, and assistance program insights across 50+ states.</p>
+        <div class="hero-cta">
+            <a href="#overview" class="btn-primary">🔍 Explore Dashboard ↓</a>
+            <a href="#insights" class="btn-outline">💡 Key Insights</a>
+        </div>
+        <div class="hero-stats">
+            <div class="hero-stat">
+                <strong>46,185</strong>
+                <span>Declarations</span>
+            </div>
+            <div class="hero-stat-divider"></div>
+            <div class="hero-stat">
+                <strong>11</strong>
+                <span>Disaster Types</span>
+            </div>
+            <div class="hero-stat-divider"></div>
+            <div class="hero-stat">
+                <strong>64</strong>
+                <span>Years</span>
+            </div>
+            <div class="hero-stat-divider"></div>
+            <div class="hero-stat">
+                <strong>50+</strong>
+                <span>States</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ══════════ OVERVIEW KPIs ══════════ -->
+<section class="section" id="overview">
+    <div class="section-header">
+        <span class="section-tag tag-overview">Dashboard</span>
+        <h2 class="section-title">Project Overview</h2>
+        <p class="section-subtitle">Key metrics from 64 years of FEMA disaster declaration data</p>
+    </div>
+
+    <div class="kpi-grid">
+        <div class="kpi-card">
+            <div class="kpi-icon">📋</div>
+            <div class="kpi-value" data-count="46185">0</div>
+            <div class="kpi-label">Total Declarations</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-icon">🗺️</div>
+            <div class="kpi-value" data-count="50" data-suffix="+">0</div>
+            <div class="kpi-label">States & Territories</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-icon">📅</div>
+            <div class="kpi-value" data-count="64">0</div>
+            <div class="kpi-label">Years of Data</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-icon">⛈️</div>
+            <div class="kpi-value" data-count="16250">0</div>
+            <div class="kpi-label">Storm Declarations</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-icon">🌊</div>
+            <div class="kpi-value" data-count="9317">0</div>
+            <div class="kpi-label">Flood Events</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-icon">🌀</div>
+            <div class="kpi-value" data-count="8764">0</div>
+            <div class="kpi-label">Hurricane Hits</div>
+        </div>
+    </div>
+
+    <!-- Timeline -->
+    <div class="timeline">
+        <div class="timeline-item">
+            <div class="timeline-dot"></div>
+            <div class="timeline-content">
+                <h4>Milestone 1</h4>
+                <p>Data Loading, Cleaning & EDA</p>
+            </div>
+        </div>
+        <div class="timeline-line"></div>
+        <div class="timeline-item">
+            <div class="timeline-dot dot-active"></div>
+            <div class="timeline-content">
+                <h4>Milestone 2</h4>
+                <p>Temporal Trend Analysis</p>
+            </div>
+        </div>
+        <div class="timeline-line"></div>
+        <div class="timeline-item">
+            <div class="timeline-dot dot-active"></div>
+            <div class="timeline-content">
+                <h4>Milestone 3</h4>
+                <p>Geographic Pattern Mapping</p>
+            </div>
+        </div>
+        <div class="timeline-line"></div>
+        <div class="timeline-item">
+            <div class="timeline-dot dot-active"></div>
+            <div class="timeline-content">
+                <h4>Milestone 4</h4>
+                <p>Incident & Assistance Analysis</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ══════════ TEMPORAL ANALYSIS ══════════ -->
+<section class="section" id="temporal">
+    <div class="section-header">
+        <span class="section-tag tag-temporal">Milestone 2</span>
+        <h2 class="section-title">📈 Temporal Trends</h2>
+        <p class="section-subtitle">How have disaster declarations evolved over 64 years? Discover yearly, seasonal, and decade-level patterns.</p>
+    </div>
+
+    <div class="chart-grid grid-2">
+        <div class="chart-card">
+            <h3>📈 Yearly Declaration Trend</h3>
+            <p class="chart-desc">Overall trend of disaster declarations from 1953 to 2017, with peak year annotated.</p>
+            <img src="../visualizations/yearly_trend.png" alt="Yearly disaster declarations trend">
+        </div>
+        <div class="chart-card">
+            <h3>📊 5-Year Rolling Average</h3>
+            <p class="chart-desc">Smoothed trend using a 5-year rolling window reveals the long-term upward trajectory.</p>
+            <img src="../visualizations/rolling_average.png" alt="5-year rolling average">
+        </div>
+    </div>
+
+    <div class="chart-grid grid-2" style="margin-top: 2rem;">
+        <div class="chart-card">
+            <h3>🔥 Top Disaster Types Over Time</h3>
+            <p class="chart-desc">Tracking how the top 5 disaster types have evolved year by year.</p>
+            <img src="../visualizations/disaster_type_trends.png" alt="Disaster type trends over time">
+        </div>
+        <div class="chart-card">
+            <h3>🏔️ Stacked Area — Disaster Composition</h3>
+            <p class="chart-desc">Stacked area view showing relative contribution of each disaster type.</p>
+            <img src="../visualizations/stacked_area_disasters.png" alt="Stacked area chart">
+        </div>
+    </div>
+
+    <div class="chart-grid grid-2" style="margin-top: 2rem;">
+        <div class="chart-card">
+            <h3>🗓️ Monthly Heatmap (Year × Month)</h3>
+            <p class="chart-desc">Heatmap revealing which months across which years had the highest disaster activity.</p>
+            <img src="../visualizations/monthly_heatmap.png" alt="Monthly heatmap">
+        </div>
+        <div class="chart-card">
+            <h3>🍂 Seasonal Distribution</h3>
+            <p class="chart-desc">Spring and Fall emerge as the busiest seasons for disaster declarations.</p>
+            <img src="../visualizations/season_distribution.png" alt="Season distribution">
+        </div>
+    </div>
+
+    <div class="chart-grid grid-2" style="margin-top: 2rem;">
+        <div class="chart-card">
+            <h3>🏛️ Declarations by Decade</h3>
+            <p class="chart-desc">Total declarations per decade shows exponential growth from the 1970s onward.</p>
+            <img src="../visualizations/decade_analysis.png" alt="Decade analysis">
+        </div>
+        <div class="chart-card">
+            <h3>📉 Year-over-Year % Change</h3>
+            <p class="chart-desc">Annual percentage change highlighting volatility in disaster declarations.</p>
+            <img src="../visualizations/yoy_change.png" alt="Year-over-year change">
+        </div>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ══════════ GEOGRAPHIC ANALYSIS ══════════ -->
+<section class="section" id="geographic">
+    <div class="section-header">
+        <span class="section-tag tag-geo">Milestone 3</span>
+        <h2 class="section-title">🗺️ Geographic Patterns</h2>
+        <p class="section-subtitle">Which states and counties are most affected by natural disasters?</p>
+    </div>
+
+    <div class="chart-grid grid-1">
+        <div class="chart-card">
+            <h3>🗺️ Choropleth Map — Total Declarations by State</h3>
+            <p class="chart-desc">Color-coded US map showing disaster declaration intensity. Darker shades indicate more declarations.</p>
+            <img src="../visualizations/choropleth_map.png" alt="Choropleth map">
+        </div>
+    </div>
+
+    <div class="chart-grid grid-2" style="margin-top: 2rem;">
+        <div class="chart-card">
+            <h3>🏅 Top 30 States</h3>
+            <p class="chart-desc">Bar chart ranking states by total disaster declarations. Texas leads by a significant margin.</p>
+            <img src="../visualizations/top30_states.png" alt="Top 30 states">
+        </div>
+        <div class="chart-card">
+            <h3>📍 Top 20 Counties</h3>
+            <p class="chart-desc">County-level analysis revealing the most disaster-prone areas in the US.</p>
+            <img src="../visualizations/top20_counties.png" alt="Top 20 counties">
+        </div>
+    </div>
+
+    <div class="chart-grid grid-2" style="margin-top: 2rem;">
+        <div class="chart-card">
+            <h3>🔥 State vs Disaster Type Heatmap</h3>
+            <p class="chart-desc">Cross-analysis of top states and disaster types, revealing which disasters dominate which regions.</p>
+            <img src="../visualizations/state_disaster_heatmap.png" alt="State disaster heatmap">
+        </div>
+        <div class="chart-card">
+            <h3>🏢 Regional Disaster Breakdown</h3>
+            <p class="chart-desc">Disaster counts aggregated by US regions — South and Midwest lead in total declarations.</p>
+            <img src="../visualizations/regional_bar.png" alt="Regional bar chart">
+        </div>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ══════════ INCIDENT ANALYSIS ══════════ -->
+<section class="section" id="incidents">
+    <div class="section-header">
+        <span class="section-tag tag-incident">Milestone 4</span>
+        <h2 class="section-title">🔍 Incident Type Analysis</h2>
+        <p class="section-subtitle">Which disaster types dominate and how do FEMA assistance programs respond?</p>
+    </div>
+
+    <div class="chart-grid grid-2">
+        <div class="chart-card">
+            <h3>📊 Disaster Type Frequency</h3>
+            <p class="chart-desc">Top 10 disaster types ranked by total declarations. Storms dominate with 35%+ of all events.</p>
+            <img src="../visualizations/top10_disaster_types.png" alt="Top 10 disaster types">
+        </div>
+        <div class="chart-card">
+            <h3>📈 Declarations Per Year</h3>
+            <p class="chart-desc">Annual count of disaster declarations showing the acceleration in recent decades.</p>
+            <img src="../visualizations/declarations_per_year.png" alt="Declarations per year">
+        </div>
+    </div>
+
+    <!-- Disaster Type Stats Table -->
+    <div class="stats-table-wrapper" style="margin-top: 2rem;">
+        <div class="chart-card">
+            <h3>📋 Top Disaster Types — Quick Facts</h3>
+            <div class="stats-table">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Rank</th>
+                            <th>Disaster Type</th>
+                            <th>Declarations</th>
+                            <th>% of Total</th>
+                            <th>Top State</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>1</td><td>⛈️ Storm</td><td>16,250</td><td>35.2%</td><td>TX</td></tr>
+                        <tr><td>2</td><td>🌊 Flood</td><td>9,317</td><td>20.2%</td><td>TX</td></tr>
+                        <tr><td>3</td><td>🌀 Hurricane</td><td>8,764</td><td>19.0%</td><td>FL</td></tr>
+                        <tr><td>4</td><td>❄️ Snow</td><td>3,565</td><td>7.7%</td><td>NY</td></tr>
+                        <tr><td>5</td><td>🔥 Fire</td><td>2,647</td><td>5.7%</td><td>CA</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ══════════ KEY INSIGHTS ══════════ -->
+<section class="section" id="insights">
+    <div class="section-header">
+        <span class="section-tag tag-insights">Cross-Milestone Synthesis</span>
+        <h2 class="section-title">💡 Key Insights</h2>
+        <p class="section-subtitle">Major findings synthesized from all 4 milestones of analysis</p>
+    </div>
+
+    <div class="insight-grid">
+        <div class="insight-card">
+            <div class="icon">📈</div>
+            <h4>Rising Disaster Frequency</h4>
+            <p>Disaster declarations increased <strong>5x</strong> from the 1950s to 2010s. The 2000s alone saw more declarations than the first 40 years combined, driven by improved reporting and climate factors.</p>
+        </div>
+        <div class="insight-card">
+            <div class="icon">⛈️</div>
+            <h4>Storm Dominance</h4>
+            <p>Storms account for <strong>35%+</strong> of all declarations, followed by floods (20%) and hurricanes (19%). These three categories represent <strong>75% of all US disasters</strong>.</p>
+        </div>
+        <div class="insight-card">
+            <div class="icon">🗺️</div>
+            <h4>Geographic Hotspots</h4>
+            <p>Texas, California, Oklahoma, New York, and Florida are the <strong>top 5 most affected states</strong>. Gulf Coast and Tornado Alley face repeated seasonal devastation.</p>
+        </div>
+        <div class="insight-card">
+            <div class="icon">🍂</div>
+            <h4>Seasonal Patterns</h4>
+            <p><strong>Spring (27%) and Fall (27%)</strong> are the busiest disaster seasons. Hurricane season (Jun–Nov) and tornado season (Mar–Jun) drive major spikes.</p>
+        </div>
+        <div class="insight-card">
+            <div class="icon">🏥</div>
+            <h4>Assistance Programs</h4>
+            <p>Public Assistance is activated in <strong>nearly all disasters</strong>, while Individual Assistance is heavily triggered by hurricanes, floods, and severe storms affecting residential areas.</p>
+        </div>
+        <div class="insight-card">
+            <div class="icon">🔄</div>
+            <h4>Regional Recurring Patterns</h4>
+            <p>States repeatedly face the <strong>same disaster types</strong> — Texas with storms, California with fires, Florida with hurricanes — highlighting the need for targeted preparedness.</p>
+        </div>
+    </div>
+
+    <!-- Tech Stack -->
+    <div class="tech-stack" style="margin-top: 3rem;">
+        <h3 style="text-align:center; color: var(--text-secondary); margin-bottom: 1.5rem;">🛠️ Technology Stack</h3>
+        <div class="tech-badges">
+            <span class="tech-badge">Python</span>
+            <span class="tech-badge">Pandas</span>
+            <span class="tech-badge">NumPy</span>
+            <span class="tech-badge">Matplotlib</span>
+            <span class="tech-badge">Seaborn</span>
+            <span class="tech-badge">Plotly</span>
+            <span class="tech-badge">Folium</span>
+            <span class="tech-badge">GeoPandas</span>
+            <span class="tech-badge">Jupyter</span>
+            <span class="tech-badge">HTML/CSS/JS</span>
+        </div>
+    </div>
+</section>
+
+<!-- ══════════ FOOTER ══════════ -->
+<footer class="footer">
+    <div class="footer-content">
+        <div class="footer-logo">🌪️ US Disaster Analytics</div>
+        <p>
+            Data Source: <a href="https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2" target="_blank">FEMA OpenData</a><br>
+            Built with Python, Pandas, Seaborn, Plotly & Folium<br>
+            <span class="footer-credits">Infosys Academic Project • March 2026</span>
+        </p>
+    </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
