@@ -15,10 +15,11 @@ The project is divided into four milestones, each addressing a specific stage of
 - Build an interactive dashboard for decision-making
 
 ---
-
+📊 Dataset Source
+- FEMA Open Data: https://www.fema.gov/openfema-data-page/disaster-declarations-summaries
  📂 Dataset
-- **Source:** FEMA Disaster Declarations Dataset
-- **File Used:** `usnd_cleaned.csv`
+The dataset used for this project is available in this repository:
+👉 [Download Dataset](./usnd_cleaned.csv)
 - Contains:
   - State
   - Incident Type
@@ -82,6 +83,8 @@ The project is divided into four milestones, each addressing a specific stage of
 
 ## 📊 Dashboard (Power BI)
 An interactive dashboard was developed to integrate all insights from the four milestones.
+Download Power BI Dashboard:
+👉 [Download PBIX File](./USND%20dashboard.pbix)
 
 ### Dashboard Features:
 - KPI Cards (Total Disasters, States, Assistance)
@@ -93,6 +96,12 @@ An interactive dashboard was developed to integrate all insights from the four m
 - Filters for dynamic exploration
 
 ---
+## 📁 Project Files
+
+- [Milestone 1 Notebook](./Milestone1.ipynb)
+- [Milestone 2 Notebook](./Milestone%202%20Shreyanka%20Y%20h.ipynb)
+- [Milestone 3 Notebook](./milestone3.ipynb)
+- [Milestone 4 Notebook](./milestone4.ipynb)
 
 ## 🧠 Key Insights (Final Conclusion)
 - Disaster occurrences are increasing over time
@@ -112,4 +121,4 @@ An interactive dashboard was developed to integrate all insights from the four m
 
 ---
 
-## 📁 Project Structure
+
