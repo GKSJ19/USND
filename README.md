@@ -16,7 +16,7 @@ The project is divided into four milestones, each addressing a specific stage of
 
 ---
 📊 Dataset Source
-- FEMA Open Data: https://www.fema.gov/openfema-data-page/disaster-declarations-summaries
+- FEMA Open Data: https://www.kaggle.com/datasets/jgalin/disaster-declaration-summaries-19532022
  📂 Dataset
 The dataset used for this project is available in this repository:
 👉 [Download Dataset](./usnd_cleaned.csv)
@@ -102,6 +102,7 @@ Download Power BI Dashboard:
 - [Milestone 2 Notebook](./Milestone%202%20Shreyanka%20Y%20h.ipynb)
 - [Milestone 3 Notebook](./milestone3.ipynb)
 - [Milestone 4 Notebook](./milestone4.ipynb)
+- Github repository link:https://github.com/GKSJ19/USND/tree/Shreyanka_YH?tab=readme-ov-file
 
 ## 🧠 Key Insights (Final Conclusion)
 - Disaster occurrences are increasing over time
